@@ -1,5 +1,641 @@
 {
   "type": "visapp",
-  "nodes": [],
-  "edges": []
+  "map": {
+
+  "title": "learn anything - web development - front end",
+  "tag": "front end development",
+  "id": 1878,
+  "map": {
+    "text": "front end",
+    "nodes": [
+      {
+        "text": "help",
+        "nodes": [],
+        "resources": [
+          {
+            "url": "https://enboard.co/frontend/",
+            "text": "front end resources",
+            "note": "",
+            "author": "",
+            "score": {
+              "up": 0,
+              "down": 0
+            }
+          },
+          {
+            "url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
+            "text": "spell book of modern webdev",
+            "category": "github",
+            "note": "",
+            "author": "",
+            "score": {
+              "up": 0,
+              "down": 0
+            }
+          }
+        ],
+        "author": ""
+      },
+      {
+        "text": "basics",
+        "note": "",
+        "nodes": [
+          {
+            "text": "HTML  ️",
+            "nodes": [
+              {
+                "text": "HTML5  ️",
+                "nodes": [],
+                "resources": [
+                  {
+                    "url": "/web-development/front-end/html/html5",
+                    "text": "HTML5  ️",
+                    "category": "mindmap",
+                    "note": "",
+                    "author": "",
+                    "score": {
+                      "up": 0,
+                      "down": 0
+                    }
+                  }
+                ],
+                "author": ""
+              }
+            ],
+            "resources": [
+              {
+                "url": "/web-development/front-end/html",
+                "text": "HTML  ️",
+                "category": "mindmap",
+                "note": "",
+                "author": "",
+                "score": {
+                  "up": 0,
+                  "down": 0
+                }
+              }
+            ],
+            "author": ""
+          },
+          {
+            "text": "javascript  ️",
+            "nodes": [
+              {
+                "text": "ES6  ️",
+                "nodes": [],
+                "resources": [
+                  {
+                    "url": "/programming/programming-languages/javascript/es6",
+                    "text": "ES6  ️",
+                    "category": "mindmap",
+                    "note": "",
+                    "author": "",
+                    "score": {
+                      "up": 0,
+                      "down": 0
+                    }
+                  }
+                ],
+                "author": ""
+              },
+              {
+                "text": "task runners",
+                "nodes": [
+                  {
+                    "text": "npm scripts",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "https://docs.npmjs.com/misc/scripts",
+                        "text": "npm scripts",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "grunt  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries/grunt",
+                        "text": "grunt  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "gulp",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "https://github.com/gulpjs/gulp",
+                        "text": "gulp",
+                        "category": "github",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  }
+                ],
+                "resources": [],
+                "author": ""
+              },
+              {
+                "text": "package manager",
+                "nodes": [
+                  {
+                    "text": "npm  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/programming/programming-languages/javascript/npm",
+                        "text": "npm  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "yarn",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "https://github.com/yarnpkg/yarn",
+                        "text": "yarn",
+                        "category": "github",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  }
+                ],
+                "resources": [],
+                "author": ""
+              },
+              {
+                "text": "frameworks",
+                "nodes": [
+                  {
+                    "text": "react  ️",
+                    "nodes": [
+                      {
+                        "text": "flux  ️",
+                        "nodes": [],
+                        "resources": [
+                          {
+                            "url": "/programming/software-development/architectural-patterns/flux",
+                            "text": "flux  ️",
+                            "category": "mindmap",
+                            "note": "",
+                            "author": "",
+                            "score": {
+                              "up": 0,
+                              "down": 0
+                            }
+                          }
+                        ],
+                        "author": ""
+                      },
+                      {
+                        "text": "redux  ️",
+                        "nodes": [],
+                        "resources": [
+                          {
+                            "url": "/web-development/javascript-libraries/redux",
+                            "text": "redux  ️",
+                            "category": "mindmap",
+                            "note": "",
+                            "author": "",
+                            "score": {
+                              "up": 0,
+                              "down": 0
+                            }
+                          }
+                        ],
+                        "author": ""
+                      }
+                    ],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries/react",
+                        "text": "react  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "inferno",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "https://github.com/infernojs/inferno",
+                        "text": "inferno",
+                        "category": "github",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "preact  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries/preact",
+                        "text": "preact  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "vue.js  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries-/vuejs",
+                        "text": "vue.js  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "angular  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries/angularjs",
+                        "text": "angular  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "ember js  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries/emberjs",
+                        "text": "ember js  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  }
+                ],
+                "resources": [],
+                "author": ""
+              },
+              {
+                "text": "testing",
+                "nodes": [
+                  {
+                    "text": "jest  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries/jest",
+                        "text": "jest  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "mocha",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "https://mochajs.org/",
+                        "text": "mocha",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "jasmine",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "https://jasmine.github.io/",
+                        "text": "jasmine",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  }
+                ],
+                "resources": [],
+                "author": ""
+              },
+              {
+                "text": "module loader/bundler",
+                "nodes": [
+                  {
+                    "text": "webpack  ️",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "/web-development/javascript-libraries/webpack",
+                        "text": "webpack  ️",
+                        "category": "mindmap",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  },
+                  {
+                    "text": "requireJS / AMD",
+                    "nodes": [],
+                    "resources": [
+                      {
+                        "url": "http://requirejs.org/",
+                        "text": "requireJS / AMD",
+                        "note": "",
+                        "author": "",
+                        "score": {
+                          "up": 0,
+                          "down": 0
+                        }
+                      }
+                    ],
+                    "author": ""
+                  }
+                ],
+                "resources": [
+                  {
+                    "url": "https://webpack.github.io/docs/loaders.html",
+                    "text": "module loader/bundler",
+                    "note": "",
+                    "author": "",
+                    "score": {
+                      "up": 0,
+                      "down": 0
+                    }
+                  }
+                ],
+                "author": ""
+              },
+              {
+                "text": "typescript  ️",
+                "nodes": [],
+                "resources": [
+                  {
+                    "url": "/programming/programming-languages/typescript",
+                    "text": "typescript  ️",
+                    "category": "mindmap",
+                    "note": "",
+                    "author": "",
+                    "score": {
+                      "up": 0,
+                      "down": 0
+                    }
+                  }
+                ],
+                "author": ""
+              },
+              {
+                "text": "web components  ️",
+                "nodes": [],
+                "resources": [
+                  {
+                    "url": "/web-development/front-end/web-components",
+                    "text": "web components  ️",
+                    "category": "mindmap",
+                    "note": "",
+                    "author": "",
+                    "score": {
+                      "up": 0,
+                      "down": 0
+                    }
+                  }
+                ],
+                "author": ""
+              }
+            ],
+            "resources": [
+              {
+                "url": "/programming/programming-languages/javascript",
+                "text": "javascript  ️",
+                "category": "mindmap",
+                "note": "",
+                "author": "",
+                "score": {
+                  "up": 0,
+                  "down": 0
+                }
+              }
+            ],
+            "author": ""
+          },
+          {
+            "text": "CSS  ️",
+            "nodes": [
+              {
+                "text": "CSS3  ️",
+                "nodes": [],
+                "resources": [
+                  {
+                    "url": "/web-development/front-end/css/css3",
+                    "text": "CSS3  ️",
+                    "category": "mindmap",
+                    "note": "",
+                    "author": "",
+                    "score": {
+                      "up": 0,
+                      "down": 0
+                    }
+                  }
+                ],
+                "author": ""
+              },
+              {
+                "text": "styled components  ️",
+                "nodes": [],
+                "resources": [
+                  {
+                    "url": "/web-development/front-end/css/styled-components",
+                    "text": "styled components  ️",
+                    "category": "mindmap",
+                    "note": "",
+                    "author": "",
+                    "score": {
+                      "up": 0,
+                      "down": 0
+                    }
+                  }
+                ],
+                "author": ""
+              }
+            ],
+            "resources": [
+              {
+                "url": "/web-development/front-end/css",
+                "text": "CSS  ️",
+                "category": "mindmap",
+                "note": "",
+                "author": "",
+                "score": {
+                  "up": 0,
+                  "down": 0
+                }
+              }
+            ],
+            "author": ""
+          }
+        ],
+        "resources": [
+          {
+            "url": "https://github.com/grab/front-end-guide",
+            "text": "1. front end guide",
+            "category": "github",
+            "note": "",
+            "author": "",
+            "score": {
+              "up": 0,
+              "down": 0
+            }
+          },
+          {
+            "url": "https://www.freecodecamp.com",
+            "text": "1. freecodecamp",
+            "category": "interactive",
+            "note": "",
+            "author": "",
+            "score": {
+              "up": 0,
+              "down": 0
+            }
+          }
+        ],
+        "author": ""
+      }
+    ],
+    "resources": [
+      {
+        "url": "https://www.reddit.com/r/Frontend/",
+        "text": "",
+        "category": "reddit",
+        "note": "",
+        "author": "",
+        "score": {
+          "up": 0,
+          "down": 0
+        }
+      },
+      {
+        "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+        "text": "awesome",
+        "category": "github",
+        "note": "",
+        "author": "",
+        "score": {
+          "up": 0,
+          "down": 0
+        }
+      },
+      {
+        "url": "http://www.wikiwand.com/en/Front-end_web_development",
+        "text": "front end",
+        "category": "wiki",
+        "note": "",
+        "author": "",
+        "score": {
+          "up": 0,
+          "down": 0
+        }
+      }
+    ],
+    "author": ""
+  }
 }
+  }
