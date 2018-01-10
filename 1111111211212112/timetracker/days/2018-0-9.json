@@ -5,13 +5,16 @@
   "day": 9,
   "entries": [
     {
-      "id": "855c4876-7ce9-43b9-85a5-804eab11a1e7",
-      "description": "Sit est suscipit sint est tempora praesentium maxime.",
-      "startTime": 1515513066884,
+      "id": "ca616932-feee-45e3-a172-ad8863d39c64",
+      "description": "Quo quam voluptas aperiam maiores.",
+      "startTime": 1515515266504,
       "tags": [
-        "client1"
+        "tag2",
+        "important",
+        "tag3",
+        "Dare, Spencer and Parker"
       ],
-      "finishTime": 1515513350345
+      "finishTime": 1515515502397
     }
   ]
 }
