@@ -5,6 +5,18 @@
   "day": 7,
   "entries": [
     {
+      "id": "a84b86e6-adb4-4824-9181-fa8656055a2c",
+      "description": "Minus cum sed.",
+      "startTime": 1515344459042,
+      "tags": [
+        "tag2",
+        "client2",
+        "tag3",
+        "important"
+      ],
+      "finishTime": 1515345192255
+    },
+    {
       "id": "e522ce6d-409a-4bef-ad07-28e9d84d8644",
       "description": "Omnis maxime dolorem harum praesentium.",
       "startTime": 1515343429309,
