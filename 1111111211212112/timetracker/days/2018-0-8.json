@@ -5,11 +5,16 @@
   "day": 8,
   "entries": [
     {
-      "id": "dec9e01d-d035-4713-9c5f-b30c4610d7c7",
-      "description": "Et quam qui.",
-      "startTime": 1515429137183,
-      "tags": [],
-      "finishTime": 1515429288302
+      "id": "3368c501-5455-41b7-8739-7fd61a6526d2",
+      "description": "Totam est quibusdam.",
+      "startTime": 1515429096687,
+      "tags": [
+        "client1",
+        "tag1",
+        "Goodwin and Sons",
+        "Greenfelder - Pollich"
+      ],
+      "finishTime": 1515429713850
     }
   ]
 }
