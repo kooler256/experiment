@@ -5,16 +5,15 @@
   "day": 8,
   "entries": [
     {
-      "id": "2b10fa2b-b14b-41a0-b4f0-20910303b7fa",
-      "description": "Excepturi omnis consequatur sit mollitia et veritatis.",
-      "startTime": 1515429464555,
+      "id": "643f02bc-245f-4b40-93ca-95f80899e403",
+      "description": "Ut accusantium esse quis sint in nemo velit.",
+      "startTime": 1515429891531,
       "tags": [
-        "Glover Inc",
-        "work",
-        "client2",
-        "tag1"
+        "Johnson, Fritsch and Dietrich",
+        "client1",
+        "work"
       ],
-      "finishTime": 1515429794684
+      "finishTime": 1515430094182
     }
   ]
 }
