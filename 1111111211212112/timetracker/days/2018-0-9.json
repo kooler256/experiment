@@ -5,11 +5,15 @@
   "day": 9,
   "entries": [
     {
-      "id": "75687afc-9fba-47d1-b6fb-ed1d9b7659ae",
-      "description": "Repudiandae eius et.",
-      "startTime": 1515515618729,
-      "tags": [],
-      "finishTime": 1515515890382
+      "id": "13968906-8efa-46f9-b4f1-3d6eac084773",
+      "description": "Deserunt et est ratione fuga sit vel soluta.",
+      "startTime": 1515517762124,
+      "tags": [
+        "tag2",
+        "O'Reilly - Adams",
+        "important"
+      ],
+      "finishTime": 1515518868257
     }
   ]
 }
