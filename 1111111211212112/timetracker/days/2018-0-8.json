@@ -5,16 +5,16 @@
   "day": 8,
   "entries": [
     {
-      "id": "3368c501-5455-41b7-8739-7fd61a6526d2",
-      "description": "Totam est quibusdam.",
-      "startTime": 1515429096687,
+      "id": "2b10fa2b-b14b-41a0-b4f0-20910303b7fa",
+      "description": "Excepturi omnis consequatur sit mollitia et veritatis.",
+      "startTime": 1515429464555,
       "tags": [
-        "client1",
-        "tag1",
-        "Goodwin and Sons",
-        "Greenfelder - Pollich"
+        "Glover Inc",
+        "work",
+        "client2",
+        "tag1"
       ],
-      "finishTime": 1515429713850
+      "finishTime": 1515429794684
     }
   ]
 }
