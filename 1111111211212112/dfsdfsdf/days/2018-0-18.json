@@ -5,11 +5,15 @@
   "day": 18,
   "entries": [
     {
-      "id": "ba35d79e-0419-496c-af37-7b0071ca7ad1",
-      "description": "Voluptas sint exercitationem eos assumenda provident dolorem corporis.",
-      "startTime": 1516233473514,
-      "tags": [],
-      "finishTime": 1516234129904
+      "id": "d168488f-ce40-46a6-8c93-1d79c8c84542",
+      "description": "Debitis saepe velit fugiat tempore.",
+      "startTime": 1516234135801,
+      "tags": [
+        "Robel, Oberbrunner and Hirthe",
+        "Harris Group",
+        "tag1"
+      ],
+      "finishTime": 1516234756097
     }
   ]
 }
