@@ -5,11 +5,14 @@
   "day": 19,
   "entries": [
     {
-      "id": "84585859-4bd2-486d-85ec-0ecfbe92fb9a",
-      "description": "Molestiae tempore possimus soluta nihil.",
-      "startTime": 1516323546911,
-      "tags": [],
-      "finishTime": 1516324272479
+      "id": "ec228cde-7d4c-474e-9575-18a75c27d99f",
+      "description": "Consequatur iste deleniti sint sunt non atque corrupti.",
+      "startTime": 1516324284567,
+      "tags": [
+        "tag2",
+        "Grant - Bode"
+      ],
+      "finishTime": 1516324701498
     }
   ]
 }
