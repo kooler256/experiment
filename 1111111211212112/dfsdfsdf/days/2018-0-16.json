@@ -5,11 +5,14 @@
   "day": 16,
   "entries": [
     {
-      "id": "39ead2ca-8baa-4165-a69c-f81856226a52",
-      "description": "Nisi consequuntur perspiciatis in consequatur voluptatibus est officiis.",
-      "startTime": 1516059975961,
-      "tags": [],
-      "finishTime": 1516060182459
+      "id": "03c9e4b0-3fa7-424b-8290-bc6e7b778be0",
+      "description": "Officiis commodi corporis.",
+      "startTime": 1516060542330,
+      "tags": [
+        "work",
+        "tag1"
+      ],
+      "finishTime": 1516060864500
     }
   ]
 }
