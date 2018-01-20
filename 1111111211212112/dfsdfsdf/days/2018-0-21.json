@@ -5,11 +5,18 @@
   "day": 21,
   "entries": [
     {
-      "id": "cb0ffd7f-2eff-4f0d-9794-897bfc76df7b",
+      "id": "be1ad97b-8217-4316-870d-19174342e90e",
       "description": "",
-      "startTime": 1516488141471,
+      "startTime": 1516488335477,
       "tags": [],
       "finishTime": null
+    },
+    {
+      "id": "cb0ffd7f-2eff-4f0d-9794-897bfc76df7b",
+      "description": "this is very cool",
+      "startTime": 1516488141471,
+      "tags": [],
+      "finishTime": 1516488332590
     },
     {
       "id": "2cae6513-f30f-4647-8c3c-f7ba9f26286d",
