@@ -5,6 +5,15 @@
   "day": 20,
   "entries": [
     {
+      "id": "1595d15c-c71a-480d-9dfa-41ff80d3d708",
+      "description": "Nulla sint natus nisi sapiente.",
+      "startTime": 1516405422341,
+      "tags": [
+        "tag3"
+      ],
+      "finishTime": 1516406174895
+    },
+    {
       "id": "01e00218-c04d-499c-ae14-743f84936693",
       "description": "Eos fugit ipsa.",
       "startTime": 1516405302140,
