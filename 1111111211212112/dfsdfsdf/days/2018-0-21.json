@@ -5,11 +5,18 @@
   "day": 21,
   "entries": [
     {
+      "id": "ab5a9245-a926-4415-be8c-4f7f5c1400e2",
+      "description": "",
+      "startTime": 1516486453743,
+      "tags": [],
+      "finishTime": null
+    },
+    {
       "id": "9b995048-8566-46ac-9b07-ab1209e9191a",
       "description": "",
       "startTime": 1516486250750,
       "tags": [],
-      "finishTime": null
+      "finishTime": 1516486446246
     },
     {
       "id": "bc52de10-f61f-424f-9b2a-a0109557a2cc",
