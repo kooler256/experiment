@@ -5,11 +5,15 @@
   "day": 19,
   "entries": [
     {
-      "id": "df68f79c-0cf7-4e6b-846c-3c3f10b79033",
-      "description": "Ullam consectetur rerum soluta consequatur consequatur non dolores.",
-      "startTime": 1516318067941,
-      "tags": [],
-      "finishTime": 1516318126740
+      "id": "8836e1ca-9307-4f8d-aff8-1fe79ba42f83",
+      "description": "Eligendi et minima distinctio soluta.",
+      "startTime": 1516316305810,
+      "tags": [
+        "tag2",
+        "Kessler - Hudson",
+        "work"
+      ],
+      "finishTime": 1516317205376
     }
   ]
 }
