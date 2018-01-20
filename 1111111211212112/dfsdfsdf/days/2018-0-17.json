@@ -5,11 +5,15 @@
   "day": 17,
   "entries": [
     {
-      "id": "7a9ded39-74f7-4888-b99d-bb72837f2ad7",
-      "description": "Dolorem ab iste.",
-      "startTime": 1516144360041,
-      "tags": [],
-      "finishTime": 1516145333585
+      "id": "a36d2ef2-3883-4847-9366-488738d2b3f9",
+      "description": "Quisquam necessitatibus est et minima eveniet dignissimos aut dolor.",
+      "startTime": 1516145737009,
+      "tags": [
+        "client2",
+        "Upton LLC",
+        "tag1"
+      ],
+      "finishTime": 1516145827050
     }
   ]
 }
