@@ -5,13 +5,16 @@
   "day": 16,
   "entries": [
     {
-      "id": "46397d8c-ddef-49e1-adca-bd2f34eb59d7",
-      "description": "Error quidem quidem voluptatum alias.",
-      "startTime": 1516058495895,
+      "id": "0943a2c6-be7a-411a-8beb-2737534ca6c4",
+      "description": "Id delectus autem est eaque dolores sed totam soluta est.",
+      "startTime": 1516059643121,
       "tags": [
-        "Upton LLC"
+        "tag1",
+        "Kessler - Hudson",
+        "Strosin Inc",
+        "client2"
       ],
-      "finishTime": 1516059456487
+      "finishTime": 1516059939586
     }
   ]
 }
