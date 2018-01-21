@@ -1,0 +1,48 @@
+{
+  "id": "day:2018-0-1",
+  "year": 2018,
+  "month": 0,
+  "day": 1,
+  "entries": [
+    {
+      "id": "c76406cf-de6e-4fd9-9afc-03ff0903bb5c",
+      "description": "Illum architecto voluptates non incidunt qui aut.",
+      "startTime": 1514765814711,
+      "tags": [
+        "Grant - Bode",
+        "Harris Group",
+        "client1",
+        "Kessler - Hudson"
+      ],
+      "finishTime": 1514766216814
+    },
+    {
+      "id": "8c806f11-6394-448a-80e9-e8c2fe714b9d",
+      "description": "Repudiandae laboriosam asperiores porro et cumque.",
+      "startTime": 1514765469286,
+      "tags": [
+        "work",
+        "Robel, Oberbrunner and Hirthe"
+      ],
+      "finishTime": 1514765654638
+    },
+    {
+      "id": "7f5109b1-a6ec-42d3-9085-e4014f907205",
+      "description": "Dignissimos autem vel.",
+      "startTime": 1514764702264,
+      "tags": [
+        "tag1",
+        "work",
+        "Kessler - Hudson"
+      ],
+      "finishTime": 1514765060043
+    },
+    {
+      "id": "631cf911-ab02-41f2-9e59-98dd850788e5",
+      "description": "Necessitatibus et temporibus ut sed est facilis provident ad dolorem.",
+      "startTime": 1514763036409,
+      "tags": [],
+      "finishTime": 1514764110553
+    }
+  ]
+}
