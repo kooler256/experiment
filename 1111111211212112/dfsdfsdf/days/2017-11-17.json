@@ -5,11 +5,16 @@
   "day": 17,
   "entries": [
     {
-      "id": "2c54557f-93b6-4a9f-b9e2-fbd81bd59246",
-      "description": "Numquam voluptatem hic ratione et ut aliquid qui ullam nemo.",
-      "startTime": 1513475469379,
-      "tags": [],
-      "finishTime": 1513475944837
+      "id": "acf04bc8-793e-42aa-a00d-716ef00dfe57",
+      "description": "Quo aliquam voluptatem quia.",
+      "startTime": 1513475956564,
+      "tags": [
+        "tag2",
+        "Leannon, Luettgen and Jakubowski",
+        "Nitzsche LLC",
+        "tag3"
+      ],
+      "finishTime": 1513476058918
     }
   ]
 }
