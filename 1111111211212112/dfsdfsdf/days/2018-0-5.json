@@ -1,0 +1,129 @@
+{
+  "id": "day:2018-0-5",
+  "year": 2018,
+  "month": 0,
+  "day": 5,
+  "entries": [
+    {
+      "id": "701cdd6f-245c-4a1c-8a10-34cb25993bfa",
+      "description": "Modi sit tenetur iste eum ullam.",
+      "startTime": 1515119366407,
+      "tags": [
+        "important"
+      ],
+      "finishTime": 1515119995109
+    },
+    {
+      "id": "507ead81-942b-4062-8536-76336eb5c5c8",
+      "description": "Distinctio impedit doloribus vel hic.",
+      "startTime": 1515119009764,
+      "tags": [
+        "Upton LLC",
+        "work"
+      ],
+      "finishTime": 1515119182852
+    },
+    {
+      "id": "ae045ec8-2161-4e3d-981c-38083cfa397b",
+      "description": "Architecto accusamus error explicabo laborum omnis voluptatibus ut distinctio.",
+      "startTime": 1515117725333,
+      "tags": [],
+      "finishTime": 1515118839156
+    },
+    {
+      "id": "0d2053a8-6b1c-497e-9967-7404c8aec91f",
+      "description": "Eius corrupti eius voluptatibus molestiae.",
+      "startTime": 1515116880331,
+      "tags": [
+        "Harris Group",
+        "tag3"
+      ],
+      "finishTime": 1515117619755
+    },
+    {
+      "id": "5cd4cf15-5e41-4004-a7c2-a46e85f91bf1",
+      "description": "Voluptas unde et neque exercitationem eius.",
+      "startTime": 1515115818615,
+      "tags": [
+        "Jast - Steuber"
+      ],
+      "finishTime": 1515116724398
+    },
+    {
+      "id": "56245d7b-bad2-458a-ae5a-517ba6bc10e7",
+      "description": "Et tempora sit facilis vero voluptatem occaecati.",
+      "startTime": 1515114672119,
+      "tags": [],
+      "finishTime": 1515115794858
+    },
+    {
+      "id": "fdedc16f-f8b5-44fd-916e-2e340463763e",
+      "description": "Hic nisi ab consequuntur eligendi veritatis iusto.",
+      "startTime": 1515113453096,
+      "tags": [
+        "work",
+        "Harris Group",
+        "Robel, Oberbrunner and Hirthe"
+      ],
+      "finishTime": 1515114078728
+    },
+    {
+      "id": "787e1eef-b829-4234-a6d2-68c7827eba77",
+      "description": "Eos non debitis non officiis qui quia dolorum.",
+      "startTime": 1515112422503,
+      "tags": [
+        "tag3",
+        "Robel, Oberbrunner and Hirthe"
+      ],
+      "finishTime": 1515113129264
+    },
+    {
+      "id": "6a993f4f-5b4a-4386-afa3-ac33b48d47db",
+      "description": "Ducimus voluptatum et nam nesciunt et quidem vel tenetur.",
+      "startTime": 1515111916500,
+      "tags": [
+        "Block - Hills",
+        "Upton LLC",
+        "Bailey LLC"
+      ],
+      "finishTime": 1515112122138
+    },
+    {
+      "id": "71369311-a502-42f2-bae5-ef055a44b0d2",
+      "description": "Et eaque ea.",
+      "startTime": 1515110872873,
+      "tags": [
+        "Kessler - Hudson",
+        "client2",
+        "important",
+        "Jast - Steuber"
+      ],
+      "finishTime": 1515111540726
+    },
+    {
+      "id": "5e7f7fc5-3ea3-47cd-99cf-b135f5a9fba4",
+      "description": "Voluptatibus voluptatum nulla voluptatem pariatur inventore nesciunt placeat eos inventore.",
+      "startTime": 1515110476691,
+      "tags": [],
+      "finishTime": 1515110543777
+    },
+    {
+      "id": "b8fb3c3b-f562-44ff-b905-e8495c1367fe",
+      "description": "Impedit porro maxime porro sit blanditiis sit quis cum perferendis.",
+      "startTime": 1515110222897,
+      "tags": [
+        "Robel, Oberbrunner and Hirthe",
+        "Strosin Inc",
+        "important"
+      ],
+      "finishTime": 1515110254672
+    },
+    {
+      "id": "e8e1fb00-5290-4690-95a6-95c849929c23",
+      "description": "Voluptatibus qui aliquid ut repellat earum.",
+      "startTime": 1515108461080,
+      "tags": [],
+      "finishTime": 1515109649375
+    }
+  ]
+}
