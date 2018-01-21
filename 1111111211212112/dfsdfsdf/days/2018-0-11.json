@@ -1,0 +1,92 @@
+{
+  "id": "day:2018-0-11",
+  "year": 2018,
+  "month": 0,
+  "day": 11,
+  "entries": [
+    {
+      "id": "2102c6ec-d0cf-41f3-8612-0e1e34f1437c",
+      "description": "Porro id sint.",
+      "startTime": 1515632152139,
+      "tags": [
+        "Bailey LLC"
+      ],
+      "finishTime": 1515632966858
+    },
+    {
+      "id": "4c484a89-611b-4579-bb46-0018afbf928e",
+      "description": "Molestias qui a.",
+      "startTime": 1515631802933,
+      "tags": [
+        "tag2",
+        "client1"
+      ],
+      "finishTime": 1515631894584
+    },
+    {
+      "id": "591a27f2-9eae-4e06-9ee8-118e3cc39b1e",
+      "description": "Vel accusantium reiciendis.",
+      "startTime": 1515630811608,
+      "tags": [
+        "client1",
+        "tag2",
+        "client2",
+        "Kessler - Hudson"
+      ],
+      "finishTime": 1515631776291
+    },
+    {
+      "id": "43e99c82-2921-4bbd-8631-63684cadee84",
+      "description": "Nam qui ea suscipit maxime debitis veniam iste beatae.",
+      "startTime": 1515629941089,
+      "tags": [
+        "client2",
+        "Block - Hills",
+        "Harris Group",
+        "client1"
+      ],
+      "finishTime": 1515630372658
+    },
+    {
+      "id": "ba5276a9-162f-47f7-9ba9-ba0cbe703b7b",
+      "description": "Veritatis voluptatem voluptas sed quos non omnis aliquid.",
+      "startTime": 1515629511541,
+      "tags": [
+        "Harris Group",
+        "Jast - Steuber",
+        "client2"
+      ],
+      "finishTime": 1515629605774
+    },
+    {
+      "id": "857f729d-5d5c-4d5f-a80e-a3f7ac10fd83",
+      "description": "Dolores iure amet totam.",
+      "startTime": 1515628769294,
+      "tags": [
+        "client2",
+        "Jast - Steuber",
+        "Kessler - Hudson",
+        "Grant - Bode"
+      ],
+      "finishTime": 1515629027240
+    },
+    {
+      "id": "90f9c5fc-0253-4677-bdf6-a0ecc5dfb905",
+      "description": "Qui debitis quia.",
+      "startTime": 1515628153045,
+      "tags": [],
+      "finishTime": 1515628517584
+    },
+    {
+      "id": "7d977772-69b8-4ebf-9578-82b05cbac0a0",
+      "description": "Consequatur cupiditate reiciendis culpa sint reiciendis eos.",
+      "startTime": 1515626511177,
+      "tags": [
+        "client1",
+        "work",
+        "Kessler - Hudson"
+      ],
+      "finishTime": 1515627704976
+    }
+  ]
+}
