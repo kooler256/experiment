@@ -1,0 +1,50 @@
+{
+  "id": "day:2018-0-6",
+  "year": 2018,
+  "month": 0,
+  "day": 6,
+  "entries": [
+    {
+      "id": "f462e407-edee-44f0-9e04-785afbfc65e7",
+      "description": "Reiciendis et ea sed provident et repudiandae eum dolorem.",
+      "startTime": 1515199368407,
+      "tags": [],
+      "finishTime": 1515200354400
+    },
+    {
+      "id": "288d91d3-d4c0-49a5-8d73-37e02ddcd8d0",
+      "description": "Mollitia minus nobis nisi totam.",
+      "startTime": 1515198521559,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1515199134941
+    },
+    {
+      "id": "e18e8bfe-595d-4007-bd37-7b2efcd3cc41",
+      "description": "Qui dolorum eligendi vero eum aliquid in.",
+      "startTime": 1515197519914,
+      "tags": [],
+      "finishTime": 1515198125556
+    },
+    {
+      "id": "71bb9687-88b9-447e-93ad-af8170e28f60",
+      "description": "Necessitatibus non odit aperiam minima explicabo expedita in.",
+      "startTime": 1515196852925,
+      "tags": [
+        "tag1"
+      ],
+      "finishTime": 1515196938148
+    },
+    {
+      "id": "6edd46ff-5c02-4874-b73f-587dd1a77f2a",
+      "description": "Dolores voluptatem officiis rerum officia ut explicabo vel omnis.",
+      "startTime": 1515195306346,
+      "tags": [
+        "tag3",
+        "work"
+      ],
+      "finishTime": 1515196352939
+    }
+  ]
+}
