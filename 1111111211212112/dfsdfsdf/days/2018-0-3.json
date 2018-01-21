@@ -1,0 +1,92 @@
+{
+  "id": "day:2018-0-3",
+  "year": 2018,
+  "month": 0,
+  "day": 3,
+  "entries": [
+    {
+      "id": "5b5cad12-8c95-44b7-8b3d-4b6ddf774297",
+      "description": "Maxime sit est vitae.",
+      "startTime": 1514944268740,
+      "tags": [
+        "Bailey LLC",
+        "Strosin Inc"
+      ],
+      "finishTime": 1514945120691
+    },
+    {
+      "id": "e592f40f-6643-42a6-899e-8e6cd91fdc16",
+      "description": "Velit iusto facere ad expedita necessitatibus accusamus.",
+      "startTime": 1514943217410,
+      "tags": [
+        "tag1"
+      ],
+      "finishTime": 1514944005377
+    },
+    {
+      "id": "ba3dad6e-462d-4cda-9090-7ea40c7ee72a",
+      "description": "Dicta cupiditate eum et qui magni et reprehenderit.",
+      "startTime": 1514942308299,
+      "tags": [
+        "Harris Group"
+      ],
+      "finishTime": 1514943161248
+    },
+    {
+      "id": "0651f38c-90bb-48c0-8038-5e721e81ed15",
+      "description": "Error et pariatur architecto corrupti eveniet similique eligendi.",
+      "startTime": 1514941218328,
+      "tags": [
+        "work",
+        "important"
+      ],
+      "finishTime": 1514942030063
+    },
+    {
+      "id": "9f64ca5e-3220-4559-8b55-e0b710db6fce",
+      "description": "Architecto pariatur incidunt atque.",
+      "startTime": 1514939767272,
+      "tags": [
+        "Robel, Oberbrunner and Hirthe",
+        "Grant - Bode",
+        "Block - Hills",
+        "Kessler - Hudson"
+      ],
+      "finishTime": 1514940869473
+    },
+    {
+      "id": "0960c59f-ad89-4808-a6c9-b1fea312516b",
+      "description": "Repudiandae quaerat natus non velit in modi.",
+      "startTime": 1514938406061,
+      "tags": [
+        "tag3",
+        "client1",
+        "Robel, Oberbrunner and Hirthe"
+      ],
+      "finishTime": 1514939287167
+    },
+    {
+      "id": "f3324281-91f2-418f-87ed-a0ce2a756f4c",
+      "description": "Perferendis minima eveniet dolores in voluptatibus.",
+      "startTime": 1514937324380,
+      "tags": [
+        "client1",
+        "Hackett Group",
+        "tag1"
+      ],
+      "finishTime": 1514937829636
+    },
+    {
+      "id": "a2d0323c-fa57-4d55-a995-1ef3cbd8982c",
+      "description": "Corrupti sed itaque rerum placeat voluptatem quisquam ut cum.",
+      "startTime": 1514936284498,
+      "tags": [
+        "client2",
+        "tag1",
+        "Harris Group",
+        "Grant - Bode"
+      ],
+      "finishTime": 1514936895226
+    }
+  ]
+}
