@@ -1,0 +1,36 @@
+{
+  "id": "day:2018-0-2",
+  "year": 2018,
+  "month": 0,
+  "day": 2,
+  "entries": [
+    {
+      "id": "66ef0913-2966-4575-af76-286ed3abe867",
+      "description": "Aut odio atque at accusamus facere.",
+      "startTime": 1514852228899,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1514853139178
+    },
+    {
+      "id": "f3f2185e-3377-468c-abf8-48b399f3555e",
+      "description": "Reiciendis dolorum expedita.",
+      "startTime": 1514851091078,
+      "tags": [
+        "Bailey LLC",
+        "tag1"
+      ],
+      "finishTime": 1514852165327
+    },
+    {
+      "id": "a4673c20-6d63-4759-b1dc-ccd6b4a4e52c",
+      "description": "Sit impedit quasi repellat et.",
+      "startTime": 1514849472037,
+      "tags": [
+        "Strosin Inc"
+      ],
+      "finishTime": 1514850500787
+    }
+  ]
+}
