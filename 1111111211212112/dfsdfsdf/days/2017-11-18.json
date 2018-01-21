@@ -5,11 +5,15 @@
   "day": 18,
   "entries": [
     {
-      "id": "e88591f0-18b2-4752-9710-83fda4c334bc",
-      "description": "Iste id fugiat.",
-      "startTime": 1513560242452,
-      "tags": [],
-      "finishTime": 1513561375499
+      "id": "12e6e757-9c43-4745-8c7a-7f59e9edb976",
+      "description": "Doloremque sapiente eum nulla quisquam id qui.",
+      "startTime": 1513561869741,
+      "tags": [
+        "Kihn, Anderson and Conn",
+        "important",
+        "tag3"
+      ],
+      "finishTime": 1513562954552
     }
   ]
 }
