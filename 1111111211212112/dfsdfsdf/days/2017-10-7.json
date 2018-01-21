@@ -5,13 +5,15 @@
   "day": 7,
   "entries": [
     {
-      "id": "563860c6-8b69-409f-bd36-484adc6cacae",
-      "description": "Omnis quas dicta quae exercitationem ipsam aut veniam omnis.",
-      "startTime": 1510024905964,
+      "id": "d90741cb-6660-41a8-a374-84f18201137c",
+      "description": "Qui voluptatem aut harum voluptatem provident officiis praesentium aut amet.",
+      "startTime": 1510026225218,
       "tags": [
-        "important"
+        "tag2",
+        "client1",
+        "Hessel, Luettgen and Kub"
       ],
-      "finishTime": 1510025777287
+      "finishTime": 1510026319740
     }
   ]
 }
