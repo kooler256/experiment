@@ -5,15 +5,163 @@
   "day": 20,
   "entries": [
     {
-      "id": "09eb1523-5bf0-4b65-b0bf-afbee652d3ee",
-      "description": "Consectetur quo excepturi esse dolor aut quia.",
-      "startTime": 1516406953204,
+      "id": "06b03b45-b06b-4008-afdc-6ea266a2b5b7",
+      "description": "Eum impedit sunt dolorem repellat ut voluptate.",
+      "startTime": 1516415722519,
       "tags": [
-        "client1",
-        "Nitzsche LLC",
-        "Goyette LLC"
+        "tag1",
+        "Strosin Inc",
+        "Upton LLC"
       ],
-      "finishTime": 1516407118596
+      "finishTime": 1516416858237
+    },
+    {
+      "id": "d5c1a726-caf3-4871-ac39-51f4d7f2bc0e",
+      "description": "Neque voluptatum iste reprehenderit molestiae nemo.",
+      "startTime": 1516415436558,
+      "tags": [],
+      "finishTime": 1516415630896
+    },
+    {
+      "id": "b87ad061-9c71-465b-80c0-d511a7462b89",
+      "description": "Dicta ratione quam suscipit numquam.",
+      "startTime": 1516414089578,
+      "tags": [],
+      "finishTime": 1516414862095
+    },
+    {
+      "id": "db33ca2e-6b73-496d-938f-46881ad47606",
+      "description": "Voluptatem deserunt modi eius.",
+      "startTime": 1516413553385,
+      "tags": [],
+      "finishTime": 1516414048037
+    },
+    {
+      "id": "4fbbb338-93ef-41bf-ba85-33f255c9ce0d",
+      "description": "Porro fugiat error rerum deleniti consequatur at quasi.",
+      "startTime": 1516412607146,
+      "tags": [
+        "Bailey LLC",
+        "Strosin Inc"
+      ],
+      "finishTime": 1516413046465
+    },
+    {
+      "id": "7e6bc0ae-143e-4580-97e7-22c48900e9af",
+      "description": "Voluptas molestiae mollitia aperiam consequatur quo ex.",
+      "startTime": 1516411024779,
+      "tags": [
+        "Robel, Oberbrunner and Hirthe"
+      ],
+      "finishTime": 1516412183882
+    },
+    {
+      "id": "065a2dbc-7597-4b62-8914-8163b15a27fd",
+      "description": "Error distinctio incidunt animi est.",
+      "startTime": 1516409677879,
+      "tags": [
+        "Bailey LLC"
+      ],
+      "finishTime": 1516410812240
+    },
+    {
+      "id": "3d123784-093d-457e-8dde-1b3f8ff818ee",
+      "description": "Veritatis odio consectetur dolorum recusandae.",
+      "startTime": 1516409281933,
+      "tags": [],
+      "finishTime": 1516409607070
+    },
+    {
+      "id": "dfaae660-f9ff-4eb3-9858-8f9e4eb842b7",
+      "description": "Iusto maxime excepturi.",
+      "startTime": 1516408771705,
+      "tags": [],
+      "finishTime": 1516409271770
+    },
+    {
+      "id": "5f0b18b2-490a-44a0-8d5b-0155e75a61c9",
+      "description": "Similique omnis voluptatum et quas sunt.",
+      "startTime": 1516407772994,
+      "tags": [
+        "Block - Hills",
+        "tag2",
+        "tag1",
+        "client2"
+      ],
+      "finishTime": 1516408588304
+    },
+    {
+      "id": "36d1f315-c045-4487-8614-0362ec5eadba",
+      "description": "Dolores et fugit reprehenderit dignissimos consequatur maxime.",
+      "startTime": 1516406624302,
+      "tags": [
+        "Robel, Oberbrunner and Hirthe",
+        "tag2",
+        "Bailey LLC"
+      ],
+      "finishTime": 1516407752799
+    },
+    {
+      "id": "1595d15c-c71a-480d-9dfa-41ff80d3d708",
+      "description": "Nulla sint natus nisi sapiente.",
+      "startTime": 1516405422341,
+      "tags": [
+        "tag3"
+      ],
+      "finishTime": 1516406174895
+    },
+    {
+      "id": "01e00218-c04d-499c-ae14-743f84936693",
+      "description": "Eos fugit ipsa.",
+      "startTime": 1516405302140,
+      "tags": [
+        "Roberts, Donnelly and Kub",
+        "Cronin Group",
+        "tag2",
+        "Schuppe, Bednar and Blick"
+      ],
+      "finishTime": 1516406415524
+    },
+    {
+      "id": "6cea6af7-2754-4c73-a5b6-077effea7eed",
+      "description": "Cum dolorem officia voluptatum nisi recusandae.",
+      "startTime": 1516404670225,
+      "tags": [
+        "important",
+        "Keebler - Greenholt",
+        "tag3"
+      ],
+      "finishTime": 1516405108818
+    },
+    {
+      "id": "7f12c2d3-e41d-4d5c-bba6-21f7c87c52f0",
+      "description": "Deserunt vero exercitationem pariatur consequatur quod veniam autem.",
+      "startTime": 1516403891455,
+      "tags": [
+        "Grant - Bode",
+        "Kessler - Hudson",
+        "Harris Group",
+        "client2"
+      ],
+      "finishTime": 1516404861131
+    },
+    {
+      "id": "507e8b69-17ec-4be7-85ef-0483ca06bc52",
+      "description": "Non dolorem facere explicabo eaque.",
+      "startTime": 1516402580039,
+      "tags": [],
+      "finishTime": 1516403642837
+    },
+    {
+      "id": "11b50570-27f0-4da3-9aa1-c732d9377fc3",
+      "description": "Est reiciendis id cumque id et quidem consequatur dolores.",
+      "startTime": 1516402516411,
+      "tags": [
+        "Stehr, Rau and Gottlieb",
+        "client1",
+        "tag1"
+      ],
+      "finishTime": 1516403690511
     }
   ]
 }
