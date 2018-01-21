@@ -1,0 +1,39 @@
+{
+  "id": "day:2018-0-12",
+  "year": 2018,
+  "month": 0,
+  "day": 12,
+  "entries": [
+    {
+      "id": "906b702a-4426-45b5-b02d-c4ed8d0d71c6",
+      "description": "Et voluptate qui vero aliquam ut ex dolorum.",
+      "startTime": 1515714831166,
+      "tags": [
+        "work",
+        "Bailey LLC"
+      ],
+      "finishTime": 1515714978979
+    },
+    {
+      "id": "2296dc92-c081-46d1-86dd-5bd5edb9ac96",
+      "description": "Iste eum praesentium.",
+      "startTime": 1515714562613,
+      "tags": [
+        "Bailey LLC",
+        "client2"
+      ],
+      "finishTime": 1515714802699
+    },
+    {
+      "id": "cc13e673-92a0-4d7a-af26-6ec30d85ae41",
+      "description": "Impedit quia quae est.",
+      "startTime": 1515713088867,
+      "tags": [
+        "work",
+        "Block - Hills",
+        "tag2"
+      ],
+      "finishTime": 1515713963664
+    }
+  ]
+}
