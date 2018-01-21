@@ -1,0 +1,88 @@
+{
+  "id": "day:2018-0-8",
+  "year": 2018,
+  "month": 0,
+  "day": 8,
+  "entries": [
+    {
+      "id": "eb54fc7c-b664-4e5b-8a61-9b4d3f495364",
+      "description": "Illo quae nisi error vel.",
+      "startTime": 1515372456097,
+      "tags": [
+        "Bailey LLC",
+        "Kessler - Hudson"
+      ],
+      "finishTime": 1515373056927
+    },
+    {
+      "id": "9fdf0550-ce1a-4316-84ac-e83b12026518",
+      "description": "Est quo cupiditate vitae nihil blanditiis doloribus itaque qui quia.",
+      "startTime": 1515371753019,
+      "tags": [
+        "Grant - Bode",
+        "tag3",
+        "client1"
+      ],
+      "finishTime": 1515372416277
+    },
+    {
+      "id": "b33733c3-570f-4f4f-9026-b2e7653f95d9",
+      "description": "Reprehenderit nihil qui omnis.",
+      "startTime": 1515370782069,
+      "tags": [
+        "Kessler - Hudson",
+        "Strosin Inc",
+        "Harris Group",
+        "tag3"
+      ],
+      "finishTime": 1515371486278
+    },
+    {
+      "id": "064a474d-3f6c-4eb3-ac3e-5bbbb520396d",
+      "description": "Sequi maiores nihil repudiandae nam et explicabo numquam repellendus.",
+      "startTime": 1515370003377,
+      "tags": [],
+      "finishTime": 1515370266028
+    },
+    {
+      "id": "b708b56c-7efb-4693-b3be-253612c9d36d",
+      "description": "Ipsa quos voluptatem voluptatibus.",
+      "startTime": 1515369049932,
+      "tags": [],
+      "finishTime": 1515369606398
+    },
+    {
+      "id": "2e6b6593-d4d7-40dc-80b3-d15fea407f0d",
+      "description": "Dolores nesciunt quia.",
+      "startTime": 1515368739965,
+      "tags": [
+        "Hackett Group",
+        "Robel, Oberbrunner and Hirthe",
+        "client1",
+        "Upton LLC"
+      ],
+      "finishTime": 1515368761606
+    },
+    {
+      "id": "5ee29003-364e-4857-bf98-25c75eee2bbf",
+      "description": "Aut perspiciatis aut.",
+      "startTime": 1515368226694,
+      "tags": [
+        "tag3",
+        "Jast - Steuber",
+        "client2"
+      ],
+      "finishTime": 1515368476326
+    },
+    {
+      "id": "c08e3bba-61d7-4d9b-be50-89c21b6a36b6",
+      "description": "Et id consequatur perferendis voluptatum nulla voluptates facere commodi.",
+      "startTime": 1515367749724,
+      "tags": [
+        "Bailey LLC",
+        "important"
+      ],
+      "finishTime": 1515368115492
+    }
+  ]
+}
