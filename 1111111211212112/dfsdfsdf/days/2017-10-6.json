@@ -1,0 +1,17 @@
+{
+  "id": "day:2017-10-6",
+  "year": 2017,
+  "month": 10,
+  "day": 6,
+  "entries": [
+    {
+      "id": "8bfcce78-4171-4e3f-af13-402f2ac55e94",
+      "description": "Aut ex sed ut.",
+      "startTime": 1509935607785,
+      "tags": [
+        "tag1"
+      ],
+      "finishTime": 1509935714989
+    }
+  ]
+}
