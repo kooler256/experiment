@@ -1,0 +1,45 @@
+{
+  "id": "day:2018-0-4",
+  "year": 2018,
+  "month": 0,
+  "day": 4,
+  "entries": [
+    {
+      "id": "a822fc76-b31a-491a-8207-fd3b802a20b2",
+      "description": "Nihil et a quod.",
+      "startTime": 1515024286076,
+      "tags": [
+        "Grant - Bode",
+        "work",
+        "important"
+      ],
+      "finishTime": 1515025026917
+    },
+    {
+      "id": "c7ccfb25-0cc1-44c5-9bab-3ad95e06d175",
+      "description": "Sint ratione omnis.",
+      "startTime": 1515023125559,
+      "tags": [
+        "Hackett Group",
+        "Harris Group"
+      ],
+      "finishTime": 1515024088432
+    },
+    {
+      "id": "dafbba41-efbd-4b4f-ab15-5b44ddca6b99",
+      "description": "Assumenda quia et.",
+      "startTime": 1515022846699,
+      "tags": [],
+      "finishTime": 1515022999530
+    },
+    {
+      "id": "0fb5defe-a6a3-4579-a1a3-2b3ac4efd97e",
+      "description": "Dolores voluptas animi repudiandae sed nobis.",
+      "startTime": 1515022290944,
+      "tags": [
+        "Block - Hills"
+      ],
+      "finishTime": 1515022824616
+    }
+  ]
+}
