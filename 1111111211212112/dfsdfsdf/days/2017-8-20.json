@@ -1,0 +1,108 @@
+{
+  "id": "day:2017-8-20",
+  "year": 2017,
+  "month": 8,
+  "day": 20,
+  "entries": [
+    {
+      "id": "8d255b17-1579-42f8-a033-419e7bb4fc23",
+      "description": "Soluta dignissimos ipsa quo porro accusantium quibusdam quo.",
+      "startTime": 1505902619771,
+      "tags": [
+        "Sawayn LLC",
+        "client2",
+        "tag1"
+      ],
+      "finishTime": 1505903766992
+    },
+    {
+      "id": "640f7250-5ea1-44f5-b730-df9b6c47bff1",
+      "description": "Repellendus consectetur dignissimos in aut sunt.",
+      "startTime": 1505902045873,
+      "tags": [
+        "Tremblay and Sons",
+        "Heaney - Gutkowski",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1505902612007
+    },
+    {
+      "id": "4f29cfa7-d50e-4ccc-a45d-67978509842c",
+      "description": "Quasi ut voluptate non.",
+      "startTime": 1505900980182,
+      "tags": [
+        "tag2",
+        "important",
+        "client1"
+      ],
+      "finishTime": 1505902000942
+    },
+    {
+      "id": "541063fa-1fee-4e55-80a8-9cc795900f0e",
+      "description": "Et alias voluptatem ut et.",
+      "startTime": 1505900878739,
+      "tags": [
+        "work"
+      ],
+      "finishTime": 1505900950352
+    },
+    {
+      "id": "37eddc04-008f-4703-896a-ee1ce03f21e7",
+      "description": "Et accusamus rerum.",
+      "startTime": 1505899712600,
+      "tags": [
+        "work",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1505900838491
+    },
+    {
+      "id": "d2237349-0a40-4346-9569-3aa827a5b8fc",
+      "description": "Tempore neque aut.",
+      "startTime": 1505898621196,
+      "tags": [
+        "important",
+        "Keebler, Hermann and Hodkiewicz",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1505899270753
+    },
+    {
+      "id": "34ba0088-9cbe-4adc-ac78-385b2dc24f89",
+      "description": "Minus accusantium et ut deleniti debitis.",
+      "startTime": 1505897702616,
+      "tags": [],
+      "finishTime": 1505898255685
+    },
+    {
+      "id": "9d9349c2-2299-4487-8ecd-adf29fc3412c",
+      "description": "Ad omnis ut nulla non.",
+      "startTime": 1505896227366,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Kiehn, Hermann and Kshlerin",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1505897168401
+    },
+    {
+      "id": "b3aed9d6-9bfc-4a0c-95af-1793e310370e",
+      "description": "Aut repellendus quia eligendi qui vero culpa impedit laborum assumenda.",
+      "startTime": 1505895018550,
+      "tags": [],
+      "finishTime": 1505895696088
+    },
+    {
+      "id": "f263885f-e23e-466c-b63c-1c4ad62070c3",
+      "description": "Eligendi mollitia facilis voluptas.",
+      "startTime": 1505894588154,
+      "tags": [
+        "tag1",
+        "client2",
+        "important",
+        "work"
+      ],
+      "finishTime": 1505895010345
+    }
+  ]
+}
