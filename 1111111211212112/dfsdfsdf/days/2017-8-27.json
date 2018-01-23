@@ -1,0 +1,125 @@
+{
+  "id": "day:2017-8-27",
+  "year": 2017,
+  "month": 8,
+  "day": 27,
+  "entries": [
+    {
+      "id": "41e29c35-ea92-4082-9a44-52622dcbd39a",
+      "description": "Accusamus rem cumque dicta.",
+      "startTime": 1506506906694,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "client1"
+      ],
+      "finishTime": 1506507805074
+    },
+    {
+      "id": "2ccfaa49-fff8-4ef8-84c3-0c9a84ec8ffb",
+      "description": "Esse voluptate et repellendus enim.",
+      "startTime": 1506506370474,
+      "tags": [
+        "work",
+        "client1",
+        "important"
+      ],
+      "finishTime": 1506506868716
+    },
+    {
+      "id": "5ce9a78d-1e86-4ac8-bc1b-e89a366d0f35",
+      "description": "Ut optio quia ut fuga debitis tenetur.",
+      "startTime": 1506505654001,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1506506248736
+    },
+    {
+      "id": "6efda1ca-0451-4fb4-8342-b283432cbbf6",
+      "description": "Fugiat aspernatur sint provident voluptatem.",
+      "startTime": 1506504530721,
+      "tags": [],
+      "finishTime": 1506505357962
+    },
+    {
+      "id": "bbb43307-599e-4e61-8e47-98de889d48e6",
+      "description": "At repudiandae ipsa repellat qui earum numquam.",
+      "startTime": 1506503997892,
+      "tags": [],
+      "finishTime": 1506504170018
+    },
+    {
+      "id": "696c228a-ea7b-4b6c-bfe8-45e2ad21f465",
+      "description": "Molestiae in quia itaque eum esse repellat ea.",
+      "startTime": 1506503271804,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "client1"
+      ],
+      "finishTime": 1506503748446
+    },
+    {
+      "id": "ec27d44e-acda-47e5-ab21-ce017be5bf5c",
+      "description": "Facere amet aut id harum necessitatibus fugit esse.",
+      "startTime": 1506502662190,
+      "tags": [
+        "tag3",
+        "client1",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1506503271120
+    },
+    {
+      "id": "d82c656a-2f3d-468a-9db0-a53791dcf0fa",
+      "description": "Laudantium officia sapiente reprehenderit.",
+      "startTime": 1506502103984,
+      "tags": [
+        "tag3",
+        "Bahringer Group",
+        "important",
+        "client1"
+      ],
+      "finishTime": 1506502508775
+    },
+    {
+      "id": "3960b71f-3abe-4f93-ac39-490652ebb6c7",
+      "description": "Vel ut aut velit laboriosam soluta nisi suscipit quis cupiditate.",
+      "startTime": 1506501304663,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1506501789180
+    },
+    {
+      "id": "48ac9f25-cb77-422b-b34d-6bd4406d6078",
+      "description": "Ut quo officia sed enim similique enim.",
+      "startTime": 1506500384748,
+      "tags": [
+        "Kerluke and Sons",
+        "Mertz, Block and Sauer",
+        "Heaney - Gutkowski",
+        "tag2"
+      ],
+      "finishTime": 1506500834056
+    },
+    {
+      "id": "85370585-cbdc-42ad-b30f-8040f68dab95",
+      "description": "Rerum aut quod molestias.",
+      "startTime": 1506499720828,
+      "tags": [],
+      "finishTime": 1506499934206
+    },
+    {
+      "id": "59cc2906-1aea-4435-bbb6-44fcead1fb46",
+      "description": "Voluptatem debitis sit sit aut.",
+      "startTime": 1506499156723,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "client2",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1506499409180
+    }
+  ]
+}
