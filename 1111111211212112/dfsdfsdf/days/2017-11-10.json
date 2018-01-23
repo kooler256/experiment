@@ -1,0 +1,38 @@
+{
+  "id": "day:2017-11-10",
+  "year": 2017,
+  "month": 11,
+  "day": 10,
+  "entries": [
+    {
+      "id": "b7583e9c-6027-4893-8df9-a0088fb8d12c",
+      "description": "Necessitatibus error praesentium nihil.",
+      "startTime": 1512894528135,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "work",
+        "important",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1512894893831
+    },
+    {
+      "id": "fb7448ae-7fc2-46c8-9e85-b395dd8c1049",
+      "description": "Est magnam id ut.",
+      "startTime": 1512894153241,
+      "tags": [],
+      "finishTime": 1512894516923
+    },
+    {
+      "id": "83a0a17f-8d9e-4c0c-b162-b2dcda38abfe",
+      "description": "Consectetur praesentium dolores similique eaque.",
+      "startTime": 1512892725403,
+      "tags": [
+        "client1",
+        "Heaney, Lockman and Klein",
+        "work"
+      ],
+      "finishTime": 1512893686872
+    }
+  ]
+}
