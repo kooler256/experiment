@@ -1,0 +1,152 @@
+{
+  "id": "day:2017-10-16",
+  "year": 2017,
+  "month": 10,
+  "day": 16,
+  "entries": [
+    {
+      "id": "b9de5f4e-7487-48dd-9d75-1674ceb11ae4",
+      "description": "Ut cumque ipsum molestias rem corporis totam sit sequi unde.",
+      "startTime": 1510830272623,
+      "tags": [
+        "tag2"
+      ],
+      "finishTime": 1510830975066
+    },
+    {
+      "id": "893b660a-4a24-4fd6-acfe-6c190fcd9ef0",
+      "description": "Facere consequatur soluta autem et facilis.",
+      "startTime": 1510829130819,
+      "tags": [
+        "tag2",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1510829735424
+    },
+    {
+      "id": "88633b47-cec1-4236-bb98-c393bf6bf1c8",
+      "description": "Explicabo harum odio illum.",
+      "startTime": 1510827819538,
+      "tags": [
+        "client1",
+        "tag1",
+        "tag3"
+      ],
+      "finishTime": 1510828791263
+    },
+    {
+      "id": "587b0f18-b029-4653-85d1-3d2408c7eef3",
+      "description": "Neque perferendis enim.",
+      "startTime": 1510827520783,
+      "tags": [],
+      "finishTime": 1510827681269
+    },
+    {
+      "id": "f8984d3a-34e8-44bc-b232-6b9de4ef076f",
+      "description": "Quia harum et.",
+      "startTime": 1510826319735,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1510827286057
+    },
+    {
+      "id": "9ea972e7-6a4e-4ac4-ab8e-dd0285e6bf49",
+      "description": "Officia labore sed vitae quas laudantium laborum est rem.",
+      "startTime": 1510825236301,
+      "tags": [
+        "Bahringer Group",
+        "Tremblay and Sons",
+        "tag1"
+      ],
+      "finishTime": 1510826266508
+    },
+    {
+      "id": "9fd33b2b-f966-423e-874f-4c0671ad6890",
+      "description": "Soluta praesentium unde ut dolorem quae aut enim provident distinctio.",
+      "startTime": 1510824861731,
+      "tags": [
+        "tag3",
+        "tag2"
+      ],
+      "finishTime": 1510825033233
+    },
+    {
+      "id": "f4270ff1-3b58-4ade-92ec-e51cbf098eb3",
+      "description": "Facere ipsum veniam.",
+      "startTime": 1510824106079,
+      "tags": [
+        "Kerluke and Sons",
+        "work"
+      ],
+      "finishTime": 1510824860389
+    },
+    {
+      "id": "cd79e4a1-2600-499a-a95b-baf1bd0c8550",
+      "description": "Harum nihil suscipit possimus dolore iusto deserunt sint placeat reiciendis.",
+      "startTime": 1510823045877,
+      "tags": [
+        "tag1",
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1510823604549
+    },
+    {
+      "id": "20b61b96-c831-416e-9d8a-4f6a659c8bf9",
+      "description": "Ad sunt repudiandae nemo doloribus laboriosam id quasi id.",
+      "startTime": 1510822330686,
+      "tags": [
+        "tag3",
+        "Sawayn LLC",
+        "client1",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1510822473480
+    },
+    {
+      "id": "8d981bf8-2d0a-4c1f-810c-7a7231b515cc",
+      "description": "Rerum officiis nihil rerum nulla quae quo at.",
+      "startTime": 1510821650533,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Heaney, Lockman and Klein",
+        "client1",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1510821814821
+    },
+    {
+      "id": "5f54bb34-587c-444d-897a-3fe5903ba059",
+      "description": "Amet aut sit.",
+      "startTime": 1510821156502,
+      "tags": [
+        "client2",
+        "Heaney, Lockman and Klein",
+        "tag2",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1510821580574
+    },
+    {
+      "id": "0f8400b0-f7d9-4301-b6b0-d4d9c67345bd",
+      "description": "Rerum repudiandae quos cum quos officiis culpa.",
+      "startTime": 1510820076095,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1510820723927
+    },
+    {
+      "id": "76e41fc8-9d81-4cd8-81bf-7330d8a22bb8",
+      "description": "Occaecati quo blanditiis et sed sed quod commodi enim.",
+      "startTime": 1510819274129,
+      "tags": [
+        "Bahringer Group",
+        "Kerluke and Sons",
+        "Mertz, Block and Sauer",
+        "work"
+      ],
+      "finishTime": 1510819965377
+    }
+  ]
+}
