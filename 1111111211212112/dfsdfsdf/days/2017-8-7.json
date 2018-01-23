@@ -1,0 +1,131 @@
+{
+  "id": "day:2017-8-7",
+  "year": 2017,
+  "month": 8,
+  "day": 7,
+  "entries": [
+    {
+      "id": "160f5baf-1109-4a75-bd32-8e3e9b595d3c",
+      "description": "Porro omnis harum neque perferendis.",
+      "startTime": 1504780370123,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Bahringer Group"
+      ],
+      "finishTime": 1504781144599
+    },
+    {
+      "id": "8979c288-7c1f-4c66-ae01-3af621583161",
+      "description": "Est architecto consequatur deserunt aliquam voluptatibus provident.",
+      "startTime": 1504779804543,
+      "tags": [
+        "important",
+        "client2"
+      ],
+      "finishTime": 1504780332228
+    },
+    {
+      "id": "5a624a54-a82e-4a28-9a55-78c37fd07fa8",
+      "description": "Id est earum id saepe et voluptatum perferendis et.",
+      "startTime": 1504778334027,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1504779483276
+    },
+    {
+      "id": "2ddc3862-cf65-4344-be57-e8a3d0690a29",
+      "description": "Sit quidem cumque.",
+      "startTime": 1504778019783,
+      "tags": [
+        "work",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1504778308280
+    },
+    {
+      "id": "b1c34b08-384d-4017-97ad-d9a221d22094",
+      "description": "Eum velit corrupti nobis possimus quo omnis nulla ea.",
+      "startTime": 1504777450177,
+      "tags": [
+        "important",
+        "tag1",
+        "work"
+      ],
+      "finishTime": 1504777818441
+    },
+    {
+      "id": "ad76c54b-71c7-4a39-9807-48811fdb5386",
+      "description": "Dolores molestiae quis.",
+      "startTime": 1504777309407,
+      "tags": [
+        "tag3",
+        "Keebler, Hermann and Hodkiewicz",
+        "important",
+        "work"
+      ],
+      "finishTime": 1504777360419
+    },
+    {
+      "id": "a40dc888-e327-42e7-a821-836577c8cbae",
+      "description": "Corrupti quisquam saepe.",
+      "startTime": 1504776706003,
+      "tags": [],
+      "finishTime": 1504776726541
+    },
+    {
+      "id": "60bed9d2-0c8d-44a1-810c-1d46112f47e1",
+      "description": "Molestias excepturi velit labore qui veritatis ut.",
+      "startTime": 1504776032682,
+      "tags": [
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1504776482894
+    },
+    {
+      "id": "188f4f29-4c3b-4982-9818-a26695b6c5c5",
+      "description": "Quia et earum tempora inventore cum quas omnis ipsa voluptatem.",
+      "startTime": 1504775294471,
+      "tags": [
+        "Heaney - Gutkowski",
+        "important"
+      ],
+      "finishTime": 1504775670824
+    },
+    {
+      "id": "7fbd6d5b-513d-495c-a0d5-68e36a556671",
+      "description": "Ullam est pariatur reprehenderit molestiae eos aliquid mollitia vero.",
+      "startTime": 1504774104181,
+      "tags": [
+        "tag1",
+        "tag3",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1504775079890
+    },
+    {
+      "id": "8a8923a4-34fb-4ad1-9d83-cb81680e3a30",
+      "description": "Soluta reprehenderit id aperiam error qui fuga.",
+      "startTime": 1504772559260,
+      "tags": [
+        "tag1",
+        "Tremblay and Sons",
+        "work",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1504773594553
+    },
+    {
+      "id": "6566396b-0d11-454a-82ce-305f01ca252f",
+      "description": "Nihil laudantium numquam fuga iusto ipsa porro molestiae voluptate.",
+      "startTime": 1504771310153,
+      "tags": [
+        "client1",
+        "Bahringer Group",
+        "tag3",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1504772311756
+    }
+  ]
+}
