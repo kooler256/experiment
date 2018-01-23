@@ -1,0 +1,76 @@
+{
+  "id": "day:2017-10-18",
+  "year": 2017,
+  "month": 10,
+  "day": 18,
+  "entries": [
+    {
+      "id": "fc274b15-f47c-447e-87ed-ea518e264000",
+      "description": "Nesciunt dolor similique earum.",
+      "startTime": 1510999086012,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "client2",
+        "work"
+      ],
+      "finishTime": 1510999851445
+    },
+    {
+      "id": "46e0608b-2691-4fbc-9199-2d8f1383c97c",
+      "description": "Inventore repudiandae et doloremque.",
+      "startTime": 1510997550755,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1510998602144
+    },
+    {
+      "id": "fec41732-ae84-48fe-ab69-45387656cbd7",
+      "description": "Mollitia consequuntur at ab blanditiis expedita consequatur enim dolor nesciunt.",
+      "startTime": 1510996532871,
+      "tags": [
+        "Tremblay and Sons",
+        "tag3"
+      ],
+      "finishTime": 1510997062295
+    },
+    {
+      "id": "f1917be1-8cea-472b-a187-869f31fd7471",
+      "description": "Nulla nihil aspernatur magnam modi.",
+      "startTime": 1510995232563,
+      "tags": [
+        "Kerluke and Sons",
+        "tag3",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1510996010487
+    },
+    {
+      "id": "48b7cc43-9e55-4202-9288-53143162e45b",
+      "description": "Hic unde earum voluptatibus reiciendis est iusto.",
+      "startTime": 1510994220466,
+      "tags": [
+        "Bahringer Group",
+        "client1"
+      ],
+      "finishTime": 1510995104972
+    },
+    {
+      "id": "5445500e-0388-4937-be50-c30316307bca",
+      "description": "Enim debitis alias autem modi voluptatem illo iste provident.",
+      "startTime": 1510993146152,
+      "tags": [],
+      "finishTime": 1510993939810
+    },
+    {
+      "id": "0b08ab4b-346f-4fd2-a2ab-7bde7093a644",
+      "description": "Similique ex iusto.",
+      "startTime": 1510991681872,
+      "tags": [
+        "work"
+      ],
+      "finishTime": 1510992716339
+    }
+  ]
+}
