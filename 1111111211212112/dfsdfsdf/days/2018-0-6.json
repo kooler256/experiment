@@ -5,46 +5,148 @@
   "day": 6,
   "entries": [
     {
-      "id": "f462e407-edee-44f0-9e04-785afbfc65e7",
-      "description": "Reiciendis et ea sed provident et repudiandae eum dolorem.",
-      "startTime": 1515199368407,
-      "tags": [],
-      "finishTime": 1515200354400
-    },
-    {
-      "id": "288d91d3-d4c0-49a5-8d73-37e02ddcd8d0",
-      "description": "Mollitia minus nobis nisi totam.",
-      "startTime": 1515198521559,
+      "id": "cb40274d-1e6d-43c7-b744-9435b73d5310",
+      "description": "Laborum ipsum rerum qui tenetur incidunt natus aut officiis quaerat.",
+      "startTime": 1515236741702,
       "tags": [
-        "client1"
+        "Mertz, Block and Sauer",
+        "tag1",
+        "Bahringer Group"
       ],
-      "finishTime": 1515199134941
+      "finishTime": 1515237411783
     },
     {
-      "id": "e18e8bfe-595d-4007-bd37-7b2efcd3cc41",
-      "description": "Qui dolorum eligendi vero eum aliquid in.",
-      "startTime": 1515197519914,
-      "tags": [],
-      "finishTime": 1515198125556
-    },
-    {
-      "id": "71bb9687-88b9-447e-93ad-af8170e28f60",
-      "description": "Necessitatibus non odit aperiam minima explicabo expedita in.",
-      "startTime": 1515196852925,
+      "id": "108f746c-7139-4976-86f4-949dff8fb0df",
+      "description": "Ex delectus ut voluptas aut.",
+      "startTime": 1515235692969,
       "tags": [
-        "tag1"
+        "Bahringer Group"
       ],
-      "finishTime": 1515196938148
+      "finishTime": 1515236239357
     },
     {
-      "id": "6edd46ff-5c02-4874-b73f-587dd1a77f2a",
-      "description": "Dolores voluptatem officiis rerum officia ut explicabo vel omnis.",
-      "startTime": 1515195306346,
+      "id": "36173d73-d0d4-4e82-afe6-6e3cb94d853a",
+      "description": "Sunt velit modi recusandae ut similique odio perspiciatis cupiditate.",
+      "startTime": 1515234725184,
+      "tags": [
+        "work",
+        "important",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1515235429325
+    },
+    {
+      "id": "87324634-9c11-41c7-8022-a3f869817bf0",
+      "description": "Quidem placeat qui alias porro nisi eum veritatis nisi officia.",
+      "startTime": 1515234061744,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Mertz, Block and Sauer",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1515234603302
+    },
+    {
+      "id": "674816d9-2fcd-48c3-a487-df55d2d558f6",
+      "description": "Ad praesentium possimus dolor inventore rerum rerum.",
+      "startTime": 1515232791575,
+      "tags": [
+        "important",
+        "Heaney, Lockman and Klein",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1515233981943
+    },
+    {
+      "id": "5200bbf8-a7e9-4487-80da-fcc264582aa4",
+      "description": "Tenetur qui culpa.",
+      "startTime": 1515231285173,
+      "tags": [
+        "Kerluke and Sons",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1515232470004
+    },
+    {
+      "id": "c650b948-bc59-4e31-adcc-e40b132f96e5",
+      "description": "Qui ut placeat sed consectetur soluta quae atque ex cumque.",
+      "startTime": 1515230996140,
       "tags": [
         "tag3",
+        "client1"
+      ],
+      "finishTime": 1515231133891
+    },
+    {
+      "id": "3ac40c55-df51-4def-817c-577ec94da833",
+      "description": "Qui natus eveniet nostrum aut.",
+      "startTime": 1515230511714,
+      "tags": [
+        "Larson - Schiller",
+        "client1",
+        "tag1",
+        "tag3"
+      ],
+      "finishTime": 1515230917017
+    },
+    {
+      "id": "8b270959-803d-4c44-9293-968ea38e19dc",
+      "description": "Quisquam vel quasi illum.",
+      "startTime": 1515230061509,
+      "tags": [
+        "important",
+        "Kiehn, Hermann and Kshlerin",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1515230418567
+    },
+    {
+      "id": "087965e8-5716-42e6-be21-7fd3aebd2747",
+      "description": "Voluptatem voluptates dolor odio.",
+      "startTime": 1515228907667,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1515229795737
+    },
+    {
+      "id": "0f36f9e2-9b4e-46a1-b07e-6d8b6a95a56d",
+      "description": "Voluptas quod vel enim quasi.",
+      "startTime": 1515227623845,
+      "tags": [
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1515228773149
+    },
+    {
+      "id": "369ed23a-d7f7-4787-acf5-35bc2810e1a7",
+      "description": "Illum cum est.",
+      "startTime": 1515227236379,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1515227571979
+    },
+    {
+      "id": "3ae414a7-9d56-46b9-8e5d-5e230773231c",
+      "description": "Ratione eum fuga.",
+      "startTime": 1515226052725,
+      "tags": [
+        "Bahringer Group",
+        "tag1",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1515227212707
+    },
+    {
+      "id": "b07a733f-ee5f-4f67-af56-fde23f11f23a",
+      "description": "Enim enim quia.",
+      "startTime": 1515225270691,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
         "work"
       ],
-      "finishTime": 1515196352939
+      "finishTime": 1515225463090
     }
   ]
 }
