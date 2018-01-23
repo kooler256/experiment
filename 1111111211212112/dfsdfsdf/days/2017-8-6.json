@@ -1,0 +1,69 @@
+{
+  "id": "day:2017-8-6",
+  "year": 2017,
+  "month": 8,
+  "day": 6,
+  "entries": [
+    {
+      "id": "9573f3fe-2e87-4817-baf1-d629d3f963c5",
+      "description": "Eius ut eligendi omnis et.",
+      "startTime": 1504689994845,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1504690558371
+    },
+    {
+      "id": "0e55474f-42b2-4279-a6dc-5bb289a62956",
+      "description": "Animi soluta soluta eos corrupti vel quia facilis molestiae iure.",
+      "startTime": 1504688791342,
+      "tags": [
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1504689508692
+    },
+    {
+      "id": "79d61d4c-99d2-44a0-9515-32dd4981d578",
+      "description": "Ut occaecati quia facere recusandae dolor natus.",
+      "startTime": 1504688161804,
+      "tags": [],
+      "finishTime": 1504688431612
+    },
+    {
+      "id": "59615135-55de-41ce-b781-6d58423dee68",
+      "description": "Quia amet et nulla magni.",
+      "startTime": 1504686796410,
+      "tags": [],
+      "finishTime": 1504687807925
+    },
+    {
+      "id": "ecdb56bc-0b41-4080-9f65-2bacd7e3a6e9",
+      "description": "Qui quia ratione commodi perferendis iusto excepturi similique.",
+      "startTime": 1504685789060,
+      "tags": [
+        "Tremblay and Sons",
+        "Larson - Schiller",
+        "tag3"
+      ],
+      "finishTime": 1504686355166
+    },
+    {
+      "id": "6e4f970b-eaea-4389-a8a0-2c7d47039db7",
+      "description": "Est et vel qui dolorem porro nesciunt quaerat excepturi velit.",
+      "startTime": 1504685471294,
+      "tags": [
+        "important",
+        "client1",
+        "Bahringer Group"
+      ],
+      "finishTime": 1504685671760
+    },
+    {
+      "id": "d9b7efa3-03db-40f8-a102-e30b8accc07b",
+      "description": "Nisi sit quidem consequatur ex est quis nesciunt ea voluptatem.",
+      "startTime": 1504684893395,
+      "tags": [],
+      "finishTime": 1504684942911
+    }
+  ]
+}
