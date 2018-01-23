@@ -5,16 +5,54 @@
   "day": 17,
   "entries": [
     {
-      "id": "acf04bc8-793e-42aa-a00d-716ef00dfe57",
-      "description": "Quo aliquam voluptatem quia.",
-      "startTime": 1513475956564,
+      "id": "78b6ca8b-58e1-4c0f-b931-b39fc9e62cd6",
+      "description": "Doloribus explicabo nemo non.",
+      "startTime": 1513500824953,
       "tags": [
-        "tag2",
-        "Leannon, Luettgen and Jakubowski",
-        "Nitzsche LLC",
-        "tag3"
+        "client2",
+        "tag3",
+        "Keebler, Hermann and Hodkiewicz"
       ],
-      "finishTime": 1513476058918
+      "finishTime": 1513501089344
+    },
+    {
+      "id": "ee9af0f4-fa20-422a-9340-b6cc7c1278e2",
+      "description": "Dolorem ullam dolorem nostrum aut est ducimus error corrupti est.",
+      "startTime": 1513499779442,
+      "tags": [
+        "work",
+        "Tremblay and Sons",
+        "Mertz, Block and Sauer",
+        "tag2"
+      ],
+      "finishTime": 1513500288044
+    },
+    {
+      "id": "02170789-6d5e-4bd3-b6c6-62e89d7f0bef",
+      "description": "Aut rerum assumenda nulla.",
+      "startTime": 1513499258573,
+      "tags": [
+        "tag2"
+      ],
+      "finishTime": 1513499413353
+    },
+    {
+      "id": "935470fe-6414-4365-8d45-fbec29ecea2a",
+      "description": "Tempore dolores omnis non vel cumque ipsam soluta.",
+      "startTime": 1513498478852,
+      "tags": [],
+      "finishTime": 1513498998858
+    },
+    {
+      "id": "8648066b-4dfb-4971-b4e2-29ac2c20406e",
+      "description": "Voluptate unde est iure eum mollitia quis dolores.",
+      "startTime": 1513497522053,
+      "tags": [
+        "Larson - Schiller",
+        "tag2",
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1513498390128
     }
   ]
 }
