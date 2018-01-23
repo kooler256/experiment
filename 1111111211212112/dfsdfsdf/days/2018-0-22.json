@@ -1,0 +1,34 @@
+{
+  "id": "day:2018-0-22",
+  "year": 2018,
+  "month": 0,
+  "day": 22,
+  "entries": [
+    {
+      "id": "bb757052-cd84-4fb6-9ca2-38886038a49f",
+      "description": "Tenetur doloremque et nobis.",
+      "startTime": 1516609665974,
+      "tags": [],
+      "finishTime": 1516610747508
+    },
+    {
+      "id": "ccb0c1ac-f758-4c00-8d92-207e11e5531a",
+      "description": "Cupiditate voluptas et sed sed quae explicabo.",
+      "startTime": 1516608956977,
+      "tags": [
+        "Heaney - Gutkowski",
+        "client1"
+      ],
+      "finishTime": 1516609126549
+    },
+    {
+      "id": "ac0ead5d-e2a3-4b61-b189-1bfa2ca982c6",
+      "description": "Ipsam modi quia.",
+      "startTime": 1516608037053,
+      "tags": [
+        "work"
+      ],
+      "finishTime": 1516608578842
+    }
+  ]
+}
