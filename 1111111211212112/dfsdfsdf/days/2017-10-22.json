@@ -1,0 +1,120 @@
+{
+  "id": "day:2017-10-22",
+  "year": 2017,
+  "month": 10,
+  "day": 22,
+  "entries": [
+    {
+      "id": "cba85d4c-5f09-46d7-9783-01c6a3bef591",
+      "description": "Consequatur nulla veniam aut id.",
+      "startTime": 1511346038512,
+      "tags": [],
+      "finishTime": 1511346093033
+    },
+    {
+      "id": "a2b50fb1-8cf1-40b5-aaab-d7f5b7424c66",
+      "description": "Eius quasi aut consequatur repellat.",
+      "startTime": 1511345495535,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Mertz, Block and Sauer",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1511345873572
+    },
+    {
+      "id": "2d782ec6-82a4-4f3c-8487-d7c7663a32b8",
+      "description": "Illum quis dolorem dicta quas provident.",
+      "startTime": 1511344636871,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1511345297903
+    },
+    {
+      "id": "e3674ce0-5047-4355-a330-7e245a105e60",
+      "description": "Aperiam commodi totam quaerat dolores voluptatem.",
+      "startTime": 1511342972439,
+      "tags": [
+        "client2",
+        "tag2",
+        "important",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1511344085893
+    },
+    {
+      "id": "9f14ea96-1601-4388-a54a-d2a751f978ff",
+      "description": "Repellendus impedit aut at.",
+      "startTime": 1511342218545,
+      "tags": [],
+      "finishTime": 1511342791650
+    },
+    {
+      "id": "9032488a-926f-441e-954e-e0b44dc834dd",
+      "description": "Fugit iure animi provident eius eligendi qui saepe.",
+      "startTime": 1511341535050,
+      "tags": [
+        "Bahringer Group",
+        "Sawayn LLC",
+        "important",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1511341979842
+    },
+    {
+      "id": "cf95c710-8402-4ea6-bd9f-f59e081f889e",
+      "description": "Possimus excepturi cupiditate quis.",
+      "startTime": 1511340055264,
+      "tags": [
+        "Larson - Schiller",
+        "Kiehn, Hermann and Kshlerin",
+        "work"
+      ],
+      "finishTime": 1511341233124
+    },
+    {
+      "id": "b28efa05-f6e2-445f-902a-541d9eca429f",
+      "description": "Unde doloribus ad id aut earum et alias nobis.",
+      "startTime": 1511339405087,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Kerluke and Sons",
+        "tag3",
+        "client2"
+      ],
+      "finishTime": 1511339869877
+    },
+    {
+      "id": "041c5f29-ff79-4272-88c0-bea6e7a93ce5",
+      "description": "Quam ad est unde aut aut molestiae sapiente.",
+      "startTime": 1511338951680,
+      "tags": [
+        "tag1",
+        "Mertz, Block and Sauer",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1511339397949
+    },
+    {
+      "id": "b843541b-8014-44d3-bbba-80bc1edc4b8d",
+      "description": "Ducimus eaque quia et.",
+      "startTime": 1511337570308,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1511338409868
+    },
+    {
+      "id": "a3a52382-2016-4f91-98d3-2772c10d5bfb",
+      "description": "Tempora eaque quidem non.",
+      "startTime": 1511337272994,
+      "tags": [
+        "Heaney - Gutkowski",
+        "client2"
+      ],
+      "finishTime": 1511337307045
+    }
+  ]
+}
