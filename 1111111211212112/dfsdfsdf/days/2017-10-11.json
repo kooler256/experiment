@@ -1,0 +1,96 @@
+{
+  "id": "day:2017-10-11",
+  "year": 2017,
+  "month": 10,
+  "day": 11,
+  "entries": [
+    {
+      "id": "64d92abf-af16-474c-932c-17e851e6efaa",
+      "description": "Et placeat eum distinctio eius eos.",
+      "startTime": 1510396128857,
+      "tags": [],
+      "finishTime": 1510396158661
+    },
+    {
+      "id": "9d8358b9-2f59-48b7-9f82-ef0fe2afc0e1",
+      "description": "Temporibus corporis rerum quia non corrupti sint est.",
+      "startTime": 1510394885671,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1510396002997
+    },
+    {
+      "id": "b584c2ea-063a-4208-a52d-1d1c83164067",
+      "description": "Enim aperiam nihil nostrum quam.",
+      "startTime": 1510393813812,
+      "tags": [
+        "Larson - Schiller",
+        "Tremblay and Sons",
+        "Bahringer Group",
+        "tag2"
+      ],
+      "finishTime": 1510394377814
+    },
+    {
+      "id": "c832eb53-da51-4261-8fbd-25d240c873dd",
+      "description": "Autem nemo aliquid facere dicta vel consequatur porro autem.",
+      "startTime": 1510392442476,
+      "tags": [],
+      "finishTime": 1510393502748
+    },
+    {
+      "id": "077b231e-ea2f-428e-864d-eebbfe479d23",
+      "description": "Ut possimus itaque consectetur error quia.",
+      "startTime": 1510391185598,
+      "tags": [
+        "Larson - Schiller",
+        "important",
+        "Bahringer Group",
+        "work"
+      ],
+      "finishTime": 1510392086913
+    },
+    {
+      "id": "ae2906f4-0186-4e31-b2cc-e48fd951eb20",
+      "description": "Et distinctio ut.",
+      "startTime": 1510390330824,
+      "tags": [
+        "client2",
+        "Heaney - Gutkowski",
+        "important"
+      ],
+      "finishTime": 1510391016867
+    },
+    {
+      "id": "ecdf9457-6721-4a54-86ba-8d378c67cef1",
+      "description": "Ea numquam dolores voluptatem et iure esse quod et.",
+      "startTime": 1510389218168,
+      "tags": [
+        "client2"
+      ],
+      "finishTime": 1510389934998
+    },
+    {
+      "id": "24c87d6a-741d-4e2f-aa62-db5da97cf3bc",
+      "description": "Incidunt accusantium numquam doloribus culpa reiciendis et sunt.",
+      "startTime": 1510388735538,
+      "tags": [
+        "Larson - Schiller",
+        "Tremblay and Sons",
+        "Kiehn, Hermann and Kshlerin",
+        "client1"
+      ],
+      "finishTime": 1510389160773
+    },
+    {
+      "id": "0d90a758-c103-45ab-9892-f797a6e82523",
+      "description": "Consequatur eius perferendis praesentium maiores nisi.",
+      "startTime": 1510387217627,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1510388375109
+    }
+  ]
+}
