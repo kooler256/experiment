@@ -1,0 +1,42 @@
+{
+  "id": "day:2017-7-26",
+  "year": 2017,
+  "month": 7,
+  "day": 26,
+  "entries": [
+    {
+      "id": "84ba32e2-8133-4193-96ee-a4b289fc67a9",
+      "description": "Debitis consequatur aut nostrum delectus corporis et minima natus.",
+      "startTime": 1503737955264,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1503738423666
+    },
+    {
+      "id": "abb40e53-b72f-4bdc-990b-32df690246e3",
+      "description": "Facilis vitae minus recusandae est ut.",
+      "startTime": 1503737495770,
+      "tags": [
+        "Kerluke and Sons",
+        "Bahringer Group",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1503737774488
+    },
+    {
+      "id": "bc9cc222-131f-44b9-8268-e0dc591f2335",
+      "description": "Laudantium ullam cum rem aut.",
+      "startTime": 1503736160398,
+      "tags": [],
+      "finishTime": 1503737307113
+    },
+    {
+      "id": "45fbe802-3546-4e6a-8c44-69ebc5570fdd",
+      "description": "Ea provident et commodi porro beatae consectetur quo in ut.",
+      "startTime": 1503734474048,
+      "tags": [],
+      "finishTime": 1503735646536
+    }
+  ]
+}
