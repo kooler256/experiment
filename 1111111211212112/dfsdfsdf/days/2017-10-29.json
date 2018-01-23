@@ -1,0 +1,64 @@
+{
+  "id": "day:2017-10-29",
+  "year": 2017,
+  "month": 10,
+  "day": 29,
+  "entries": [
+    {
+      "id": "e0b1a16b-8353-41c0-a77b-29adceac23e2",
+      "description": "Animi est quibusdam tenetur laudantium repudiandae.",
+      "startTime": 1511946163566,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "client2",
+        "important"
+      ],
+      "finishTime": 1511946172079
+    },
+    {
+      "id": "ffb9845e-1afb-48a7-ab24-1aeff95ca387",
+      "description": "Quisquam quis et recusandae accusamus occaecati autem.",
+      "startTime": 1511945830364,
+      "tags": [
+        "tag1",
+        "Kerluke and Sons",
+        "Bahringer Group"
+      ],
+      "finishTime": 1511946099389
+    },
+    {
+      "id": "8b0107fd-30f1-44c4-ad7c-3ccbf8cad6c1",
+      "description": "Laudantium eum corporis labore ab quidem corrupti nisi.",
+      "startTime": 1511944600998,
+      "tags": [],
+      "finishTime": 1511945347099
+    },
+    {
+      "id": "231f555d-a168-4a32-8f79-212e16edb357",
+      "description": "Est non delectus rerum eum voluptatem dolorem.",
+      "startTime": 1511943582999,
+      "tags": [],
+      "finishTime": 1511944424903
+    },
+    {
+      "id": "960315bc-8139-4d37-96dd-cdbd55af4770",
+      "description": "Consectetur aut at fugiat necessitatibus deleniti ut sit.",
+      "startTime": 1511943167463,
+      "tags": [
+        "client2",
+        "Mertz, Block and Sauer",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1511943378794
+    },
+    {
+      "id": "2647c57e-c44d-43e5-b280-e80e2697a796",
+      "description": "Et fugiat et aspernatur.",
+      "startTime": 1511942203977,
+      "tags": [
+        "important"
+      ],
+      "finishTime": 1511942778521
+    }
+  ]
+}
