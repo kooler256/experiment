@@ -1,0 +1,71 @@
+{
+  "id": "day:2017-7-20",
+  "year": 2017,
+  "month": 7,
+  "day": 20,
+  "entries": [
+    {
+      "id": "81d65b3a-3d5c-488f-ba94-eb296ced15fd",
+      "description": "Vero aperiam vel cum officiis quia.",
+      "startTime": 1503220718666,
+      "tags": [
+        "tag1",
+        "Heaney - Gutkowski",
+        "tag3"
+      ],
+      "finishTime": 1503220857262
+    },
+    {
+      "id": "3ce58ba0-628d-4101-be11-8c89fd676446",
+      "description": "Aliquam nemo rerum rerum.",
+      "startTime": 1503219956616,
+      "tags": [],
+      "finishTime": 1503220504170
+    },
+    {
+      "id": "cd735aa9-168b-4f48-8511-398e7bcdf2be",
+      "description": "Rerum in architecto.",
+      "startTime": 1503218496913,
+      "tags": [
+        "Larson - Schiller",
+        "Tremblay and Sons",
+        "tag1"
+      ],
+      "finishTime": 1503219384605
+    },
+    {
+      "id": "05724ef1-5159-49ab-9028-723561f22e26",
+      "description": "Aspernatur alias qui repudiandae totam eveniet voluptatum exercitationem.",
+      "startTime": 1503217153316,
+      "tags": [
+        "Heaney - Gutkowski",
+        "tag2",
+        "Larson - Schiller",
+        "client1"
+      ],
+      "finishTime": 1503217969278
+    },
+    {
+      "id": "796ff71f-2b1e-46d9-838a-140d52822294",
+      "description": "Quaerat suscipit itaque earum.",
+      "startTime": 1503216195739,
+      "tags": [
+        "Bahringer Group",
+        "tag2"
+      ],
+      "finishTime": 1503216921979
+    },
+    {
+      "id": "bbfc9575-5ba7-4618-bae7-ea181483258a",
+      "description": "Eum impedit totam saepe est quae voluptates et.",
+      "startTime": 1503215970395,
+      "tags": [
+        "tag2",
+        "Kiehn, Hermann and Kshlerin",
+        "tag1",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1503215972416
+    }
+  ]
+}
