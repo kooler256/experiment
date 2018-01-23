@@ -1,0 +1,123 @@
+{
+  "id": "day:2017-8-14",
+  "year": 2017,
+  "month": 8,
+  "day": 14,
+  "entries": [
+    {
+      "id": "a2a56aef-9a5d-417e-85b7-d2e8557b108f",
+      "description": "At non voluptas.",
+      "startTime": 1505383381043,
+      "tags": [
+        "tag2",
+        "tag1",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1505384563976
+    },
+    {
+      "id": "33d2fb2a-41c3-4bf6-9c3f-edbe6887c6f6",
+      "description": "Veritatis repudiandae repudiandae voluptas in dicta quia illo.",
+      "startTime": 1505382813609,
+      "tags": [
+        "tag2"
+      ],
+      "finishTime": 1505383339557
+    },
+    {
+      "id": "55d55b6f-66d9-42f2-bfba-a4ab8390445e",
+      "description": "Suscipit inventore autem assumenda quia ducimus distinctio.",
+      "startTime": 1505381466153,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1505382406084
+    },
+    {
+      "id": "a4302fa0-bb0e-4352-b8df-eab8c38b96ec",
+      "description": "Facilis at cum tenetur quisquam ab ducimus id.",
+      "startTime": 1505381269614,
+      "tags": [],
+      "finishTime": 1505381336018
+    },
+    {
+      "id": "d761ab40-dcaa-4c1e-ba2d-fd86db889c10",
+      "description": "Sunt culpa ipsam.",
+      "startTime": 1505380099032,
+      "tags": [
+        "client1",
+        "Keebler, Hermann and Hodkiewicz",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1505380761329
+    },
+    {
+      "id": "ad32f40c-69d2-42bd-ba77-48984312371a",
+      "description": "Possimus facilis ea aut architecto.",
+      "startTime": 1505379195566,
+      "tags": [
+        "tag1",
+        "Larson - Schiller",
+        "client2",
+        "tag2"
+      ],
+      "finishTime": 1505380031660
+    },
+    {
+      "id": "7908424b-c3c6-4d30-8131-6d099ff53da6",
+      "description": "Placeat est exercitationem aliquam qui quia voluptatem.",
+      "startTime": 1505378935687,
+      "tags": [
+        "Larson - Schiller",
+        "tag3",
+        "tag1"
+      ],
+      "finishTime": 1505379133655
+    },
+    {
+      "id": "7634dece-5ba3-41d1-ae5b-6bd3e6eebe6e",
+      "description": "Quos harum molestiae praesentium iste architecto expedita ut.",
+      "startTime": 1505378173236,
+      "tags": [
+        "work",
+        "Sawayn LLC",
+        "important"
+      ],
+      "finishTime": 1505378463781
+    },
+    {
+      "id": "35c6461a-8194-4059-9da6-098848c7d4b3",
+      "description": "Numquam quaerat occaecati facilis expedita ut autem.",
+      "startTime": 1505377117424,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1505377865555
+    },
+    {
+      "id": "b8d6f0f4-7c3f-4d8e-b134-4caeaf061d1a",
+      "description": "Quia quibusdam eveniet veniam facilis labore.",
+      "startTime": 1505376527860,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "work",
+        "important"
+      ],
+      "finishTime": 1505376682760
+    },
+    {
+      "id": "5c73487d-e620-4a38-bb77-5a71139bf4bc",
+      "description": "Cupiditate repellendus similique iusto aut fugit.",
+      "startTime": 1505375720329,
+      "tags": [
+        "Bahringer Group",
+        "tag1",
+        "Sawayn LLC",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1505375935376
+    }
+  ]
+}
