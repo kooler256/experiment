@@ -1,0 +1,31 @@
+{
+  "id": "day:2017-8-22",
+  "year": 2017,
+  "month": 8,
+  "day": 22,
+  "entries": [
+    {
+      "id": "0142305a-58d2-4553-acd9-3fcdb690489c",
+      "description": "Qui architecto minus.",
+      "startTime": 1506069518981,
+      "tags": [],
+      "finishTime": 1506070445194
+    },
+    {
+      "id": "54014f03-3996-42da-9894-77b5717a74a7",
+      "description": "Nisi dicta quod.",
+      "startTime": 1506068172455,
+      "tags": [],
+      "finishTime": 1506069332349
+    },
+    {
+      "id": "ef675083-4c04-4ea0-969c-755ff22334c6",
+      "description": "Necessitatibus tempora rerum ut.",
+      "startTime": 1506067185524,
+      "tags": [
+        "work"
+      ],
+      "finishTime": 1506067878372
+    }
+  ]
+}
