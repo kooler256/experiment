@@ -5,101 +5,43 @@
   "day": 21,
   "entries": [
     {
-      "id": "be1ad97b-8217-4316-870d-19174342e90e",
-      "description": "",
-      "startTime": 1516488335477,
-      "tags": [],
-      "finishTime": null
-    },
-    {
-      "id": "cb0ffd7f-2eff-4f0d-9794-897bfc76df7b",
-      "description": "this is very cool",
-      "startTime": 1516488141471,
-      "tags": [],
-      "finishTime": 1516488332590
-    },
-    {
-      "id": "2cae6513-f30f-4647-8c3c-f7ba9f26286d",
-      "description": "current",
-      "startTime": 1516488113553,
-      "tags": [],
-      "finishTime": 1516488130784
-    },
-    {
-      "id": "543906d0-616b-4f52-93bf-8c7c67eb98bb",
-      "description": "",
-      "startTime": 1516488046060,
-      "tags": [],
-      "finishTime": 1516488112556
-    },
-    {
-      "id": "2ec6b499-dc5f-4619-925c-0fdc2e009a36",
-      "description": "",
-      "startTime": 1516487870010,
-      "tags": [],
-      "finishTime": 1516488044205
-    },
-    {
-      "id": "f9019569-67b7-4e8f-8eb6-b2f5fa67a002",
-      "description": "",
-      "startTime": 1516487473887,
-      "tags": [],
-      "finishTime": 1516487842833
-    },
-    {
-      "id": "a88f46c9-3087-4474-9aa4-25f8821c8838",
-      "description": "",
-      "startTime": 1516486986761,
-      "tags": [],
-      "finishTime": 1516487471138
-    },
-    {
-      "id": "d9b662c0-f151-40ef-830d-e4dba2d311f2",
-      "description": "",
-      "startTime": 1516486595517,
-      "tags": [],
-      "finishTime": 1516486984691
-    },
-    {
-      "id": "ab5a9245-a926-4415-be8c-4f7f5c1400e2",
-      "description": "heelo",
-      "startTime": 1516486453743,
+      "id": "87a07828-384a-41f3-8970-875bfcc7146a",
+      "description": "Eum reiciendis aperiam qui et omnis.",
+      "startTime": 1516524749247,
       "tags": [
-        "my tag",
-        "oterh"
+        "important"
       ],
-      "finishTime": 1516486594293
+      "finishTime": 1516525045374
     },
     {
-      "id": "9b995048-8566-46ac-9b07-ab1209e9191a",
-      "description": "cpp",
-      "startTime": 1516486250750,
+      "id": "95d77acf-3371-4118-b0ea-8d89bf2759b5",
+      "description": "Ab quis atque quia vel quas ut qui autem.",
+      "startTime": 1516523713217,
       "tags": [
-        "hi",
-        "hello"
+        "Larson - Schiller"
       ],
-      "finishTime": 1516486446246
+      "finishTime": 1516524501666
     },
     {
-      "id": "bc52de10-f61f-424f-9b2a-a0109557a2cc",
-      "description": "",
-      "startTime": 1516485782295,
-      "tags": [],
-      "finishTime": 1516486226519
+      "id": "cada575c-5ce5-4384-9cff-67e6c1c75466",
+      "description": "Dolor quos ut praesentium assumenda sapiente occaecati et aut.",
+      "startTime": 1516522578615,
+      "tags": [
+        "client1",
+        "Sawayn LLC",
+        "important"
+      ],
+      "finishTime": 1516523354892
     },
     {
-      "id": "ebf42507-21bf-4ca0-b794-590558addb24",
-      "description": "",
-      "startTime": 1516485587883,
-      "tags": [],
-      "finishTime": 1516485776662
-    },
-    {
-      "id": "9a359621-067f-43be-aea0-405888ccef91",
-      "description": "",
-      "startTime": 1516485209302,
-      "tags": [],
-      "finishTime": 1516485581899
+      "id": "681f77d2-1b8a-4918-bcb0-a928d8b616a3",
+      "description": "Sunt incidunt incidunt quis quia voluptas.",
+      "startTime": 1516521604665,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1516521987482
     }
   ]
 }
