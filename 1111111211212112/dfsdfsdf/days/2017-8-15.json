@@ -1,0 +1,69 @@
+{
+  "id": "day:2017-8-15",
+  "year": 2017,
+  "month": 8,
+  "day": 15,
+  "entries": [
+    {
+      "id": "2ec7a13f-03d5-4a28-8184-112246a08a51",
+      "description": "Debitis quisquam itaque aliquid odio.",
+      "startTime": 1505467256691,
+      "tags": [
+        "tag1",
+        "Heaney - Gutkowski",
+        "Larson - Schiller",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1505468248681
+    },
+    {
+      "id": "69e7fd64-3657-4612-9d23-7581265c8551",
+      "description": "Itaque sequi illo earum reiciendis.",
+      "startTime": 1505466316239,
+      "tags": [
+        "client1",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1505466682807
+    },
+    {
+      "id": "416e13b9-80e8-4839-a9ce-8763abb07efd",
+      "description": "Cum reprehenderit fugiat qui impedit magni tempore omnis velit.",
+      "startTime": 1505465387030,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1505466252925
+    },
+    {
+      "id": "dff952ad-ba9d-47db-ac84-3d89803f3cee",
+      "description": "Magnam nobis eligendi odit cumque odio non blanditiis.",
+      "startTime": 1505463889562,
+      "tags": [
+        "client1",
+        "tag2",
+        "Sawayn LLC",
+        "tag1"
+      ],
+      "finishTime": 1505464897913
+    },
+    {
+      "id": "ab78d825-b468-4144-bacc-74672b299ad7",
+      "description": "Aliquam minima aut eos aut odit sed.",
+      "startTime": 1505463211832,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "tag3"
+      ],
+      "finishTime": 1505463294507
+    },
+    {
+      "id": "7004aea4-445a-426f-a16c-bc1aaec7ab61",
+      "description": "Et velit corrupti et quia rerum ad iure suscipit.",
+      "startTime": 1505462526479,
+      "tags": [],
+      "finishTime": 1505462683583
+    }
+  ]
+}
