@@ -1,0 +1,81 @@
+{
+  "id": "day:2017-11-6",
+  "year": 2017,
+  "month": 11,
+  "day": 6,
+  "entries": [
+    {
+      "id": "537d6ab5-9c52-4fb2-960d-43b6bd6f2e3a",
+      "description": "Est vitae enim id repellat rem deserunt accusantium quasi reiciendis.",
+      "startTime": 1512553697602,
+      "tags": [
+        "tag3"
+      ],
+      "finishTime": 1512554784898
+    },
+    {
+      "id": "51ead5b1-05e4-4551-99b3-7f99039c5768",
+      "description": "Vel quia magni laboriosam.",
+      "startTime": 1512552434325,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag3"
+      ],
+      "finishTime": 1512553226799
+    },
+    {
+      "id": "c775ca83-39b8-4a2c-be9c-1828c8e5ddf0",
+      "description": "Quis et eum rem vel ea.",
+      "startTime": 1512551176303,
+      "tags": [
+        "tag1",
+        "Keebler, Hermann and Hodkiewicz",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1512552295818
+    },
+    {
+      "id": "752b172d-c6e6-413d-b54d-a9e4d356f608",
+      "description": "Qui ipsa voluptas dolorum aspernatur ipsa laudantium.",
+      "startTime": 1512550448715,
+      "tags": [
+        "tag2",
+        "tag3",
+        "Bahringer Group"
+      ],
+      "finishTime": 1512550714121
+    },
+    {
+      "id": "edb4efcb-e414-47e6-a5fe-c5303058a72d",
+      "description": "Enim quia aut earum illum quas repellendus ratione sunt.",
+      "startTime": 1512549040257,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Heaney - Gutkowski",
+        "work",
+        "tag3"
+      ],
+      "finishTime": 1512550140591
+    },
+    {
+      "id": "8cb875b5-afa8-4429-a49f-efaa652fcaa9",
+      "description": "Deleniti ut sit qui voluptas veniam est.",
+      "startTime": 1512548470003,
+      "tags": [
+        "Sawayn LLC",
+        "Keebler, Hermann and Hodkiewicz",
+        "tag3"
+      ],
+      "finishTime": 1512548675655
+    },
+    {
+      "id": "97bba711-50d1-4737-b908-45da1edf8b8d",
+      "description": "Quae quo nesciunt labore odit atque minima quam.",
+      "startTime": 1512547200293,
+      "tags": [
+        "tag2"
+      ],
+      "finishTime": 1512548339394
+    }
+  ]
+}
