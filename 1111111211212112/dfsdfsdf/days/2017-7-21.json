@@ -1,0 +1,62 @@
+{
+  "id": "day:2017-7-21",
+  "year": 2017,
+  "month": 7,
+  "day": 21,
+  "entries": [
+    {
+      "id": "8f573d23-06fb-424b-a042-cd299a613aef",
+      "description": "Quis praesentium dicta cumque iste dolor recusandae inventore cupiditate consequatur.",
+      "startTime": 1503307538148,
+      "tags": [],
+      "finishTime": 1503308069946
+    },
+    {
+      "id": "c30eb627-5a13-4b75-87e8-14de6c7d5688",
+      "description": "Aut laboriosam quaerat dolorem quisquam omnis est sit nesciunt qui.",
+      "startTime": 1503306435097,
+      "tags": [
+        "client2",
+        "Kerluke and Sons",
+        "tag3",
+        "Bahringer Group"
+      ],
+      "finishTime": 1503307224629
+    },
+    {
+      "id": "8725d447-1065-4944-94bc-c415ed0a51c3",
+      "description": "Quia ut cumque deserunt magnam consequuntur.",
+      "startTime": 1503305114221,
+      "tags": [],
+      "finishTime": 1503306245461
+    },
+    {
+      "id": "326af7b4-bdfd-4a43-a8db-fbdc56401a60",
+      "description": "Nihil eum dolorum.",
+      "startTime": 1503303899977,
+      "tags": [],
+      "finishTime": 1503304801710
+    },
+    {
+      "id": "a4e6fd1b-ec4d-4684-aa24-592d291de9a9",
+      "description": "A consectetur sint.",
+      "startTime": 1503302693577,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "Larson - Schiller",
+        "tag1",
+        "client2"
+      ],
+      "finishTime": 1503303336976
+    },
+    {
+      "id": "a640a624-cc1b-43b0-b934-08770a3211aa",
+      "description": "Dolores qui repellat ut et.",
+      "startTime": 1503302092643,
+      "tags": [
+        "tag1"
+      ],
+      "finishTime": 1503302135342
+    }
+  ]
+}
