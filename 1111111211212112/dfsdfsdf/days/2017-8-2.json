@@ -1,0 +1,37 @@
+{
+  "id": "day:2017-8-2",
+  "year": 2017,
+  "month": 8,
+  "day": 2,
+  "entries": [
+    {
+      "id": "8ba4f53f-0b40-422d-b5da-c2a6baaf7b7e",
+      "description": "Iste odit rerum minima dolor ad odit omnis in.",
+      "startTime": 1504341050729,
+      "tags": [
+        "important"
+      ],
+      "finishTime": 1504341994651
+    },
+    {
+      "id": "63711709-7fce-4ebe-a779-87e3d247d0cb",
+      "description": "Aut iste inventore voluptatibus.",
+      "startTime": 1504340012413,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1504340581478
+    },
+    {
+      "id": "320401ab-05cc-434a-bb75-4581965253f1",
+      "description": "Et repellat natus tenetur unde deserunt est.",
+      "startTime": 1504338938315,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1504339902590
+    }
+  ]
+}
