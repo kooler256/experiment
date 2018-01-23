@@ -1,0 +1,50 @@
+{
+  "id": "day:2017-10-3",
+  "year": 2017,
+  "month": 10,
+  "day": 3,
+  "entries": [
+    {
+      "id": "d88a94b5-540b-4066-84bf-c5d5de3794c5",
+      "description": "Velit consequatur dolorem dolores.",
+      "startTime": 1509698573800,
+      "tags": [],
+      "finishTime": 1509699574294
+    },
+    {
+      "id": "c38f2dc2-05d3-492c-9169-673ae3a05a58",
+      "description": "Voluptatem dicta suscipit dolores architecto ex atque mollitia vitae eaque.",
+      "startTime": 1509698293464,
+      "tags": [
+        "work",
+        "Mertz, Block and Sauer",
+        "Bahringer Group"
+      ],
+      "finishTime": 1509698326525
+    },
+    {
+      "id": "75a8ae83-df42-4a6b-9238-1efd241d747e",
+      "description": "Rerum odit libero alias et dolorem perspiciatis.",
+      "startTime": 1509697210809,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag3",
+        "Keebler, Hermann and Hodkiewicz",
+        "tag1"
+      ],
+      "finishTime": 1509698244007
+    },
+    {
+      "id": "f07a318d-fb70-474e-bfca-64db6acb8c4b",
+      "description": "Culpa magni reiciendis nihil asperiores iste.",
+      "startTime": 1509696089710,
+      "tags": [
+        "important",
+        "Heaney, Lockman and Klein",
+        "Kiehn, Hermann and Kshlerin",
+        "tag3"
+      ],
+      "finishTime": 1509697094590
+    }
+  ]
+}
