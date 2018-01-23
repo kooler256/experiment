@@ -5,15 +5,105 @@
   "day": 17,
   "entries": [
     {
-      "id": "aedc3c67-0b2b-4c26-9a89-6364cd09d7c0",
-      "description": "Fuga voluptatum ut ducimus sunt consectetur saepe.",
-      "startTime": 1516148448501,
+      "id": "7f55c6f3-b8df-41a9-92a1-c9d829ef49d2",
+      "description": "Error nihil autem est.",
+      "startTime": 1516183195177,
+      "tags": [],
+      "finishTime": 1516184290536
+    },
+    {
+      "id": "ad153459-783f-4add-9607-3029b035f35f",
+      "description": "Ea porro illum odio tempore.",
+      "startTime": 1516182210776,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1516182861754
+    },
+    {
+      "id": "577038c3-8e9d-4054-9a90-863632db3685",
+      "description": "Cum autem odit sit autem voluptas.",
+      "startTime": 1516181568262,
+      "tags": [
+        "Bahringer Group",
+        "Heaney - Gutkowski",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1516181727125
+    },
+    {
+      "id": "d1a59568-bcd9-418b-ba1d-bfacacc69750",
+      "description": "Nihil occaecati sunt architecto totam molestiae nam earum consequatur.",
+      "startTime": 1516181057317,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "important",
+        "Larson - Schiller",
+        "Bahringer Group"
+      ],
+      "finishTime": 1516181379690
+    },
+    {
+      "id": "9199650b-0ec2-4609-848e-73d78dbdddc5",
+      "description": "Doloribus rerum laboriosam.",
+      "startTime": 1516180043834,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "client1",
+        "Heaney - Gutkowski",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1516180575140
+    },
+    {
+      "id": "a5162466-e8fe-407b-a035-be56886a2375",
+      "description": "Praesentium a et et.",
+      "startTime": 1516179658590,
+      "tags": [
+        "Sawayn LLC",
+        "Keebler, Hermann and Hodkiewicz",
+        "Bahringer Group",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1516179865167
+    },
+    {
+      "id": "70ffb1ea-9be8-4ced-a8f9-6fc27e6a8554",
+      "description": "Ut beatae nihil laborum fugit.",
+      "startTime": 1516178414480,
       "tags": [
         "client2",
-        "tag2",
-        "Kessler - Hudson"
+        "Heaney - Gutkowski",
+        "important",
+        "Bahringer Group"
       ],
-      "finishTime": 1516148862192
+      "finishTime": 1516179599575
+    },
+    {
+      "id": "d3c48bca-c84a-481e-bb6c-3b86b29b9cb3",
+      "description": "Aut perferendis voluptatem voluptatem maiores.",
+      "startTime": 1516178025925,
+      "tags": [
+        "Sawayn LLC"
+      ],
+      "finishTime": 1516178298953
+    },
+    {
+      "id": "4d7fed4b-993b-4918-93dd-9cb3e6aaec95",
+      "description": "Voluptate voluptatem eum tempora quibusdam illum hic provident.",
+      "startTime": 1516176985123,
+      "tags": [
+        "work",
+        "tag3"
+      ],
+      "finishTime": 1516177923610
+    },
+    {
+      "id": "baa13699-fb74-4979-a0c2-8bf5926a6d81",
+      "description": "Dolores quisquam provident cupiditate.",
+      "startTime": 1516176107302,
+      "tags": [],
+      "finishTime": 1516176686816
     }
   ]
 }
