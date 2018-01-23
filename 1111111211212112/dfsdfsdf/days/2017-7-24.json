@@ -1,0 +1,152 @@
+{
+  "id": "day:2017-7-24",
+  "year": 2017,
+  "month": 7,
+  "day": 24,
+  "entries": [
+    {
+      "id": "e359dfd0-4076-4712-a250-37f69349483c",
+      "description": "Molestiae at voluptatibus sunt.",
+      "startTime": 1503573220627,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1503573377320
+    },
+    {
+      "id": "25f95eb5-e728-4751-b40c-7e0ecbd02b51",
+      "description": "Fuga tenetur ut est reiciendis.",
+      "startTime": 1503571785864,
+      "tags": [],
+      "finishTime": 1503572811774
+    },
+    {
+      "id": "c93a33a0-8db6-41ff-b4e0-3e43d0e07cc3",
+      "description": "Et unde molestiae molestias.",
+      "startTime": 1503571022595,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "work",
+        "Kerluke and Sons",
+        "important"
+      ],
+      "finishTime": 1503571278373
+    },
+    {
+      "id": "432247b5-df3f-4b24-9d29-6879ad88e3ee",
+      "description": "Sequi soluta ea.",
+      "startTime": 1503570208281,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1503570637448
+    },
+    {
+      "id": "b1945144-a751-44e9-94f8-249556b0f156",
+      "description": "Error qui unde.",
+      "startTime": 1503568796318,
+      "tags": [
+        "Bahringer Group",
+        "tag1",
+        "client2",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1503569897817
+    },
+    {
+      "id": "fa7fa1c0-650a-4cf4-a424-e1f616a94b6c",
+      "description": "Et ut optio libero tempore praesentium aliquid.",
+      "startTime": 1503567908594,
+      "tags": [
+        "tag3",
+        "Sawayn LLC",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1503568377571
+    },
+    {
+      "id": "f4db90c7-d356-4ff3-9208-bf8c97ba4810",
+      "description": "Aliquid beatae id voluptatem.",
+      "startTime": 1503566992797,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1503567601937
+    },
+    {
+      "id": "d567cecb-6a17-465f-bb7b-8e36a2dc6269",
+      "description": "Mollitia temporibus doloribus consequatur sed nemo similique laboriosam.",
+      "startTime": 1503565983281,
+      "tags": [
+        "Sawayn LLC",
+        "Bahringer Group",
+        "work"
+      ],
+      "finishTime": 1503566640994
+    },
+    {
+      "id": "a4d237ac-3f51-4588-b6e7-6b622c93fbd5",
+      "description": "Saepe consequatur porro ipsa nam numquam suscipit vitae.",
+      "startTime": 1503564737087,
+      "tags": [
+        "Kerluke and Sons",
+        "Heaney, Lockman and Klein",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1503565443143
+    },
+    {
+      "id": "3b291ce4-f054-4ac9-84fc-eb6be47fa1ae",
+      "description": "Cumque voluptatem aliquid eius ratione est.",
+      "startTime": 1503564064523,
+      "tags": [
+        "client1",
+        "Bahringer Group",
+        "tag2"
+      ],
+      "finishTime": 1503564434267
+    },
+    {
+      "id": "35e08107-989f-4ef6-ad3c-27855d7d567e",
+      "description": "Culpa sequi sunt quisquam sunt fuga dolorum hic optio doloribus.",
+      "startTime": 1503563667844,
+      "tags": [
+        "Larson - Schiller",
+        "work",
+        "client1"
+      ],
+      "finishTime": 1503563933719
+    },
+    {
+      "id": "47981479-f7ad-42d8-83c5-67aff740d08c",
+      "description": "Adipisci sint dolor.",
+      "startTime": 1503562954070,
+      "tags": [
+        "Sawayn LLC",
+        "Tremblay and Sons",
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1503563528042
+    },
+    {
+      "id": "f9a2ad7e-3cd4-4d25-9edd-fd8fffc5e497",
+      "description": "Dolor at voluptatem neque doloribus ut optio modi nam.",
+      "startTime": 1503562209727,
+      "tags": [
+        "tag1",
+        "client1",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1503562480292
+    },
+    {
+      "id": "c487e126-1667-4824-ad17-fb33ca2cec80",
+      "description": "Aut sint pariatur numquam.",
+      "startTime": 1503561265345,
+      "tags": [
+        "tag2"
+      ],
+      "finishTime": 1503561992291
+    }
+  ]
+}
