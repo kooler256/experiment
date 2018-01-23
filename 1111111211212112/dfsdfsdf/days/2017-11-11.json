@@ -1,0 +1,127 @@
+{
+  "id": "day:2017-11-11",
+  "year": 2017,
+  "month": 11,
+  "day": 11,
+  "entries": [
+    {
+      "id": "a5ce3f53-3feb-4659-9a8b-fbce5f03e038",
+      "description": "Expedita eaque voluptatibus dolor tempora est maiores.",
+      "startTime": 1512989807828,
+      "tags": [],
+      "finishTime": 1512990508846
+    },
+    {
+      "id": "b2db0d8c-4a0f-42b8-9fb8-438bf13adcf7",
+      "description": "Quam accusantium ipsam modi optio.",
+      "startTime": 1512988728417,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1512989779387
+    },
+    {
+      "id": "ec6072cc-aeb6-48e8-b260-6ee010b2d5f4",
+      "description": "Autem in autem.",
+      "startTime": 1512988087041,
+      "tags": [
+        "tag3",
+        "important"
+      ],
+      "finishTime": 1512988648606
+    },
+    {
+      "id": "bb964dea-46fa-46fd-8d16-484220d3a83b",
+      "description": "Doloribus qui autem omnis.",
+      "startTime": 1512987430365,
+      "tags": [
+        "tag1",
+        "Larson - Schiller",
+        "important"
+      ],
+      "finishTime": 1512988024354
+    },
+    {
+      "id": "08aee72b-7273-4bd1-bc64-4cc37f0dcafd",
+      "description": "Itaque qui qui tempora ut quis.",
+      "startTime": 1512986732927,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1512987229312
+    },
+    {
+      "id": "c834792e-21c7-48e9-83af-faf9a1b8adbe",
+      "description": "Veniam perferendis amet dolorem.",
+      "startTime": 1512985447445,
+      "tags": [
+        "tag2",
+        "client1",
+        "work",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1512986281146
+    },
+    {
+      "id": "6e0301d2-41e2-42f1-a13b-21b0c150fbc7",
+      "description": "Totam est iure.",
+      "startTime": 1512984598988,
+      "tags": [],
+      "finishTime": 1512984955817
+    },
+    {
+      "id": "26ffb191-6da4-4233-adf1-e3756969a193",
+      "description": "Error sequi aut eveniet dolorum.",
+      "startTime": 1512984048932,
+      "tags": [
+        "Sawayn LLC"
+      ],
+      "finishTime": 1512984131915
+    },
+    {
+      "id": "be297ed4-3e63-4223-838e-2a0538c455c3",
+      "description": "Totam quia omnis odio eum aut sit iste sit.",
+      "startTime": 1512982981343,
+      "tags": [],
+      "finishTime": 1512983637943
+    },
+    {
+      "id": "4f93a7ac-caab-4e37-b3c3-56362ce0d15f",
+      "description": "Saepe commodi dolorem tempore.",
+      "startTime": 1512981951339,
+      "tags": [
+        "tag1",
+        "Mertz, Block and Sauer",
+        "work",
+        "tag2"
+      ],
+      "finishTime": 1512982841648
+    },
+    {
+      "id": "491adf89-3a5b-4ede-854b-233d5f4a7b65",
+      "description": "Voluptates provident expedita ut eos dolorem amet in alias facere.",
+      "startTime": 1512980710408,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1512981802690
+    },
+    {
+      "id": "c9a4e6cf-041e-48fe-b0c2-95971b21ecb9",
+      "description": "Minima perferendis ut.",
+      "startTime": 1512980148769,
+      "tags": [],
+      "finishTime": 1512980456632
+    },
+    {
+      "id": "80643c1a-83d7-41c4-8ff6-0bfdfc4b4bc0",
+      "description": "Ratione maiores vel consectetur eum voluptate est ad.",
+      "startTime": 1512978963758,
+      "tags": [
+        "Sawayn LLC"
+      ],
+      "finishTime": 1512980024797
+    }
+  ]
+}
