@@ -1,0 +1,78 @@
+{
+  "id": "day:2017-8-1",
+  "year": 2017,
+  "month": 8,
+  "day": 1,
+  "entries": [
+    {
+      "id": "b59700ba-9e2c-4fe5-a72c-b6396ea78340",
+      "description": "Voluptatem ut quia expedita.",
+      "startTime": 1504257352675,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1504258345525
+    },
+    {
+      "id": "90592266-462c-4b24-9b1b-ee7bb4a63013",
+      "description": "Rerum quia molestias modi quisquam cum sequi enim enim est.",
+      "startTime": 1504256307634,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "important",
+        "Larson - Schiller",
+        "tag2"
+      ],
+      "finishTime": 1504257152022
+    },
+    {
+      "id": "d1a9802b-1d17-4e71-aa65-cb7de6d1df79",
+      "description": "Omnis architecto dolor aut.",
+      "startTime": 1504255615689,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Mertz, Block and Sauer",
+        "Bahringer Group"
+      ],
+      "finishTime": 1504256107556
+    },
+    {
+      "id": "383af07f-8219-482f-9674-97362a25ff3d",
+      "description": "Neque sit dolorem et et quo voluptatem deleniti alias.",
+      "startTime": 1504254520336,
+      "tags": [
+        "Kerluke and Sons",
+        "client2"
+      ],
+      "finishTime": 1504255557651
+    },
+    {
+      "id": "18390e86-0ff8-40f6-b2ba-fef27850312c",
+      "description": "Veritatis vel ut.",
+      "startTime": 1504254053803,
+      "tags": [
+        "Tremblay and Sons",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1504254499776
+    },
+    {
+      "id": "8661fd0e-ff1c-46e6-9d50-48403d4384ba",
+      "description": "Dolores quidem maiores odio consequatur maiores perferendis qui.",
+      "startTime": 1504253501630,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Tremblay and Sons",
+        "tag2"
+      ],
+      "finishTime": 1504254053352
+    },
+    {
+      "id": "e5079764-741b-4dd1-99f4-462e025263c5",
+      "description": "Et dolores optio non illum velit.",
+      "startTime": 1504252681048,
+      "tags": [],
+      "finishTime": 1504252958115
+    }
+  ]
+}
