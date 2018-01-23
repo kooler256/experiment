@@ -1,0 +1,61 @@
+{
+  "id": "day:2017-11-31",
+  "year": 2017,
+  "month": 11,
+  "day": 31,
+  "entries": [
+    {
+      "id": "5d590ae7-d5f7-44b0-a3af-e047afae655b",
+      "description": "Similique nam aut exercitationem soluta occaecati id.",
+      "startTime": 1514710931644,
+      "tags": [
+        "client1",
+        "tag3",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1514711603530
+    },
+    {
+      "id": "9e155c53-351a-407d-9a0e-5301158f75fc",
+      "description": "Inventore reiciendis ducimus omnis.",
+      "startTime": 1514710321436,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag3",
+        "client1"
+      ],
+      "finishTime": 1514710808465
+    },
+    {
+      "id": "1b01d047-edfc-439f-907c-9d94b6a2cb6b",
+      "description": "Provident rerum omnis adipisci et error aut magnam animi.",
+      "startTime": 1514709113075,
+      "tags": [
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1514710110376
+    },
+    {
+      "id": "0c7aeeec-684c-4891-a396-e867361626e4",
+      "description": "Quaerat molestiae sit possimus tempore eum sed dolores numquam molestiae.",
+      "startTime": 1514708768106,
+      "tags": [
+        "Heaney - Gutkowski",
+        "client1"
+      ],
+      "finishTime": 1514708770782
+    },
+    {
+      "id": "6d34fc11-1973-4ea1-af1e-9e18b3b8f624",
+      "description": "Est autem dolor qui assumenda.",
+      "startTime": 1514707242714,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "tag1",
+        "client1",
+        "tag3"
+      ],
+      "finishTime": 1514708392499
+    }
+  ]
+}
