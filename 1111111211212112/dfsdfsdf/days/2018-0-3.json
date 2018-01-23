@@ -5,88 +5,56 @@
   "day": 3,
   "entries": [
     {
-      "id": "5b5cad12-8c95-44b7-8b3d-4b6ddf774297",
-      "description": "Maxime sit est vitae.",
-      "startTime": 1514944268740,
+      "id": "de74cef2-5dff-4d8a-a935-1b3747f84193",
+      "description": "Qui qui vel quis dignissimos laudantium qui ut quidem.",
+      "startTime": 1514970981880,
       "tags": [
-        "Bailey LLC",
-        "Strosin Inc"
-      ],
-      "finishTime": 1514945120691
-    },
-    {
-      "id": "e592f40f-6643-42a6-899e-8e6cd91fdc16",
-      "description": "Velit iusto facere ad expedita necessitatibus accusamus.",
-      "startTime": 1514943217410,
-      "tags": [
+        "important",
         "tag1"
       ],
-      "finishTime": 1514944005377
+      "finishTime": 1514971827048
     },
     {
-      "id": "ba3dad6e-462d-4cda-9090-7ea40c7ee72a",
-      "description": "Dicta cupiditate eum et qui magni et reprehenderit.",
-      "startTime": 1514942308299,
+      "id": "29d546bb-5262-4167-a08a-d9ae17392c46",
+      "description": "Nobis est adipisci consequatur repudiandae voluptates ut aliquid ad.",
+      "startTime": 1514969916279,
+      "tags": [],
+      "finishTime": 1514970520957
+    },
+    {
+      "id": "67a1fe7d-08ce-4d62-a909-91fe15acc00d",
+      "description": "Minima quis non culpa enim eius id.",
+      "startTime": 1514968441942,
       "tags": [
-        "Harris Group"
+        "Mertz, Block and Sauer",
+        "Larson - Schiller",
+        "important",
+        "client1"
       ],
-      "finishTime": 1514943161248
+      "finishTime": 1514969541489
     },
     {
-      "id": "0651f38c-90bb-48c0-8038-5e721e81ed15",
-      "description": "Error et pariatur architecto corrupti eveniet similique eligendi.",
-      "startTime": 1514941218328,
+      "id": "a0d1c82b-eb84-462b-b9a7-4df096381d20",
+      "description": "Commodi magni quos nam ipsam eaque recusandae praesentium autem officiis.",
+      "startTime": 1514967714984,
       "tags": [
         "work",
-        "important"
+        "tag2",
+        "Bahringer Group"
       ],
-      "finishTime": 1514942030063
+      "finishTime": 1514968114274
     },
     {
-      "id": "9f64ca5e-3220-4559-8b55-e0b710db6fce",
-      "description": "Architecto pariatur incidunt atque.",
-      "startTime": 1514939767272,
+      "id": "670aaf98-0b28-412c-a146-9fdeb3b73450",
+      "description": "Eaque praesentium cumque repellendus nihil ea.",
+      "startTime": 1514966281294,
       "tags": [
-        "Robel, Oberbrunner and Hirthe",
-        "Grant - Bode",
-        "Block - Hills",
-        "Kessler - Hudson"
+        "Tremblay and Sons",
+        "Larson - Schiller",
+        "Keebler, Hermann and Hodkiewicz",
+        "Heaney - Gutkowski"
       ],
-      "finishTime": 1514940869473
-    },
-    {
-      "id": "0960c59f-ad89-4808-a6c9-b1fea312516b",
-      "description": "Repudiandae quaerat natus non velit in modi.",
-      "startTime": 1514938406061,
-      "tags": [
-        "tag3",
-        "client1",
-        "Robel, Oberbrunner and Hirthe"
-      ],
-      "finishTime": 1514939287167
-    },
-    {
-      "id": "f3324281-91f2-418f-87ed-a0ce2a756f4c",
-      "description": "Perferendis minima eveniet dolores in voluptatibus.",
-      "startTime": 1514937324380,
-      "tags": [
-        "client1",
-        "Hackett Group",
-        "tag1"
-      ],
-      "finishTime": 1514937829636
-    },
-    {
-      "id": "a2d0323c-fa57-4d55-a995-1ef3cbd8982c",
-      "description": "Corrupti sed itaque rerum placeat voluptatem quisquam ut cum.",
-      "startTime": 1514936284498,
-      "tags": [
-        "client2",
-        "tag1",
-        "Harris Group",
-        "Grant - Bode"
-      ],
-      "finishTime": 1514936895226
+      "finishTime": 1514967150604
     }
   ]
 }
