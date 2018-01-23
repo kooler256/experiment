@@ -1,0 +1,75 @@
+{
+  "id": "day:2017-9-1",
+  "year": 2017,
+  "month": 9,
+  "day": 1,
+  "entries": [
+    {
+      "id": "02006cbf-a7d2-4314-a52d-19a4117747b8",
+      "description": "Eos soluta iure dolores reiciendis soluta beatae soluta.",
+      "startTime": 1506850607505,
+      "tags": [
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1506851401814
+    },
+    {
+      "id": "2111b871-41e9-4178-bb54-187609c4ae4e",
+      "description": "Animi velit velit deleniti aliquid dolorum aut saepe impedit exercitationem.",
+      "startTime": 1506849634695,
+      "tags": [
+        "client1",
+        "tag3",
+        "Tremblay and Sons",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1506850350557
+    },
+    {
+      "id": "889151a7-3fca-4616-b1b9-cd990fa910e1",
+      "description": "Vitae expedita vero dolores officia dolorem dolores et omnis.",
+      "startTime": 1506848434170,
+      "tags": [
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1506849181088
+    },
+    {
+      "id": "3e5b0a77-3309-4415-822b-14e41a2b293e",
+      "description": "Eligendi aut minima laboriosam sed.",
+      "startTime": 1506847531855,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "work",
+        "Kerluke and Sons",
+        "tag3"
+      ],
+      "finishTime": 1506848352103
+    },
+    {
+      "id": "740f0380-38f2-4eee-844a-851bf86e3ba8",
+      "description": "Libero a tenetur voluptas quibusdam incidunt id qui.",
+      "startTime": 1506846823369,
+      "tags": [],
+      "finishTime": 1506847245189
+    },
+    {
+      "id": "08deb62e-edf2-4052-9c8b-9f8ecf079610",
+      "description": "Quibusdam unde quaerat sint maxime consequuntur magni laudantium aut.",
+      "startTime": 1506845937348,
+      "tags": [
+        "tag2"
+      ],
+      "finishTime": 1506846488510
+    },
+    {
+      "id": "8c0b1e7b-2fc8-495a-97e6-cbcf5ceed009",
+      "description": "Consequatur minus et eveniet sunt.",
+      "startTime": 1506845008054,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1506845859063
+    }
+  ]
+}
