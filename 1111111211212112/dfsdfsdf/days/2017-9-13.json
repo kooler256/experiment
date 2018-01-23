@@ -1,0 +1,139 @@
+{
+  "id": "day:2017-9-13",
+  "year": 2017,
+  "month": 9,
+  "day": 13,
+  "entries": [
+    {
+      "id": "4161ea73-5130-4de4-bbd1-f8c1e3676e22",
+      "description": "Nemo quis error voluptatum doloremque rem nulla voluptatem ea omnis.",
+      "startTime": 1507894013264,
+      "tags": [],
+      "finishTime": 1507894327388
+    },
+    {
+      "id": "a9befbf8-5f89-456b-85e3-2b33dc6c26cc",
+      "description": "Totam impedit dicta et quaerat repellat asperiores.",
+      "startTime": 1507893283360,
+      "tags": [],
+      "finishTime": 1507893599293
+    },
+    {
+      "id": "79726b6a-1b64-4c21-be47-3187388e4ff9",
+      "description": "Mollitia officiis ex libero aliquam quo facilis rerum magnam molestiae.",
+      "startTime": 1507892067969,
+      "tags": [
+        "Larson - Schiller",
+        "Mertz, Block and Sauer",
+        "work"
+      ],
+      "finishTime": 1507892974358
+    },
+    {
+      "id": "822992b1-7862-4c79-a5df-398c39d67a1d",
+      "description": "Alias officiis voluptas quae maiores.",
+      "startTime": 1507891696241,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Tremblay and Sons",
+        "work"
+      ],
+      "finishTime": 1507891722659
+    },
+    {
+      "id": "819e4f1c-7026-4b89-b3aa-a1e4315caf64",
+      "description": "Unde reiciendis et similique.",
+      "startTime": 1507890362365,
+      "tags": [
+        "Tremblay and Sons",
+        "tag2",
+        "tag3",
+        "client1"
+      ],
+      "finishTime": 1507891481825
+    },
+    {
+      "id": "c7d330e4-1005-4103-a8a2-234b2547b4ce",
+      "description": "Sunt ratione voluptatem voluptatem laudantium ipsa.",
+      "startTime": 1507889786557,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1507890015077
+    },
+    {
+      "id": "6f652212-f6e5-417e-ae58-58b8e24cb872",
+      "description": "Nobis ratione ut qui rem odit eos.",
+      "startTime": 1507888374179,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "tag2",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1507889483825
+    },
+    {
+      "id": "b30c0c64-3be6-47bd-a9ec-9d07559e2d32",
+      "description": "Sint non aut et error autem est nulla quo.",
+      "startTime": 1507887007980,
+      "tags": [
+        "Larson - Schiller",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1507887972631
+    },
+    {
+      "id": "61ddf8c6-bc48-492d-8563-7d8a1bf1dafa",
+      "description": "Eius perferendis hic illo qui rem earum.",
+      "startTime": 1507885764484,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1507886766644
+    },
+    {
+      "id": "ce434505-f093-428f-ab51-0e55c247c956",
+      "description": "Sunt et culpa qui corrupti.",
+      "startTime": 1507884618010,
+      "tags": [
+        "Heaney - Gutkowski",
+        "client2"
+      ],
+      "finishTime": 1507885206079
+    },
+    {
+      "id": "9edd57f8-a501-401c-a5f5-cc104ed6323a",
+      "description": "Sint quae beatae est repellat deserunt libero et non.",
+      "startTime": 1507884310381,
+      "tags": [
+        "tag2",
+        "Heaney, Lockman and Klein",
+        "tag3"
+      ],
+      "finishTime": 1507884394144
+    },
+    {
+      "id": "1095fe61-983f-4b1b-964b-55f759799319",
+      "description": "Fuga id ut eos amet nisi.",
+      "startTime": 1507883127271,
+      "tags": [],
+      "finishTime": 1507883848543
+    },
+    {
+      "id": "c846c51d-b2e7-451b-b681-c83ef811592b",
+      "description": "Distinctio consequatur aut sunt voluptatem quisquam nisi vero.",
+      "startTime": 1507882735094,
+      "tags": [
+        "tag3"
+      ],
+      "finishTime": 1507882983319
+    },
+    {
+      "id": "0f6494ac-e3fc-4f23-8508-f47d4d547d1d",
+      "description": "Recusandae nihil sed autem qui et quia saepe dolor cupiditate.",
+      "startTime": 1507881329314,
+      "tags": [],
+      "finishTime": 1507882497261
+    }
+  ]
+}
