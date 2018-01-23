@@ -1,0 +1,125 @@
+{
+  "id": "day:2017-10-15",
+  "year": 2017,
+  "month": 10,
+  "day": 15,
+  "entries": [
+    {
+      "id": "77c8fb63-e118-408c-b4e0-5a04ac7efa5f",
+      "description": "Et accusamus at eius impedit asperiores voluptatibus esse dolorem quas.",
+      "startTime": 1510743319052,
+      "tags": [
+        "Kerluke and Sons",
+        "Bahringer Group"
+      ],
+      "finishTime": 1510744268800
+    },
+    {
+      "id": "293f5f0d-3178-493a-80a4-eb048c931762",
+      "description": "Temporibus fugit possimus nobis quae sint.",
+      "startTime": 1510742894324,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "tag2"
+      ],
+      "finishTime": 1510743224331
+    },
+    {
+      "id": "a11eee7c-11d1-4c32-991d-5d98856c0709",
+      "description": "Laboriosam impedit porro quam sapiente.",
+      "startTime": 1510742177791,
+      "tags": [
+        "important"
+      ],
+      "finishTime": 1510742348841
+    },
+    {
+      "id": "fb9e6289-ff15-4d66-8b58-7c3bf1d2e591",
+      "description": "Distinctio aut doloremque sed.",
+      "startTime": 1510741243285,
+      "tags": [],
+      "finishTime": 1510742141350
+    },
+    {
+      "id": "f0935cd6-0649-42a8-8463-ca6a89aee6ac",
+      "description": "Sequi accusantium sint et enim in.",
+      "startTime": 1510739751700,
+      "tags": [
+        "Heaney - Gutkowski",
+        "important"
+      ],
+      "finishTime": 1510740780259
+    },
+    {
+      "id": "c4f0581c-7f59-401b-b03c-3b4cfd29eb1f",
+      "description": "Accusamus autem debitis facere non est esse veniam voluptatibus voluptatem.",
+      "startTime": 1510739514499,
+      "tags": [
+        "tag1",
+        "client1"
+      ],
+      "finishTime": 1510739666737
+    },
+    {
+      "id": "bbe4a704-5b89-481f-920f-463fd760db4f",
+      "description": "Nihil enim vero.",
+      "startTime": 1510738845745,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "client2"
+      ],
+      "finishTime": 1510739405184
+    },
+    {
+      "id": "6a49c7a3-6d5a-4d9b-8bd6-8f0bf5499a67",
+      "description": "Et laborum ipsum quia quia.",
+      "startTime": 1510737439606,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1510738272741
+    },
+    {
+      "id": "5fc7735e-3a59-4b94-9b26-a28a6beee609",
+      "description": "Ad praesentium ut tempora laboriosam perspiciatis amet eligendi qui et.",
+      "startTime": 1510736793417,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1510736904272
+    },
+    {
+      "id": "702784b5-38bb-48e2-aa21-0e02a9c618ea",
+      "description": "Qui aspernatur fugiat dolor tempore distinctio.",
+      "startTime": 1510735070906,
+      "tags": [],
+      "finishTime": 1510736243208
+    },
+    {
+      "id": "bb0de28e-eb90-415c-a26f-64be3b1fc58f",
+      "description": "Rerum hic voluptates.",
+      "startTime": 1510734195269,
+      "tags": [],
+      "finishTime": 1510734817222
+    },
+    {
+      "id": "f7d3b332-d146-4658-9a46-6202c3750dcb",
+      "description": "Rerum minima et velit eos inventore doloremque ut repellat et.",
+      "startTime": 1510733276080,
+      "tags": [
+        "Bahringer Group",
+        "client1",
+        "tag3"
+      ],
+      "finishTime": 1510733848814
+    },
+    {
+      "id": "0c48b973-a705-45ad-9c9a-21ca4d6d31c9",
+      "description": "Atque dolorum expedita voluptatem dolores.",
+      "startTime": 1510733018271,
+      "tags": [],
+      "finishTime": 1510733152688
+    }
+  ]
+}
