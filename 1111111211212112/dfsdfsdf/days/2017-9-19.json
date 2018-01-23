@@ -1,0 +1,71 @@
+{
+  "id": "day:2017-9-19",
+  "year": 2017,
+  "month": 9,
+  "day": 19,
+  "entries": [
+    {
+      "id": "8f663f40-14eb-49f6-bb14-d030067fac23",
+      "description": "Quia totam unde quibusdam inventore.",
+      "startTime": 1508406652310,
+      "tags": [
+        "important",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1508406921016
+    },
+    {
+      "id": "2cb942a0-96fc-4a2b-99b4-7494acacf20d",
+      "description": "Totam eum perspiciatis consectetur omnis ea est.",
+      "startTime": 1508405445803,
+      "tags": [
+        "important",
+        "tag3",
+        "Sawayn LLC",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1508406374172
+    },
+    {
+      "id": "3c816b63-3023-4a28-9fd9-788848d4c39b",
+      "description": "Dolorem omnis voluptate eius et est cupiditate ipsa harum consequatur.",
+      "startTime": 1508404664922,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "important"
+      ],
+      "finishTime": 1508405152782
+    },
+    {
+      "id": "c877b9fa-587f-49ca-a792-81d317411724",
+      "description": "Et aut qui sit nesciunt est.",
+      "startTime": 1508403085992,
+      "tags": [],
+      "finishTime": 1508404167414
+    },
+    {
+      "id": "a0e7b53c-f60e-4881-8072-58a0fba4d82f",
+      "description": "Ipsum tempore consectetur distinctio dignissimos minima.",
+      "startTime": 1508401785832,
+      "tags": [],
+      "finishTime": 1508402626518
+    },
+    {
+      "id": "1d24a522-43bd-43ff-8ff6-e6a4bd48d5f2",
+      "description": "Excepturi aut dolorem repudiandae vel possimus.",
+      "startTime": 1508401101845,
+      "tags": [
+        "client2",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1508401714098
+    },
+    {
+      "id": "a50e71db-7c9a-431d-9faf-b0cc57368d1d",
+      "description": "Est ut sed est est ut incidunt impedit.",
+      "startTime": 1508399777505,
+      "tags": [],
+      "finishTime": 1508400740529
+    }
+  ]
+}
