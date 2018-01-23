@@ -5,139 +5,94 @@
   "day": 10,
   "entries": [
     {
-      "id": "ed138579-1f7c-4f77-bd30-d28e784f0a11",
-      "description": "Iste minus dolorem officiis et distinctio earum est.",
-      "startTime": 1515551478463,
+      "id": "c3f0e8cd-23a5-4f6a-b2f4-3a14e96b09f3",
+      "description": "Similique sint nesciunt aut aut vel.",
+      "startTime": 1515578899464,
       "tags": [
-        "Jast - Steuber",
-        "Bailey LLC"
-      ],
-      "finishTime": 1515551632573
-    },
-    {
-      "id": "a32b21b9-8a94-4ab3-abb5-7e6658cbb94a",
-      "description": "Fugiat aperiam rerum dolore ad officia.",
-      "startTime": 1515550024942,
-      "tags": [
-        "Bailey LLC",
-        "tag1"
-      ],
-      "finishTime": 1515551129196
-    },
-    {
-      "id": "3b9c5ec4-a022-4748-ac6b-4ec4e27c9898",
-      "description": "Voluptas asperiores labore magni expedita non.",
-      "startTime": 1515549560470,
-      "tags": [
-        "Bailey LLC"
-      ],
-      "finishTime": 1515549680475
-    },
-    {
-      "id": "4ed1d4f2-ce64-4a96-861e-c76e138edf90",
-      "description": "Corrupti ut ab voluptas exercitationem a asperiores est et incidunt.",
-      "startTime": 1515548921788,
-      "tags": [
-        "client2",
-        "Robel, Oberbrunner and Hirthe",
-        "tag3",
-        "Grant - Bode"
-      ],
-      "finishTime": 1515549014634
-    },
-    {
-      "id": "3f917529-126b-4052-b35e-a399ff887b48",
-      "description": "Qui est qui omnis est quia occaecati nobis totam.",
-      "startTime": 1515548533542,
-      "tags": [
-        "Strosin Inc",
-        "Harris Group",
-        "client1"
-      ],
-      "finishTime": 1515548863627
-    },
-    {
-      "id": "41c1e7eb-2c3e-47de-b851-90a3122faa21",
-      "description": "Omnis consequatur eaque ipsum.",
-      "startTime": 1515547333214,
-      "tags": [],
-      "finishTime": 1515548378785
-    },
-    {
-      "id": "c56aeb73-0da6-4d25-b5b6-1d21795615a7",
-      "description": "Ullam cupiditate debitis consequatur.",
-      "startTime": 1515546295430,
-      "tags": [
-        "tag2",
-        "work"
-      ],
-      "finishTime": 1515546738225
-    },
-    {
-      "id": "fbcde60e-5024-4064-b85d-08361e6b07c5",
-      "description": "Nihil vitae architecto id voluptatem.",
-      "startTime": 1515545847024,
-      "tags": [
-        "tag3"
-      ],
-      "finishTime": 1515546022090
-    },
-    {
-      "id": "84295efe-7325-4c86-956a-a60fd6cafba3",
-      "description": "Ad est ab aspernatur eius qui blanditiis optio.",
-      "startTime": 1515544617065,
-      "tags": [
-        "tag1",
-        "Grant - Bode"
-      ],
-      "finishTime": 1515545601806
-    },
-    {
-      "id": "366bf1a6-60a9-4a31-b2ab-5bed2ffc3aee",
-      "description": "Aut temporibus quidem in alias ipsum ex aliquam.",
-      "startTime": 1515543739632,
-      "tags": [
-        "Robel, Oberbrunner and Hirthe",
-        "Kessler - Hudson",
-        "Harris Group"
-      ],
-      "finishTime": 1515544132881
-    },
-    {
-      "id": "69a377ae-7b19-41aa-9921-5eed333bf4b8",
-      "description": "Id blanditiis enim atque at labore et aliquam consequatur.",
-      "startTime": 1515542746958,
-      "tags": [
-        "Strosin Inc",
-        "Bailey LLC",
-        "Upton LLC",
-        "Block - Hills"
-      ],
-      "finishTime": 1515543480633
-    },
-    {
-      "id": "25b38201-5b74-4c34-96ff-f4ceaf96dbcb",
-      "description": "Sit ex vitae atque ut unde officia et vel est.",
-      "startTime": 1515541692470,
-      "tags": [
-        "Hackett Group",
-        "work",
         "client1",
-        "important"
+        "important",
+        "Heaney - Gutkowski"
       ],
-      "finishTime": 1515542344392
+      "finishTime": 1515580043077
     },
     {
-      "id": "bf109418-1245-4f85-8061-69bed718d6ff",
-      "description": "Optio aut doloremque non incidunt itaque natus est odit aut.",
-      "startTime": 1515540366469,
+      "id": "1ba5aab2-1d93-438c-aea0-1001b1faff7c",
+      "description": "Consequatur ut voluptas aut quo voluptatem optio expedita sapiente.",
+      "startTime": 1515578302403,
+      "tags": [
+        "work",
+        "Kiehn, Hermann and Kshlerin",
+        "important",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1515578606283
+    },
+    {
+      "id": "617645e6-caea-460a-85f0-7c99dafa52c1",
+      "description": "Quia sunt autem aspernatur fugit et qui.",
+      "startTime": 1515577118701,
+      "tags": [
+        "Larson - Schiller",
+        "Sawayn LLC",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1515577735714
+    },
+    {
+      "id": "72563e28-4a36-4fd2-a426-a289d6d4a0df",
+      "description": "Saepe dolorem ab inventore sit velit exercitationem explicabo totam.",
+      "startTime": 1515576459953,
       "tags": [
         "tag3",
-        "Grant - Bode",
-        "Hackett Group",
-        "Harris Group"
+        "Kiehn, Hermann and Kshlerin",
+        "Bahringer Group"
       ],
-      "finishTime": 1515541418295
+      "finishTime": 1515576935484
+    },
+    {
+      "id": "95e894d2-c553-486b-9d8a-efef702157d4",
+      "description": "Ut saepe maxime quis quibusdam illum aliquam minus aut error.",
+      "startTime": 1515575715792,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1515576003025
+    },
+    {
+      "id": "ba861bee-a694-41e8-b01e-6bd57302c3cf",
+      "description": "Ullam eius excepturi debitis eos.",
+      "startTime": 1515574834491,
+      "tags": [],
+      "finishTime": 1515575276847
+    },
+    {
+      "id": "c0347c00-3bc9-410d-a728-9c63147f7cd5",
+      "description": "Voluptates et est.",
+      "startTime": 1515573264710,
+      "tags": [],
+      "finishTime": 1515574376290
+    },
+    {
+      "id": "e8b2726b-628c-4709-8323-eb155132764a",
+      "description": "Tempora maiores alias fugit quis aspernatur.",
+      "startTime": 1515572802492,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1515573145733
+    },
+    {
+      "id": "fecb7e88-4db6-4b9d-a4f9-a9b35f57a6c6",
+      "description": "Voluptas corporis quos possimus.",
+      "startTime": 1515571363538,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "work",
+        "client2"
+      ],
+      "finishTime": 1515572437896
     }
   ]
 }
