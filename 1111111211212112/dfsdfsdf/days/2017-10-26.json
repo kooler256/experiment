@@ -1,0 +1,129 @@
+{
+  "id": "day:2017-10-26",
+  "year": 2017,
+  "month": 10,
+  "day": 26,
+  "entries": [
+    {
+      "id": "2ecf7705-92aa-43f7-8c3e-699c197fb514",
+      "description": "Omnis et eos temporibus ratione voluptate nisi voluptatem.",
+      "startTime": 1511693455401,
+      "tags": [],
+      "finishTime": 1511693817445
+    },
+    {
+      "id": "be6fafa0-96da-425d-a6a8-b2adae62f51b",
+      "description": "Totam doloremque deserunt et tempore deserunt mollitia.",
+      "startTime": 1511691881342,
+      "tags": [],
+      "finishTime": 1511692942979
+    },
+    {
+      "id": "139ca47b-ca07-4700-892d-a8dabf757c4d",
+      "description": "Doloremque aut rerum rem sapiente.",
+      "startTime": 1511691038984,
+      "tags": [
+        "Bahringer Group",
+        "Heaney, Lockman and Klein",
+        "tag1",
+        "Bahringer Group"
+      ],
+      "finishTime": 1511691376500
+    },
+    {
+      "id": "ffa37180-5a3b-4852-a488-3b14f00cfbed",
+      "description": "Sint porro ea est et vero quo.",
+      "startTime": 1511689504650,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1511690628537
+    },
+    {
+      "id": "cb4eec5c-762a-4dd3-bbf0-76da06ccdc4d",
+      "description": "Sed nostrum qui deserunt officia occaecati perferendis.",
+      "startTime": 1511688893525,
+      "tags": [],
+      "finishTime": 1511689504588
+    },
+    {
+      "id": "3f963843-197b-4bba-a6f5-fc2a024764b5",
+      "description": "Nihil beatae voluptas dolorum nihil possimus inventore.",
+      "startTime": 1511687782334,
+      "tags": [],
+      "finishTime": 1511688392410
+    },
+    {
+      "id": "92c3d563-768b-498f-80a8-7b6ca336b41b",
+      "description": "Ab dolores saepe nulla amet.",
+      "startTime": 1511686155206,
+      "tags": [
+        "client2"
+      ],
+      "finishTime": 1511687222119
+    },
+    {
+      "id": "283793d9-f6e1-4c1e-9585-ccafba8df82b",
+      "description": "Dolores iusto aut sunt itaque quo.",
+      "startTime": 1511685527005,
+      "tags": [
+        "tag1",
+        "Bahringer Group"
+      ],
+      "finishTime": 1511685617791
+    },
+    {
+      "id": "e09e1fea-94f8-4fa6-b356-c069829ea877",
+      "description": "Porro aspernatur distinctio doloremque quam consequatur occaecati vitae qui.",
+      "startTime": 1511685166511,
+      "tags": [
+        "work",
+        "Kiehn, Hermann and Kshlerin",
+        "important"
+      ],
+      "finishTime": 1511685517610
+    },
+    {
+      "id": "e56fa686-8c78-4c62-9109-a9ce31ba2ff9",
+      "description": "Ipsa sunt perspiciatis voluptatem quibusdam ut et quisquam neque.",
+      "startTime": 1511684796048,
+      "tags": [],
+      "finishTime": 1511684819854
+    },
+    {
+      "id": "d1778b6f-1e75-4a90-ac6b-d07dd862a125",
+      "description": "Laudantium quo facilis magni temporibus sunt ab sit.",
+      "startTime": 1511684350322,
+      "tags": [
+        "tag3",
+        "Heaney, Lockman and Klein",
+        "Keebler, Hermann and Hodkiewicz",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1511684482711
+    },
+    {
+      "id": "ccaf32f8-a8ad-4c0f-a1af-f7a92b484618",
+      "description": "Nihil sed ut.",
+      "startTime": 1511683693716,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1511683923658
+    },
+    {
+      "id": "decf6fc3-6040-45e8-bf65-6d4a28467765",
+      "description": "Adipisci assumenda distinctio architecto.",
+      "startTime": 1511683587190,
+      "tags": [],
+      "finishTime": 1511683666910
+    },
+    {
+      "id": "806f10c4-6974-4323-bd38-828cc710b7ff",
+      "description": "Voluptas impedit praesentium delectus id.",
+      "startTime": 1511682908206,
+      "tags": [],
+      "finishTime": 1511683212219
+    }
+  ]
+}
