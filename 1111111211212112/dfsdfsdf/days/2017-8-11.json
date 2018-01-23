@@ -1,0 +1,126 @@
+{
+  "id": "day:2017-8-11",
+  "year": 2017,
+  "month": 8,
+  "day": 11,
+  "entries": [
+    {
+      "id": "b98df835-1631-4fc3-ac21-bc159d3adc6f",
+      "description": "Sed dignissimos exercitationem aut asperiores.",
+      "startTime": 1505127169778,
+      "tags": [],
+      "finishTime": 1505127622125
+    },
+    {
+      "id": "b64447bc-b454-427e-926c-a6fdab241b91",
+      "description": "Aut porro repudiandae est saepe earum repellat est exercitationem blanditiis.",
+      "startTime": 1505125737871,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Sawayn LLC",
+        "Mertz, Block and Sauer",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1505126673395
+    },
+    {
+      "id": "2ddf3d7a-222f-49ec-934c-1d772a6423ba",
+      "description": "Et et totam veniam consequatur odit iure cumque.",
+      "startTime": 1505124579971,
+      "tags": [],
+      "finishTime": 1505125280674
+    },
+    {
+      "id": "ca34146f-368a-4b1a-bab8-eaf66e872385",
+      "description": "Possimus voluptatum ut natus delectus sequi ducimus ratione modi.",
+      "startTime": 1505123210271,
+      "tags": [
+        "important",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1505124365253
+    },
+    {
+      "id": "6a1ddd99-ccc3-4975-8bd2-721b79faf0b7",
+      "description": "Velit repudiandae reprehenderit.",
+      "startTime": 1505121582452,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "tag3",
+        "client1"
+      ],
+      "finishTime": 1505122643054
+    },
+    {
+      "id": "09a0f050-3f22-4652-b036-834c01ed0154",
+      "description": "Incidunt expedita eum et nulla dignissimos.",
+      "startTime": 1505120742489,
+      "tags": [
+        "Bahringer Group",
+        "tag2"
+      ],
+      "finishTime": 1505121160062
+    },
+    {
+      "id": "a168a8f1-62bc-42ca-bee1-c7303594aac5",
+      "description": "Ipsa asperiores illum est quisquam.",
+      "startTime": 1505120194668,
+      "tags": [],
+      "finishTime": 1505120514833
+    },
+    {
+      "id": "ee507814-4393-4f0b-a2ff-0c37eb32f563",
+      "description": "Qui sit aut.",
+      "startTime": 1505119334751,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "Tremblay and Sons",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1505119790225
+    },
+    {
+      "id": "43dd4e54-9dc8-436f-ba34-6b0bda0338e1",
+      "description": "Sapiente aut unde.",
+      "startTime": 1505118473814,
+      "tags": [
+        "important",
+        "Heaney - Gutkowski",
+        "Mertz, Block and Sauer",
+        "tag2"
+      ],
+      "finishTime": 1505118793891
+    },
+    {
+      "id": "f5c90d29-50c3-43f3-a123-a92f94a778c3",
+      "description": "Sit at perspiciatis nesciunt tempore fugit et deleniti magnam.",
+      "startTime": 1505118010630,
+      "tags": [
+        "Tremblay and Sons",
+        "Keebler, Hermann and Hodkiewicz",
+        "work"
+      ],
+      "finishTime": 1505118167047
+    },
+    {
+      "id": "33826ce9-22ce-48fe-abb4-3e97482bb9ed",
+      "description": "Et delectus sit laboriosam non et consequatur.",
+      "startTime": 1505117289244,
+      "tags": [
+        "tag1",
+        "Kiehn, Hermann and Kshlerin",
+        "tag3"
+      ],
+      "finishTime": 1505117536156
+    },
+    {
+      "id": "985d69d7-2bc6-41c4-8e84-ededd343ffab",
+      "description": "Aut quia fuga odio ut rerum.",
+      "startTime": 1505116555980,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1505116865709
+    }
+  ]
+}
