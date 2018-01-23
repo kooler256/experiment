@@ -1,0 +1,56 @@
+{
+  "id": "day:2017-9-14",
+  "year": 2017,
+  "month": 9,
+  "day": 14,
+  "entries": [
+    {
+      "id": "dd5434e1-0079-4a5b-965f-8bbb7d509749",
+      "description": "Aspernatur rerum sed dolor aut quae placeat.",
+      "startTime": 1507970675644,
+      "tags": [
+        "Larson - Schiller",
+        "tag2",
+        "client2"
+      ],
+      "finishTime": 1507970858001
+    },
+    {
+      "id": "77f3b0e4-8112-4daf-9f77-64b2b3c90e1b",
+      "description": "Delectus maiores autem.",
+      "startTime": 1507970049517,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1507970457878
+    },
+    {
+      "id": "9b413118-ab19-49a1-ba04-eec00e7886e8",
+      "description": "Ipsum excepturi voluptatem illum autem.",
+      "startTime": 1507969245723,
+      "tags": [
+        "tag3"
+      ],
+      "finishTime": 1507969715268
+    },
+    {
+      "id": "f7dc7eb9-b06a-4657-b7b9-b393e1b8096e",
+      "description": "Ducimus excepturi voluptatem consequatur provident nemo ea iure.",
+      "startTime": 1507968302858,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1507968649005
+    },
+    {
+      "id": "7621dbcf-dca3-451e-af77-a8e12420a49d",
+      "description": "Suscipit ea quo qui.",
+      "startTime": 1507967937142,
+      "tags": [
+        "client2",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1507968111666
+    }
+  ]
+}
