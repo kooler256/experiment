@@ -1,0 +1,98 @@
+{
+  "id": "day:2017-8-9",
+  "year": 2017,
+  "month": 8,
+  "day": 9,
+  "entries": [
+    {
+      "id": "d6156e07-aec8-450f-8372-e9c952e98fce",
+      "description": "Molestiae illo dolor fugiat non vel esse nesciunt veniam qui.",
+      "startTime": 1504949445596,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1504950442357
+    },
+    {
+      "id": "e21affe8-ebda-44dc-be82-869565190532",
+      "description": "Et possimus architecto nam quia reiciendis aliquam optio non asperiores.",
+      "startTime": 1504948794653,
+      "tags": [
+        "client1",
+        "Kerluke and Sons",
+        "client2",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1504948902759
+    },
+    {
+      "id": "16141ed0-d6a9-44e9-8885-c0b663b782b7",
+      "description": "Ipsa qui veniam blanditiis et qui earum quisquam repellat sapiente.",
+      "startTime": 1504948268424,
+      "tags": [
+        "client1",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1504948687342
+    },
+    {
+      "id": "17d25e2c-36ac-4ad4-ba0e-cd0b4986900d",
+      "description": "Ut itaque sint pariatur alias ut.",
+      "startTime": 1504947696748,
+      "tags": [
+        "Heaney - Gutkowski",
+        "work",
+        "Sawayn LLC",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1504948030031
+    },
+    {
+      "id": "9ef0a414-7e79-4254-ad05-79dfce374d64",
+      "description": "Quae quia non.",
+      "startTime": 1504947544649,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "client2",
+        "work",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1504947603578
+    },
+    {
+      "id": "01b375a5-089f-4bb3-94f5-965fd50305d9",
+      "description": "Incidunt labore quae ratione illum molestiae ut quo eligendi.",
+      "startTime": 1504946616187,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1504947020504
+    },
+    {
+      "id": "948efb49-0318-471d-82fd-1238bb414313",
+      "description": "Et dolores sed molestias officia voluptates suscipit.",
+      "startTime": 1504945472061,
+      "tags": [],
+      "finishTime": 1504946184423
+    },
+    {
+      "id": "ae316431-e67f-47a4-9957-be7e800aff12",
+      "description": "Maiores ducimus tempora id illo omnis saepe eligendi voluptas ducimus.",
+      "startTime": 1504944785612,
+      "tags": [],
+      "finishTime": 1504944906010
+    },
+    {
+      "id": "37c7effa-2ce6-41e8-bfb5-66085189cd28",
+      "description": "Et sit repellendus dolore molestiae laudantium architecto quas consequatur aut.",
+      "startTime": 1504943631182,
+      "tags": [
+        "Heaney - Gutkowski",
+        "client1",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1504944610392
+    }
+  ]
+}
