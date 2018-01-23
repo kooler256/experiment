@@ -1,0 +1,39 @@
+{
+  "id": "day:2017-10-24",
+  "year": 2017,
+  "month": 10,
+  "day": 24,
+  "entries": [
+    {
+      "id": "abad9a89-c2c8-4deb-860a-97e46faadc61",
+      "description": "Voluptas quasi beatae est rerum ut omnis et fugiat.",
+      "startTime": 1511511676198,
+      "tags": [
+        "Kerluke and Sons",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1511512394774
+    },
+    {
+      "id": "4074da4b-dd31-4904-9e6b-f3ceba68ae3a",
+      "description": "Velit maxime nulla.",
+      "startTime": 1511510971862,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag1",
+        "Mertz, Block and Sauer",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1511511518508
+    },
+    {
+      "id": "8542e193-c216-4c5c-afaa-63e34beaf094",
+      "description": "Facere atque laborum dolores velit.",
+      "startTime": 1511510327064,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1511510888996
+    }
+  ]
+}
