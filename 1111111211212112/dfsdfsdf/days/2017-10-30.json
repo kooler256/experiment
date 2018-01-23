@@ -1,0 +1,104 @@
+{
+  "id": "day:2017-10-30",
+  "year": 2017,
+  "month": 10,
+  "day": 30,
+  "entries": [
+    {
+      "id": "27e274fc-ad8a-491c-b2e0-ed404c5114ca",
+      "description": "In commodi rerum ut occaecati molestiae pariatur quidem asperiores provident.",
+      "startTime": 1512038015041,
+      "tags": [
+        "client2",
+        "Sawayn LLC",
+        "important"
+      ],
+      "finishTime": 1512038786650
+    },
+    {
+      "id": "84353fdb-1f00-4b46-911e-369454c5c935",
+      "description": "Et velit excepturi necessitatibus.",
+      "startTime": 1512037185741,
+      "tags": [
+        "client1",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1512037798114
+    },
+    {
+      "id": "b5e3a7db-80a9-46c9-8c98-45ad259cb657",
+      "description": "Laboriosam eum ex aspernatur et.",
+      "startTime": 1512035720872,
+      "tags": [],
+      "finishTime": 1512036801821
+    },
+    {
+      "id": "436aa5c6-730b-4f6b-8b93-89fdd628a53a",
+      "description": "Quis soluta voluptas.",
+      "startTime": 1512035112630,
+      "tags": [
+        "tag1",
+        "important"
+      ],
+      "finishTime": 1512035547140
+    },
+    {
+      "id": "b34c931e-a7c3-42de-91e0-c9b3119a2261",
+      "description": "Dolorem ratione nulla doloremque et.",
+      "startTime": 1512033430128,
+      "tags": [
+        "Tremblay and Sons",
+        "Kiehn, Hermann and Kshlerin",
+        "Sawayn LLC",
+        "client1"
+      ],
+      "finishTime": 1512034527766
+    },
+    {
+      "id": "a993f9a1-d5de-4124-bcbb-2e88fa440095",
+      "description": "Consequatur porro quidem necessitatibus porro aut ipsum exercitationem maxime.",
+      "startTime": 1512033060170,
+      "tags": [],
+      "finishTime": 1512033092337
+    },
+    {
+      "id": "3fc5ac6c-7e4e-455e-9e19-613875f93395",
+      "description": "Id quo cum sequi enim eaque.",
+      "startTime": 1512031839909,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1512032931401
+    },
+    {
+      "id": "df2f4b48-004e-4ade-9d55-54fe9ed2ba1e",
+      "description": "Dolore veniam voluptatem maxime iure consequuntur qui aut.",
+      "startTime": 1512030667523,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Kiehn, Hermann and Kshlerin",
+        "Bahringer Group"
+      ],
+      "finishTime": 1512031381185
+    },
+    {
+      "id": "59f093d3-cfac-4d8b-92c7-36e5df5fa927",
+      "description": "Qui aut suscipit.",
+      "startTime": 1512029831637,
+      "tags": [
+        "Sawayn LLC",
+        "important",
+        "Larson - Schiller",
+        "client1"
+      ],
+      "finishTime": 1512030351892
+    },
+    {
+      "id": "9a27af7f-f80c-4bb2-a8cd-3c8f2dbbdb2a",
+      "description": "Cumque saepe expedita sed.",
+      "startTime": 1512028724562,
+      "tags": [],
+      "finishTime": 1512029374014
+    }
+  ]
+}
