@@ -1,0 +1,140 @@
+{
+  "id": "day:2017-10-1",
+  "year": 2017,
+  "month": 10,
+  "day": 1,
+  "entries": [
+    {
+      "id": "238fdcda-4266-45ed-8f9c-85d78c92a899",
+      "description": "Possimus dignissimos rem saepe.",
+      "startTime": 1509537506286,
+      "tags": [],
+      "finishTime": 1509537998826
+    },
+    {
+      "id": "96988ee9-9724-4c06-8d76-63e65e7a8233",
+      "description": "Rerum minus praesentium ea reprehenderit deleniti facere et.",
+      "startTime": 1509536097013,
+      "tags": [],
+      "finishTime": 1509537187053
+    },
+    {
+      "id": "855582ee-c679-4ca4-bda5-22c4264b91ce",
+      "description": "Aliquid architecto optio dolores minus quia et.",
+      "startTime": 1509535054509,
+      "tags": [
+        "work"
+      ],
+      "finishTime": 1509535922495
+    },
+    {
+      "id": "492f31a1-04c3-42aa-af8e-d58eae62454c",
+      "description": "Dolorem qui est et placeat.",
+      "startTime": 1509534106039,
+      "tags": [
+        "client2",
+        "Heaney - Gutkowski",
+        "client1"
+      ],
+      "finishTime": 1509534873363
+    },
+    {
+      "id": "17e4cbc3-5cc7-4a0c-bf91-b4299837e009",
+      "description": "Qui sit voluptas deserunt tempora.",
+      "startTime": 1509533530015,
+      "tags": [
+        "Larson - Schiller",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1509533690381
+    },
+    {
+      "id": "5798fe62-f6b3-4efb-baba-445da8a87daf",
+      "description": "Ullam non quisquam sit repellat impedit.",
+      "startTime": 1509532407630,
+      "tags": [
+        "Kerluke and Sons",
+        "Keebler, Hermann and Hodkiewicz",
+        "Kiehn, Hermann and Kshlerin",
+        "tag3"
+      ],
+      "finishTime": 1509533497571
+    },
+    {
+      "id": "609fa516-e946-417d-a352-7b12da1e83bb",
+      "description": "Autem quidem veniam ut velit quisquam rerum repellendus mollitia.",
+      "startTime": 1509531897292,
+      "tags": [],
+      "finishTime": 1509532003447
+    },
+    {
+      "id": "2ee6b52d-114a-4a3f-81cc-f625cd5c3c28",
+      "description": "Voluptatem voluptatem voluptatem.",
+      "startTime": 1509530531544,
+      "tags": [],
+      "finishTime": 1509531576613
+    },
+    {
+      "id": "c2386f7f-6cfe-4e76-b475-cc9655e59e95",
+      "description": "Dolores sint molestiae est id assumenda dolorum.",
+      "startTime": 1509529372000,
+      "tags": [
+        "work",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1509530029397
+    },
+    {
+      "id": "5fcead5f-7a51-4e80-a7ea-c082722a5938",
+      "description": "Quia recusandae ipsam sed ea.",
+      "startTime": 1509528145180,
+      "tags": [
+        "tag2",
+        "Kerluke and Sons",
+        "important"
+      ],
+      "finishTime": 1509529061545
+    },
+    {
+      "id": "b920676e-c639-4ee9-b9bc-9ea4567a113e",
+      "description": "Eligendi corrupti quis sint possimus veritatis quo fugiat eos magni.",
+      "startTime": 1509527417466,
+      "tags": [
+        "work",
+        "Heaney - Gutkowski",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1509528133848
+    },
+    {
+      "id": "8c6b7cc6-68e0-4ee3-b33a-84af2237ded0",
+      "description": "Rerum reprehenderit voluptatibus magnam.",
+      "startTime": 1509526155516,
+      "tags": [
+        "Sawayn LLC",
+        "Mertz, Block and Sauer",
+        "client2",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1509527020980
+    },
+    {
+      "id": "6a1e4a9c-b8ea-489e-b448-fa25469d8b08",
+      "description": "Ab culpa ratione hic voluptatem similique neque suscipit.",
+      "startTime": 1509524701685,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "Keebler, Hermann and Hodkiewicz",
+        "tag3"
+      ],
+      "finishTime": 1509525777562
+    },
+    {
+      "id": "a5bef56c-f257-468e-99bf-609a914bad97",
+      "description": "Blanditiis voluptas nobis repellendus non illo et veritatis a quisquam.",
+      "startTime": 1509523359724,
+      "tags": [],
+      "finishTime": 1509524361450
+    }
+  ]
+}
