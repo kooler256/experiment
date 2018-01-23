@@ -5,16 +5,90 @@
   "day": 14,
   "entries": [
     {
-      "id": "fa0b6a44-1cf4-439a-b271-0feafddf91a6",
-      "description": "Nam cumque odio et nemo.",
-      "startTime": 1515889151716,
+      "id": "09043d78-fc25-4fc0-9dee-59fc9695b018",
+      "description": "Ab quia qui cumque.",
+      "startTime": 1515926510713,
+      "tags": [],
+      "finishTime": 1515927248985
+    },
+    {
+      "id": "82bf935d-21f7-4029-adfa-20959887f2c4",
+      "description": "Et qui voluptatibus repudiandae cum dignissimos corporis dolorem asperiores aut.",
+      "startTime": 1515925104958,
+      "tags": [],
+      "finishTime": 1515926279248
+    },
+    {
+      "id": "815198f0-d6e2-49f3-a48a-73346612d2b3",
+      "description": "Et qui voluptates dicta ut quo voluptas laudantium molestiae et.",
+      "startTime": 1515924413225,
       "tags": [
-        "tag2",
-        "tag3",
-        "Hackett Group",
-        "Harris Group"
+        "client1",
+        "Kerluke and Sons",
+        "Tremblay and Sons"
       ],
-      "finishTime": 1515890223407
+      "finishTime": 1515925066398
+    },
+    {
+      "id": "6c2714de-fee5-4f12-8b83-92f80da0ec12",
+      "description": "Laudantium deleniti est et mollitia nam error sed excepturi.",
+      "startTime": 1515922896395,
+      "tags": [],
+      "finishTime": 1515923942696
+    },
+    {
+      "id": "bd42c6b0-be84-4ff3-9fee-7a43a151b8be",
+      "description": "Quas consequatur harum eos minima mollitia.",
+      "startTime": 1515921518489,
+      "tags": [],
+      "finishTime": 1515922437639
+    },
+    {
+      "id": "888728d0-cba0-42e2-9dfc-54ab84b665ae",
+      "description": "Inventore blanditiis in.",
+      "startTime": 1515920137871,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1515920972968
+    },
+    {
+      "id": "695bff29-2a64-4629-a269-6b5ce09f1948",
+      "description": "Ut dolorem doloribus velit corporis sed sapiente laboriosam aliquid eum.",
+      "startTime": 1515919299504,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "tag3"
+      ],
+      "finishTime": 1515919812733
+    },
+    {
+      "id": "d29ab78b-334f-4356-939a-ab6bd5c1ddc7",
+      "description": "Facere rerum eum quos officia aut quae tempore quia qui.",
+      "startTime": 1515918687571,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1515919037558
+    },
+    {
+      "id": "bff009ce-7827-4702-8348-4d59c8f5810f",
+      "description": "Magnam sed animi rerum maxime inventore dignissimos.",
+      "startTime": 1515918228950,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "Larson - Schiller",
+        "client1",
+        "Bahringer Group"
+      ],
+      "finishTime": 1515918448714
+    },
+    {
+      "id": "963be050-ed8a-4453-8f88-0099a639e06f",
+      "description": "Molestias et enim ipsa aut aspernatur in natus et architecto.",
+      "startTime": 1515916857500,
+      "tags": [],
+      "finishTime": 1515917760200
     }
   ]
 }
