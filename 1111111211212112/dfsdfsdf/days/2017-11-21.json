@@ -1,0 +1,112 @@
+{
+  "id": "day:2017-11-21",
+  "year": 2017,
+  "month": 11,
+  "day": 21,
+  "entries": [
+    {
+      "id": "f5f51bc4-4a9a-4b9a-835a-3d23baa398cf",
+      "description": "Aperiam laborum sunt dicta sit necessitatibus eaque neque officiis.",
+      "startTime": 1513852744100,
+      "tags": [],
+      "finishTime": 1513853636375
+    },
+    {
+      "id": "cdd42fa1-69ac-4a92-be47-f8726e363eb6",
+      "description": "Sunt nisi dolor ipsam autem distinctio omnis facere.",
+      "startTime": 1513851213153,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "client2",
+        "client1",
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1513852255158
+    },
+    {
+      "id": "b25e9da0-36e1-4129-93be-158570f3c5e0",
+      "description": "Dolore ut nisi aspernatur illum qui.",
+      "startTime": 1513849821163,
+      "tags": [],
+      "finishTime": 1513850769801
+    },
+    {
+      "id": "d0b3a3c9-4110-4953-8cde-bcbd9cc2c491",
+      "description": "In enim nostrum maiores accusamus doloribus architecto adipisci veniam.",
+      "startTime": 1513848501158,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "Kiehn, Hermann and Kshlerin",
+        "Tremblay and Sons",
+        "tag3"
+      ],
+      "finishTime": 1513849388983
+    },
+    {
+      "id": "75a0de67-fb8b-472d-bc57-3aba2260c19f",
+      "description": "Et repellendus autem error nihil perferendis velit.",
+      "startTime": 1513847792878,
+      "tags": [
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1513848142480
+    },
+    {
+      "id": "c6025370-ac58-483e-a426-65013cf31898",
+      "description": "Animi qui sunt et quam repudiandae et dignissimos dolorem ducimus.",
+      "startTime": 1513846548014,
+      "tags": [
+        "Sawayn LLC"
+      ],
+      "finishTime": 1513847343443
+    },
+    {
+      "id": "1868cf33-4b78-48ab-aabe-a54156f85b79",
+      "description": "Mollitia eos temporibus facere amet sit natus consequatur.",
+      "startTime": 1513845712087,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1513846077889
+    },
+    {
+      "id": "37a3d5f8-38c6-4ef9-a603-404c1a81d210",
+      "description": "Earum occaecati quo ut ad minima eum sit quisquam.",
+      "startTime": 1513845270874,
+      "tags": [
+        "Bahringer Group",
+        "work"
+      ],
+      "finishTime": 1513845700544
+    },
+    {
+      "id": "14367976-3a76-4dc7-a7b9-01f25d370c5b",
+      "description": "Iste perspiciatis alias perspiciatis sed maiores voluptates.",
+      "startTime": 1513844859723,
+      "tags": [
+        "Tremblay and Sons",
+        "work",
+        "tag2"
+      ],
+      "finishTime": 1513844866549
+    },
+    {
+      "id": "a2bcd8ed-777d-400f-a269-b8ea6753467d",
+      "description": "Qui qui et sunt aperiam ad autem explicabo ut.",
+      "startTime": 1513844333741,
+      "tags": [
+        "Kerluke and Sons",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1513844549538
+    },
+    {
+      "id": "ede64562-024b-42f1-8147-bf3e49d3cc98",
+      "description": "Quidem libero enim explicabo.",
+      "startTime": 1513843231019,
+      "tags": [],
+      "finishTime": 1513843982123
+    }
+  ]
+}
