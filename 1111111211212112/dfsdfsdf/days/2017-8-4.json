@@ -1,0 +1,70 @@
+{
+  "id": "day:2017-8-4",
+  "year": 2017,
+  "month": 8,
+  "day": 4,
+  "entries": [
+    {
+      "id": "811837c9-b137-4ede-96a5-ab2224fb5aa5",
+      "description": "Ipsum ex sunt rem debitis voluptas nemo.",
+      "startTime": 1504516212656,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "Bahringer Group",
+        "Heaney, Lockman and Klein",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1504516426009
+    },
+    {
+      "id": "4da85341-26a7-4d0c-818d-24da42845a6c",
+      "description": "Incidunt corrupti autem fugiat ut.",
+      "startTime": 1504515157625,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "Kerluke and Sons",
+        "tag3"
+      ],
+      "finishTime": 1504515626720
+    },
+    {
+      "id": "331b5ca3-4ae5-4c4d-bff7-aedacf910745",
+      "description": "Placeat similique aut vel expedita vel aliquid sed saepe asperiores.",
+      "startTime": 1504514385090,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1504514578354
+    },
+    {
+      "id": "2d198b3f-6059-4195-b212-aedf0ee34af6",
+      "description": "Corporis ut harum et non.",
+      "startTime": 1504513657573,
+      "tags": [
+        "client1",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1504514224600
+    },
+    {
+      "id": "c0ea4c5b-d929-4073-828b-e5f243e21ff1",
+      "description": "Et eius exercitationem nesciunt.",
+      "startTime": 1504512970280,
+      "tags": [
+        "Larson - Schiller",
+        "client2",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1504513184413
+    },
+    {
+      "id": "2e7967fe-29eb-478f-bf37-93a3aa78986c",
+      "description": "Est nemo delectus nihil.",
+      "startTime": 1504511893431,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1504512655833
+    }
+  ]
+}
