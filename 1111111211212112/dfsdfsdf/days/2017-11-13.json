@@ -1,0 +1,143 @@
+{
+  "id": "day:2017-11-13",
+  "year": 2017,
+  "month": 11,
+  "day": 13,
+  "entries": [
+    {
+      "id": "c5c989da-f166-4aeb-b09d-aed759f9949d",
+      "description": "Aut nemo veniam voluptatem numquam quas et quidem perferendis quidem.",
+      "startTime": 1513163598581,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1513164171071
+    },
+    {
+      "id": "bfd09abd-5fdc-4392-ad68-0297524db415",
+      "description": "Omnis nesciunt et praesentium consequuntur nisi error deleniti.",
+      "startTime": 1513162457607,
+      "tags": [
+        "important",
+        "client2"
+      ],
+      "finishTime": 1513163157769
+    },
+    {
+      "id": "b3f661d6-ad33-4ded-af50-10831afa407c",
+      "description": "Eligendi molestiae necessitatibus enim omnis quia maiores aliquam quod ut.",
+      "startTime": 1513161278536,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Bahringer Group",
+        "tag1",
+        "important"
+      ],
+      "finishTime": 1513162209241
+    },
+    {
+      "id": "ebead0f1-5b37-4398-812a-78c0db737663",
+      "description": "Eius ad ut.",
+      "startTime": 1513160626510,
+      "tags": [
+        "Tremblay and Sons",
+        "tag3"
+      ],
+      "finishTime": 1513160872603
+    },
+    {
+      "id": "eb3906e4-2267-457b-9a9c-9189a05d8934",
+      "description": "Ut et in sint fugiat neque.",
+      "startTime": 1513159369983,
+      "tags": [
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1513160083655
+    },
+    {
+      "id": "21393a25-6202-4176-a61f-870a555afc67",
+      "description": "Quia velit id quia fugiat qui suscipit.",
+      "startTime": 1513158341437,
+      "tags": [
+        "tag1",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1513159121360
+    },
+    {
+      "id": "5930a086-ef60-4468-a97f-4b32effee77b",
+      "description": "Minus ea occaecati non ullam blanditiis tenetur sunt et.",
+      "startTime": 1513157134040,
+      "tags": [
+        "Heaney - Gutkowski",
+        "important",
+        "client2"
+      ],
+      "finishTime": 1513158243859
+    },
+    {
+      "id": "34ba790f-dc0c-44c4-8532-c76f21b9554b",
+      "description": "Hic pariatur incidunt ut sunt.",
+      "startTime": 1513156349157,
+      "tags": [
+        "tag1",
+        "Tremblay and Sons",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1513156633290
+    },
+    {
+      "id": "b35d7447-726b-4772-8815-478bfdbaa6e2",
+      "description": "Fugiat commodi qui laboriosam.",
+      "startTime": 1513155443397,
+      "tags": [
+        "tag3",
+        "Keebler, Hermann and Hodkiewicz",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1513156196868
+    },
+    {
+      "id": "efe7f603-02e2-4f41-838a-dd0612c1aa98",
+      "description": "Impedit itaque mollitia et.",
+      "startTime": 1513154482951,
+      "tags": [
+        "tag3",
+        "Bahringer Group",
+        "client2",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1513155195615
+    },
+    {
+      "id": "86615975-46de-4d20-9bff-851e1b7125bb",
+      "description": "Nesciunt porro sequi dolores incidunt.",
+      "startTime": 1513153656076,
+      "tags": [
+        "Heaney - Gutkowski",
+        "important"
+      ],
+      "finishTime": 1513154074186
+    },
+    {
+      "id": "b6ad23bd-8e78-4b29-9456-cfc64f0da57e",
+      "description": "Ipsam in qui.",
+      "startTime": 1513152557663,
+      "tags": [
+        "work",
+        "tag3",
+        "client1"
+      ],
+      "finishTime": 1513153120268
+    },
+    {
+      "id": "3615be3e-0f63-4d3d-964f-0fc8a58f5d7f",
+      "description": "Ea saepe saepe facilis commodi.",
+      "startTime": 1513152087548,
+      "tags": [
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1513152407344
+    }
+  ]
+}
