@@ -1,0 +1,151 @@
+{
+  "id": "day:2017-8-25",
+  "year": 2017,
+  "month": 8,
+  "day": 25,
+  "entries": [
+    {
+      "id": "b321e421-adc5-4fdd-92cf-799012781ec7",
+      "description": "Vel voluptatem impedit.",
+      "startTime": 1506336967547,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1506338065867
+    },
+    {
+      "id": "faa7eb9f-43b6-47a4-8618-cd0f567d7573",
+      "description": "Eaque veniam perferendis quia consequuntur sit fugit repellat.",
+      "startTime": 1506336506500,
+      "tags": [
+        "client1"
+      ],
+      "finishTime": 1506336524636
+    },
+    {
+      "id": "87974f3f-5d14-4eaa-8c89-8eace3fceb78",
+      "description": "Consectetur harum iusto quo voluptatem.",
+      "startTime": 1506335870384,
+      "tags": [],
+      "finishTime": 1506336489089
+    },
+    {
+      "id": "487323bf-9d9e-4914-8211-02df71ad0387",
+      "description": "Dolores nesciunt repellendus ab et nobis veniam eius consequuntur aut.",
+      "startTime": 1506334609223,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "Kerluke and Sons",
+        "tag2",
+        "tag3"
+      ],
+      "finishTime": 1506335582174
+    },
+    {
+      "id": "14a386e1-ef3e-41f7-9610-df7fce9c6f2f",
+      "description": "Aut molestiae ipsum rerum.",
+      "startTime": 1506334057416,
+      "tags": [
+        "Tremblay and Sons",
+        "client2"
+      ],
+      "finishTime": 1506334385771
+    },
+    {
+      "id": "af7e1bf6-7657-497f-99b2-d749edc7bd3f",
+      "description": "Facilis sint dolor non ratione ad et.",
+      "startTime": 1506333246336,
+      "tags": [],
+      "finishTime": 1506333775409
+    },
+    {
+      "id": "d37978aa-369a-4bfa-977c-14bd4487c41e",
+      "description": "Est omnis sit.",
+      "startTime": 1506332197798,
+      "tags": [
+        "Kerluke and Sons",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1506332832942
+    },
+    {
+      "id": "dfe4d487-9ed9-41a4-80f5-3de004fdebb2",
+      "description": "Qui quas saepe dicta animi.",
+      "startTime": 1506331592864,
+      "tags": [
+        "important",
+        "tag2",
+        "client1",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1506331769096
+    },
+    {
+      "id": "225eff21-2b2f-4a52-b0fa-536717c89994",
+      "description": "Ex saepe accusantium non nihil.",
+      "startTime": 1506331092857,
+      "tags": [
+        "Larson - Schiller",
+        "Heaney, Lockman and Klein",
+        "important",
+        "Bahringer Group"
+      ],
+      "finishTime": 1506331115191
+    },
+    {
+      "id": "0a1c1a8b-5b65-4adb-bd1c-112e72dec458",
+      "description": "Aspernatur quos voluptatem illo sunt fuga voluptatum.",
+      "startTime": 1506330174132,
+      "tags": [
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1506331073190
+    },
+    {
+      "id": "49861ea5-536f-48ac-8e56-4f856d39df7f",
+      "description": "Quod sed iure reiciendis nobis minima commodi.",
+      "startTime": 1506329233394,
+      "tags": [
+        "Heaney - Gutkowski",
+        "client1",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1506330040079
+    },
+    {
+      "id": "a8dd7dec-1630-4f79-90b0-c8088711ab57",
+      "description": "Incidunt quasi magnam veritatis.",
+      "startTime": 1506328492846,
+      "tags": [
+        "Larson - Schiller",
+        "Bahringer Group",
+        "Kerluke and Sons",
+        "client2"
+      ],
+      "finishTime": 1506328965851
+    },
+    {
+      "id": "4f664c6a-d333-4ece-bfe9-e4c6deec8369",
+      "description": "Accusamus et iusto.",
+      "startTime": 1506327089123,
+      "tags": [
+        "Tremblay and Sons",
+        "Heaney - Gutkowski",
+        "client2"
+      ],
+      "finishTime": 1506328104880
+    },
+    {
+      "id": "edc1a320-3f3f-40b8-a395-7988499dc554",
+      "description": "Ex sed ducimus et occaecati atque voluptatem sed facere.",
+      "startTime": 1506326095999,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Mertz, Block and Sauer",
+        "Larson - Schiller",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1506327062265
+    }
+  ]
+}
