@@ -1,0 +1,76 @@
+{
+  "id": "day:2017-11-23",
+  "year": 2017,
+  "month": 11,
+  "day": 23,
+  "entries": [
+    {
+      "id": "a03aa3bc-8f60-4848-9a12-bfc150dccafe",
+      "description": "Quia repellat voluptatem asperiores aliquam eos eaque accusantium nulla eos.",
+      "startTime": 1514022051360,
+      "tags": [
+        "client1",
+        "tag1",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1514022663017
+    },
+    {
+      "id": "f7849b3f-a99b-4adf-adce-de649f0eec8e",
+      "description": "Voluptatum consequatur qui vero eos qui eum atque nihil et.",
+      "startTime": 1514021210391,
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "finishTime": 1514021744672
+    },
+    {
+      "id": "5fdcacad-c4de-4144-b03e-43597908b1bf",
+      "description": "Nihil et consequuntur dolores et velit qui magnam est.",
+      "startTime": 1514020743814,
+      "tags": [
+        "tag1",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1514021115552
+    },
+    {
+      "id": "0188f56e-56bd-4719-894f-3c70f614fe7e",
+      "description": "Et sit delectus natus qui.",
+      "startTime": 1514019482747,
+      "tags": [
+        "Tremblay and Sons",
+        "Keebler, Hermann and Hodkiewicz",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1514020508844
+    },
+    {
+      "id": "d0ffffc7-6c4d-4eb4-80bb-4ab5a29cd0a2",
+      "description": "Sit quas non qui corporis doloribus eligendi qui facere.",
+      "startTime": 1514017823367,
+      "tags": [],
+      "finishTime": 1514018974851
+    },
+    {
+      "id": "d9c68996-84bf-4c3c-9188-ca7df700f22e",
+      "description": "Possimus quo velit est dolore eaque recusandae eaque similique maiores.",
+      "startTime": 1514016558077,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1514017736633
+    },
+    {
+      "id": "2fa83ab6-303a-4390-bec2-9d6a3ca1e275",
+      "description": "Molestiae deleniti tempore asperiores praesentium est dolores distinctio totam quidem.",
+      "startTime": 1514015934905,
+      "tags": [
+        "work",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1514016528054
+    }
+  ]
+}
