@@ -1,0 +1,138 @@
+{
+  "id": "day:2017-7-30",
+  "year": 2017,
+  "month": 7,
+  "day": 30,
+  "entries": [
+    {
+      "id": "1d895af0-fb83-4cd3-b982-7740babe569c",
+      "description": "Dolorem qui dicta minima.",
+      "startTime": 1504089618858,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "client1",
+        "Sawayn LLC",
+        "Bahringer Group"
+      ],
+      "finishTime": 1504090816556
+    },
+    {
+      "id": "ab093df1-ebe4-4665-aa31-5dfe723abd2e",
+      "description": "Laboriosam facilis eligendi ullam qui iusto dolorum laudantium esse.",
+      "startTime": 1504089190035,
+      "tags": [
+        "Larson - Schiller",
+        "Mertz, Block and Sauer",
+        "Bahringer Group",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1504089414992
+    },
+    {
+      "id": "707d23d6-9e1f-4de2-aa08-a1a0b1133700",
+      "description": "Quis qui quibusdam qui amet consequatur distinctio.",
+      "startTime": 1504089035291,
+      "tags": [
+        "work",
+        "client2",
+        "Keebler, Hermann and Hodkiewicz",
+        "tag3"
+      ],
+      "finishTime": 1504089072063
+    },
+    {
+      "id": "228d36f1-f03e-4be9-9161-a8bc7f9ca4b9",
+      "description": "Ea nihil eum ullam qui voluptatum.",
+      "startTime": 1504087797655,
+      "tags": [
+        "work",
+        "Heaney - Gutkowski",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1504088735882
+    },
+    {
+      "id": "617b6cb1-48e9-4a27-b5a3-28c31faec2d0",
+      "description": "Aperiam quae repellat aliquam non.",
+      "startTime": 1504086368688,
+      "tags": [],
+      "finishTime": 1504087474634
+    },
+    {
+      "id": "16674a49-32e9-4f79-af67-b2b58fb76a7e",
+      "description": "Autem dignissimos porro et quas inventore in velit aliquid dolores.",
+      "startTime": 1504085383813,
+      "tags": [],
+      "finishTime": 1504086021136
+    },
+    {
+      "id": "b36759b6-b39a-4be9-b896-96f3efa8594a",
+      "description": "Deleniti et tempore non voluptatem dicta deleniti dicta occaecati.",
+      "startTime": 1504084602898,
+      "tags": [
+        "tag3",
+        "Larson - Schiller",
+        "tag1"
+      ],
+      "finishTime": 1504085189896
+    },
+    {
+      "id": "f1567c26-6b26-4c41-9581-35f72ab7e041",
+      "description": "Rem modi enim ipsa eum natus eum vel ipsa ut.",
+      "startTime": 1504084142889,
+      "tags": [
+        "Sawayn LLC",
+        "Larson - Schiller",
+        "Bahringer Group"
+      ],
+      "finishTime": 1504084179962
+    },
+    {
+      "id": "76a2f5cd-fb06-4896-839b-1fc1721df8a9",
+      "description": "Alias ea doloribus nihil assumenda.",
+      "startTime": 1504083700691,
+      "tags": [],
+      "finishTime": 1504084082230
+    },
+    {
+      "id": "7f30dcb8-0ab3-49f4-957e-b701e01bccdd",
+      "description": "Voluptas blanditiis vitae repellat amet enim voluptatem exercitationem ut.",
+      "startTime": 1504082933089,
+      "tags": [
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1504083363319
+    },
+    {
+      "id": "73b2fd1d-1bf6-42b3-a7d3-8f1dd08a80c0",
+      "description": "Velit a facere nihil excepturi et.",
+      "startTime": 1504081915836,
+      "tags": [],
+      "finishTime": 1504082401883
+    },
+    {
+      "id": "5082e46e-028d-4581-ae96-7e7c36d30a68",
+      "description": "Quia est ut natus earum.",
+      "startTime": 1504080544477,
+      "tags": [
+        "Kerluke and Sons",
+        "Sawayn LLC",
+        "Bahringer Group",
+        "tag3"
+      ],
+      "finishTime": 1504081564591
+    },
+    {
+      "id": "ab627b86-61ec-4b27-ab64-7b591bbeef5f",
+      "description": "Ullam provident quo.",
+      "startTime": 1504079757391,
+      "tags": [
+        "client1",
+        "Kerluke and Sons",
+        "work",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1504080292062
+    }
+  ]
+}
