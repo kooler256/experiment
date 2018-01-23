@@ -5,16 +5,140 @@
   "day": 18,
   "entries": [
     {
-      "id": "a0b09cb2-db80-4fb0-ac5a-41ca621c01a1",
-      "description": "Laboriosam voluptatem et velit maiores rerum.",
-      "startTime": 1513566464067,
+      "id": "41b84692-fd80-4e0b-b8e0-e63be8ea8b40",
+      "description": "Aut ab assumenda consequatur sed iste dolorum dolorem.",
+      "startTime": 1513596101650,
       "tags": [
-        "Parker and Sons",
-        "client2",
-        "work",
-        "tag2"
+        "Heaney, Lockman and Klein",
+        "tag1",
+        "Sawayn LLC",
+        "work"
       ],
-      "finishTime": 1513567485586
+      "finishTime": 1513597199968
+    },
+    {
+      "id": "d80f83da-dc05-425e-b592-9457c0e2f6d9",
+      "description": "Debitis ratione doloremque praesentium et sapiente modi sunt hic qui.",
+      "startTime": 1513595351878,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1513596076700
+    },
+    {
+      "id": "bf1bba46-1e5c-4ee0-bf27-c019b881ced8",
+      "description": "Odio sunt qui laudantium.",
+      "startTime": 1513595090728,
+      "tags": [],
+      "finishTime": 1513595181014
+    },
+    {
+      "id": "b86b3097-01eb-4aa8-b8d4-8ba0d60f3abc",
+      "description": "Quas enim ipsa dolorum est natus eum dolores.",
+      "startTime": 1513593863059,
+      "tags": [
+        "Kerluke and Sons",
+        "important",
+        "tag1"
+      ],
+      "finishTime": 1513594998391
+    },
+    {
+      "id": "c11ba0cb-69be-461d-a4fb-56b012077a95",
+      "description": "Eos perferendis nostrum.",
+      "startTime": 1513592327635,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag1",
+        "client1"
+      ],
+      "finishTime": 1513593475117
+    },
+    {
+      "id": "42f65c85-9154-4b50-a113-31699be198f7",
+      "description": "Aliquam illum sed voluptatem praesentium dolores itaque dolores voluptates quis.",
+      "startTime": 1513591739234,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag1",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1513591938581
+    },
+    {
+      "id": "b863b9c9-0a12-436f-903e-1b2b36c106a5",
+      "description": "Dolorum autem debitis atque.",
+      "startTime": 1513591259126,
+      "tags": [],
+      "finishTime": 1513591369894
+    },
+    {
+      "id": "47aecfe5-179c-4d62-b097-750bf6074b43",
+      "description": "Non omnis rerum sequi dolor quidem rerum adipisci.",
+      "startTime": 1513590544640,
+      "tags": [
+        "Bahringer Group",
+        "important",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1513590730295
+    },
+    {
+      "id": "f8a498bf-798b-464d-874f-60939199a632",
+      "description": "Enim illum et quisquam.",
+      "startTime": 1513589400476,
+      "tags": [
+        "tag3",
+        "Bahringer Group"
+      ],
+      "finishTime": 1513590077863
+    },
+    {
+      "id": "4dc7f5bc-0c8c-442b-9d75-29c6bf23f43d",
+      "description": "Ipsum nemo delectus.",
+      "startTime": 1513588043993,
+      "tags": [
+        "client1",
+        "Keebler, Hermann and Hodkiewicz",
+        "important",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1513588980961
+    },
+    {
+      "id": "ed61496b-3a2a-4237-82f5-15582d3df8fa",
+      "description": "Eius officia aut minus dignissimos non.",
+      "startTime": 1513587223106,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1513587718529
+    },
+    {
+      "id": "7ac28beb-e79d-4657-bc73-5effe9bc0cef",
+      "description": "Quia sequi eveniet perspiciatis voluptate omnis ab modi.",
+      "startTime": 1513586082579,
+      "tags": [],
+      "finishTime": 1513586625818
+    },
+    {
+      "id": "264fa46d-9b96-44fd-991a-0e85947f11fc",
+      "description": "Ad laborum mollitia voluptatum ipsa.",
+      "startTime": 1513585234984,
+      "tags": [
+        "client1",
+        "important"
+      ],
+      "finishTime": 1513585772714
+    },
+    {
+      "id": "574e9bda-c538-4090-972e-dad54f06057d",
+      "description": "Sit dolor omnis velit voluptatum blanditiis nostrum et eum similique.",
+      "startTime": 1513583985179,
+      "tags": [
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1513584944309
     }
   ]
 }
