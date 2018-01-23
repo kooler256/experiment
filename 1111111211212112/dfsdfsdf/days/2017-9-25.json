@@ -1,0 +1,147 @@
+{
+  "id": "day:2017-9-25",
+  "year": 2017,
+  "month": 9,
+  "day": 25,
+  "entries": [
+    {
+      "id": "38e63041-fb24-4117-b383-0fedc5dc396e",
+      "description": "Ad et ratione.",
+      "startTime": 1508928798595,
+      "tags": [
+        "tag2",
+        "important"
+      ],
+      "finishTime": 1508929755701
+    },
+    {
+      "id": "64cebc9b-7c01-4c94-9dab-a53085f746ab",
+      "description": "Quod quaerat aut dicta et.",
+      "startTime": 1508928354319,
+      "tags": [
+        "tag3"
+      ],
+      "finishTime": 1508928542397
+    },
+    {
+      "id": "ae317741-b4ce-4ab1-91d5-ac369b6e2139",
+      "description": "Atque accusantium repellendus optio.",
+      "startTime": 1508926820448,
+      "tags": [
+        "tag3",
+        "tag2"
+      ],
+      "finishTime": 1508927995675
+    },
+    {
+      "id": "0b4439e2-ad41-4e74-b79a-f866daa0ceb6",
+      "description": "Sit dolore vel est libero impedit asperiores qui repellendus odit.",
+      "startTime": 1508926471490,
+      "tags": [
+        "important",
+        "tag2"
+      ],
+      "finishTime": 1508926666261
+    },
+    {
+      "id": "191fa8f3-87ea-444f-a375-c12fd9da14b5",
+      "description": "Quia qui vero.",
+      "startTime": 1508925648528,
+      "tags": [
+        "client1",
+        "Heaney, Lockman and Klein",
+        "client2",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1508926351118
+    },
+    {
+      "id": "e6d1d8a1-f375-4144-bd34-c321f987d0f7",
+      "description": "Id est rerum consequatur eaque est ex optio.",
+      "startTime": 1508925186714,
+      "tags": [],
+      "finishTime": 1508925629399
+    },
+    {
+      "id": "9eb39de3-4b89-44a9-901f-16c6760faf2d",
+      "description": "Voluptas sed unde in voluptas deserunt sequi nam laudantium eum.",
+      "startTime": 1508924229286,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "Kiehn, Hermann and Kshlerin",
+        "important"
+      ],
+      "finishTime": 1508925012688
+    },
+    {
+      "id": "75d61e16-936a-4d6c-b647-124bf60da1c3",
+      "description": "Voluptatem earum ut ut quis rerum et.",
+      "startTime": 1508923044065,
+      "tags": [
+        "Tremblay and Sons",
+        "Mertz, Block and Sauer",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1508923879389
+    },
+    {
+      "id": "a5f265d4-b106-4c91-b0fe-fe569c4c50e4",
+      "description": "Nihil voluptatem voluptatem unde reprehenderit assumenda libero fugit aut et.",
+      "startTime": 1508921659963,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag3",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1508922505143
+    },
+    {
+      "id": "cd590450-0b02-4090-b3fe-03ea990e8bd8",
+      "description": "Cum sit deleniti.",
+      "startTime": 1508920838786,
+      "tags": [],
+      "finishTime": 1508921067437
+    },
+    {
+      "id": "c506d971-96a0-436d-b564-dec2c6aea4ff",
+      "description": "Culpa laboriosam laborum officiis et corrupti aut quia.",
+      "startTime": 1508920422719,
+      "tags": [],
+      "finishTime": 1508920731842
+    },
+    {
+      "id": "c5c04b40-6dd1-40ae-80e2-1a9df7751bd8",
+      "description": "Id quod a consequatur at.",
+      "startTime": 1508919692459,
+      "tags": [
+        "tag2",
+        "tag3",
+        "Kerluke and Sons",
+        "work"
+      ],
+      "finishTime": 1508920294145
+    },
+    {
+      "id": "43d86de1-2dd0-4dac-8e70-27cb615a2b6d",
+      "description": "Et quisquam et quasi reprehenderit id.",
+      "startTime": 1508919163075,
+      "tags": [
+        "tag1",
+        "Kerluke and Sons",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1508919294659
+    },
+    {
+      "id": "eb27a418-6e7a-401d-9760-b57bcf2be2b4",
+      "description": "Quas facilis dolorum et aut aut quisquam.",
+      "startTime": 1508918303797,
+      "tags": [
+        "Kerluke and Sons",
+        "tag1",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1508918830683
+    }
+  ]
+}
