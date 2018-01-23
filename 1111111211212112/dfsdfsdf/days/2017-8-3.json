@@ -1,0 +1,89 @@
+{
+  "id": "day:2017-8-3",
+  "year": 2017,
+  "month": 8,
+  "day": 3,
+  "entries": [
+    {
+      "id": "27d898f4-d669-4ea2-bae7-66b322cc6aea",
+      "description": "Et explicabo animi est.",
+      "startTime": 1504433308282,
+      "tags": [
+        "tag3",
+        "Kerluke and Sons",
+        "important"
+      ],
+      "finishTime": 1504434310692
+    },
+    {
+      "id": "f70240ca-b0b8-4c4c-930c-1f0cd2b2d468",
+      "description": "Delectus cum voluptate odit molestiae et aut ea.",
+      "startTime": 1504431934317,
+      "tags": [],
+      "finishTime": 1504432807690
+    },
+    {
+      "id": "2d37b57a-59e9-49ff-bced-1cb8bf3edf85",
+      "description": "Id amet esse cupiditate voluptas consequuntur quis ipsum.",
+      "startTime": 1504430920938,
+      "tags": [],
+      "finishTime": 1504431411031
+    },
+    {
+      "id": "75bc9c18-8d93-44c6-859b-8b858c8b9bfa",
+      "description": "Adipisci quod ratione maiores nostrum cum.",
+      "startTime": 1504430604552,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "tag2"
+      ],
+      "finishTime": 1504430851410
+    },
+    {
+      "id": "dafb2c4a-91a1-4107-96e2-477560159760",
+      "description": "Voluptatibus eos reiciendis voluptas veniam sint.",
+      "startTime": 1504429201423,
+      "tags": [],
+      "finishTime": 1504430104332
+    },
+    {
+      "id": "b86214b8-7c3b-445a-989b-7af296e26ddc",
+      "description": "Reprehenderit nesciunt in quia.",
+      "startTime": 1504427641678,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1504428625678
+    },
+    {
+      "id": "73f16076-d927-4f70-a7fc-338cc63854df",
+      "description": "Et aut maxime dolores est odit consequatur.",
+      "startTime": 1504427112261,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "Tremblay and Sons",
+        "important",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1504427519611
+    },
+    {
+      "id": "4e55c037-c203-49b2-9967-e0e5bc88315d",
+      "description": "Et quis quasi nihil et qui.",
+      "startTime": 1504426848797,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1504426968225
+    },
+    {
+      "id": "28ae3814-3c29-49f6-9d7e-bc88041655c5",
+      "description": "Architecto doloribus sequi qui odit debitis totam maiores.",
+      "startTime": 1504425546601,
+      "tags": [
+        "work"
+      ],
+      "finishTime": 1504426398358
+    }
+  ]
+}
