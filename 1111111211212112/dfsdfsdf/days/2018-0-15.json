@@ -5,11 +5,138 @@
   "day": 15,
   "entries": [
     {
-      "id": "9ca416b6-be72-4de1-933c-ec81ef512bae",
-      "description": "Cum eos qui quis maiores.",
-      "startTime": 1515974159350,
+      "id": "fb6a76f2-39e9-450c-9669-152e68d1affa",
+      "description": "Qui deleniti eos earum cupiditate consequatur.",
+      "startTime": 1516014299287,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "tag1",
+        "Kerluke and Sons",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1516015406538
+    },
+    {
+      "id": "4d1f1f81-239a-46d5-bb62-cb47797a0b54",
+      "description": "Sed voluptas consequatur voluptatem quidem et.",
+      "startTime": 1516012675777,
       "tags": [],
-      "finishTime": 1515975175252
+      "finishTime": 1516013769442
+    },
+    {
+      "id": "8347a26f-e06c-43e6-8bc1-9093357627ef",
+      "description": "Sed sit atque provident voluptate.",
+      "startTime": 1516011175004,
+      "tags": [
+        "work",
+        "important",
+        "tag3",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1516012203298
+    },
+    {
+      "id": "5d4cd0b9-86d2-44fd-b1b8-2bfcbf9f411b",
+      "description": "Sed ut sequi.",
+      "startTime": 1516009938353,
+      "tags": [
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1516010584820
+    },
+    {
+      "id": "ca2b3f19-27e8-4d2a-acee-a3b510e0f5bc",
+      "description": "Id exercitationem fugiat illo.",
+      "startTime": 1516009512857,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "work"
+      ],
+      "finishTime": 1516009718327
+    },
+    {
+      "id": "e6aa1416-d323-4cfa-8501-bf7bf0730f37",
+      "description": "Minus amet quia id mollitia totam iusto itaque iusto unde.",
+      "startTime": 1516008770696,
+      "tags": [
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1516009041062
+    },
+    {
+      "id": "9d92e5f8-13ea-411c-9136-2a753df6a0f2",
+      "description": "Quia neque voluptas dolorem dignissimos recusandae omnis atque.",
+      "startTime": 1516007845371,
+      "tags": [
+        "Bahringer Group",
+        "client1",
+        "tag3",
+        "tag1"
+      ],
+      "finishTime": 1516008489304
+    },
+    {
+      "id": "5dcecc01-a755-4a9d-b6a4-da53151a2f29",
+      "description": "Saepe consequatur quia praesentium nisi quas similique error.",
+      "startTime": 1516007478949,
+      "tags": [
+        "tag1",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1516007555313
+    },
+    {
+      "id": "9d7755f0-7c8e-4b07-bc48-4c9bbe9cc2fd",
+      "description": "Et aliquid hic molestiae deleniti laudantium sit.",
+      "startTime": 1516006636215,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "client2",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1516007444329
+    },
+    {
+      "id": "691c93be-c6f7-429e-97f8-8b049f5c6dea",
+      "description": "Vel maiores velit.",
+      "startTime": 1516005267571,
+      "tags": [
+        "tag1",
+        "Tremblay and Sons",
+        "tag3",
+        "important"
+      ],
+      "finishTime": 1516006137521
+    },
+    {
+      "id": "6e971744-e1ab-407c-8922-c2a3bc0caf83",
+      "description": "Quia voluptatem quo rem et.",
+      "startTime": 1516004933034,
+      "tags": [
+        "Kerluke and Sons",
+        "Heaney - Gutkowski",
+        "tag3"
+      ],
+      "finishTime": 1516005155492
+    },
+    {
+      "id": "1d08a480-8107-42dc-80ac-56d798620b2a",
+      "description": "Molestiae quis debitis voluptatem voluptatibus nesciunt officiis eius quos.",
+      "startTime": 1516003970877,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "client2",
+        "Mertz, Block and Sauer",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1516004687602
+    },
+    {
+      "id": "73e016e5-56f4-44d7-ba01-62a033cfcb1b",
+      "description": "Expedita voluptatem culpa voluptatem nulla dolorem asperiores quo.",
+      "startTime": 1516003322781,
+      "tags": [],
+      "finishTime": 1516003630821
     }
   ]
 }
