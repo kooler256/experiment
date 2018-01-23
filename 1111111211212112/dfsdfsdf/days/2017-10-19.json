@@ -1,0 +1,108 @@
+{
+  "id": "day:2017-10-19",
+  "year": 2017,
+  "month": 10,
+  "day": 19,
+  "entries": [
+    {
+      "id": "b69f79ee-8910-40c3-bd78-e4fb27b17556",
+      "description": "Inventore enim earum dolores facilis.",
+      "startTime": 1511086189388,
+      "tags": [
+        "client1",
+        "Kiehn, Hermann and Kshlerin",
+        "Heaney, Lockman and Klein",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1511086723327
+    },
+    {
+      "id": "d66b61ad-e113-4642-9b91-705993f916d0",
+      "description": "Quasi voluptatem ut nulla omnis enim et maiores.",
+      "startTime": 1511085472907,
+      "tags": [
+        "client1",
+        "work",
+        "Sawayn LLC",
+        "important"
+      ],
+      "finishTime": 1511086104126
+    },
+    {
+      "id": "5367d02c-f24c-4ccc-93b9-a4ba0f79c9bb",
+      "description": "Consequatur vel alias autem ipsam vitae magnam aut et voluptate.",
+      "startTime": 1511085020521,
+      "tags": [
+        "tag1"
+      ],
+      "finishTime": 1511085337761
+    },
+    {
+      "id": "58b06560-e177-4ad7-8832-5aa60c8e2fa2",
+      "description": "Repellat quidem quod voluptas.",
+      "startTime": 1511083908662,
+      "tags": [],
+      "finishTime": 1511084903051
+    },
+    {
+      "id": "e987179d-550b-49cf-9dc1-1ddf8a380085",
+      "description": "Quaerat accusamus quis voluptatem culpa eum molestiae commodi ab.",
+      "startTime": 1511083541428,
+      "tags": [
+        "client1",
+        "important"
+      ],
+      "finishTime": 1511083722032
+    },
+    {
+      "id": "a4223808-73bd-4181-83aa-828284842f81",
+      "description": "Nisi ullam mollitia officia odit id non nisi fugiat similique.",
+      "startTime": 1511082395153,
+      "tags": [],
+      "finishTime": 1511083259137
+    },
+    {
+      "id": "a96c4dad-4397-4dd1-971f-ed8fe46af21f",
+      "description": "Repellat ut qui.",
+      "startTime": 1511082152441,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1511082305902
+    },
+    {
+      "id": "d1ad66fa-5a07-4238-8774-1a976fcfe095",
+      "description": "Consequatur et eius non velit aut placeat laboriosam error.",
+      "startTime": 1511080630294,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "tag1",
+        "Sawayn LLC",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1511081565225
+    },
+    {
+      "id": "e7b5430e-ebb3-464e-a272-2108228e9e87",
+      "description": "Possimus quia et.",
+      "startTime": 1511079474028,
+      "tags": [
+        "Tremblay and Sons",
+        "Keebler, Hermann and Hodkiewicz",
+        "client2",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1511080385917
+    },
+    {
+      "id": "ac890dbc-870a-4d49-b686-9d6410d90875",
+      "description": "Dicta natus deleniti natus repellat nostrum.",
+      "startTime": 1511078339519,
+      "tags": [
+        "tag2",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1511078939165
+    }
+  ]
+}
