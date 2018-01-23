@@ -1,0 +1,57 @@
+{
+  "id": "day:2017-9-30",
+  "year": 2017,
+  "month": 9,
+  "day": 30,
+  "entries": [
+    {
+      "id": "d0cb6a6a-7f2a-453d-8e89-fcd57bef3df0",
+      "description": "Et natus nisi molestiae molestias eligendi.",
+      "startTime": 1509354708469,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1509354720282
+    },
+    {
+      "id": "cf7fd03c-8e78-4eda-ad8e-5598298c4eb7",
+      "description": "Dolorem impedit sit.",
+      "startTime": 1509353292846,
+      "tags": [
+        "Larson - Schiller",
+        "Kerluke and Sons",
+        "tag2"
+      ],
+      "finishTime": 1509354250043
+    },
+    {
+      "id": "ec1a07d7-3260-4f3c-b10b-33ae2e00ea5c",
+      "description": "Officia et quo minima qui aliquam dolores itaque culpa voluptatem.",
+      "startTime": 1509352386072,
+      "tags": [
+        "important",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1509352724420
+    },
+    {
+      "id": "e4935a43-f869-4c11-af95-7d0f574e1224",
+      "description": "Totam esse sed fuga vero in provident officia.",
+      "startTime": 1509351566323,
+      "tags": [
+        "Heaney - Gutkowski",
+        "tag3",
+        "tag2",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1509352005525
+    },
+    {
+      "id": "2ae96b12-126c-4662-8fff-4cf947f80e87",
+      "description": "Maxime consectetur et maxime eos et iusto tempore.",
+      "startTime": 1509350482913,
+      "tags": [],
+      "finishTime": 1509351195368
+    }
+  ]
+}
