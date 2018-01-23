@@ -1,0 +1,58 @@
+{
+  "id": "day:2017-11-15",
+  "year": 2017,
+  "month": 11,
+  "day": 15,
+  "entries": [
+    {
+      "id": "dec5c468-6aec-46a8-9981-aba5640b3273",
+      "description": "Rem quo doloremque quo culpa et nam perferendis atque.",
+      "startTime": 1513328952669,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1513329022626
+    },
+    {
+      "id": "3bf7203f-a961-4321-a39a-cf67a354eb99",
+      "description": "Eos sunt maiores qui ad totam harum fugit.",
+      "startTime": 1513328320072,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1513328504367
+    },
+    {
+      "id": "c4370236-9820-471e-827b-040efe193e6b",
+      "description": "Ad aut sunt fugiat.",
+      "startTime": 1513327353351,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "work"
+      ],
+      "finishTime": 1513327863925
+    },
+    {
+      "id": "72240a2c-deda-4bc9-a414-85b67f5e95be",
+      "description": "Quos sed sapiente perferendis voluptas.",
+      "startTime": 1513325847579,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "important",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1513326858063
+    },
+    {
+      "id": "f00e4164-ea84-4af5-96da-a88f3caf4264",
+      "description": "Doloremque cumque quia consequatur magnam rerum rem.",
+      "startTime": 1513324799325,
+      "tags": [
+        "client2",
+        "Kiehn, Hermann and Kshlerin",
+        "tag1"
+      ],
+      "finishTime": 1513325328412
+    }
+  ]
+}
