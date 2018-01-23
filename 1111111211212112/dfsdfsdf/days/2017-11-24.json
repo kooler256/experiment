@@ -1,0 +1,102 @@
+{
+  "id": "day:2017-11-24",
+  "year": 2017,
+  "month": 11,
+  "day": 24,
+  "entries": [
+    {
+      "id": "22deffcc-26fc-476b-b652-be610c052ac9",
+      "description": "Sapiente quia ea consectetur suscipit velit sequi nisi.",
+      "startTime": 1514111203228,
+      "tags": [
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1514111754270
+    },
+    {
+      "id": "51eaab5a-230e-4530-99fb-8cf98fc3a1aa",
+      "description": "Eum facere incidunt est laboriosam aut tenetur laudantium.",
+      "startTime": 1514110073595,
+      "tags": [],
+      "finishTime": 1514110968587
+    },
+    {
+      "id": "be6ab8b8-a63c-4d34-8d15-372eda25739e",
+      "description": "Molestiae explicabo vel soluta est expedita voluptatem tenetur et amet.",
+      "startTime": 1514109307402,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "tag2",
+        "client1"
+      ],
+      "finishTime": 1514109751873
+    },
+    {
+      "id": "7bd5d5ee-f062-4447-b1dc-ac5b148cd093",
+      "description": "Voluptatem nisi quae voluptatem commodi et id ipsam rerum.",
+      "startTime": 1514108213581,
+      "tags": [
+        "Larson - Schiller",
+        "Bahringer Group",
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1514108736507
+    },
+    {
+      "id": "c49e3056-6b73-468a-b7bd-ba1abc3b9a2f",
+      "description": "Suscipit ut rerum.",
+      "startTime": 1514107095946,
+      "tags": [],
+      "finishTime": 1514107820234
+    },
+    {
+      "id": "cb890e1b-36ad-4503-b454-d986d23c6be9",
+      "description": "At quia libero quia hic.",
+      "startTime": 1514105769902,
+      "tags": [
+        "tag3"
+      ],
+      "finishTime": 1514106939056
+    },
+    {
+      "id": "98d7ee15-156f-40cf-8399-6dd4866ade13",
+      "description": "Culpa explicabo repudiandae sed earum maxime sequi tempora.",
+      "startTime": 1514105504988,
+      "tags": [
+        "tag1",
+        "client1",
+        "work"
+      ],
+      "finishTime": 1514105556791
+    },
+    {
+      "id": "563050a0-8293-49e6-8c4d-05372e674ebf",
+      "description": "At incidunt ea.",
+      "startTime": 1514104596434,
+      "tags": [
+        "client2",
+        "Mertz, Block and Sauer",
+        "Larson - Schiller",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1514105109532
+    },
+    {
+      "id": "4f1e1fa9-5a6b-4651-8b48-53306722008f",
+      "description": "Aut eos reprehenderit officiis voluptate.",
+      "startTime": 1514103751772,
+      "tags": [
+        "Tremblay and Sons",
+        "client2"
+      ],
+      "finishTime": 1514104387673
+    },
+    {
+      "id": "f9223568-91e3-4131-b611-8bc0b4b0f0ef",
+      "description": "Qui ut ea ipsum aut officia minus delectus.",
+      "startTime": 1514102609901,
+      "tags": [],
+      "finishTime": 1514103286932
+    }
+  ]
+}
