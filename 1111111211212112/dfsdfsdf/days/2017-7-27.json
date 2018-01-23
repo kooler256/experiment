@@ -1,0 +1,50 @@
+{
+  "id": "day:2017-7-27",
+  "year": 2017,
+  "month": 7,
+  "day": 27,
+  "entries": [
+    {
+      "id": "b9569244-1291-44c4-89c0-ccc32f51a785",
+      "description": "Corrupti earum et eveniet ut ea nulla exercitationem nihil omnis.",
+      "startTime": 1503823285591,
+      "tags": [
+        "client1",
+        "tag1",
+        "Kiehn, Hermann and Kshlerin",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1503823435810
+    },
+    {
+      "id": "8bec4e37-aac9-4ee7-8d9a-25183c23c97d",
+      "description": "Id doloremque et illum quis.",
+      "startTime": 1503822397927,
+      "tags": [
+        "Heaney - Gutkowski",
+        "Mertz, Block and Sauer",
+        "tag1",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1503823030040
+    },
+    {
+      "id": "72cc9964-0b4e-415e-8e2f-3e669ca8f73f",
+      "description": "Et recusandae itaque.",
+      "startTime": 1503821985310,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Tremblay and Sons",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1503821985353
+    },
+    {
+      "id": "dbfb1f26-3f89-42e3-890b-6c00571dfcbb",
+      "description": "Ut fuga aut aliquid numquam repellat error.",
+      "startTime": 1503820802937,
+      "tags": [],
+      "finishTime": 1503821424758
+    }
+  ]
+}
