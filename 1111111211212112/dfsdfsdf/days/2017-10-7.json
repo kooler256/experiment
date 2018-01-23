@@ -5,16 +5,68 @@
   "day": 7,
   "entries": [
     {
-      "id": "5485a493-4bf6-4c3b-9eaf-2c86ca4bba5c",
-      "description": "Ipsa reiciendis pariatur tempora pariatur eos.",
-      "startTime": 1510028621965,
+      "id": "adc851ff-e3d7-4283-943a-aaf585fc0ea5",
+      "description": "Quia doloribus occaecati nemo et perspiciatis velit asperiores.",
+      "startTime": 1510047441554,
+      "tags": [
+        "tag3",
+        "client1",
+        "tag2"
+      ],
+      "finishTime": 1510047787656
+    },
+    {
+      "id": "674791ff-15aa-4e92-aad0-8b93e193b932",
+      "description": "Corrupti sunt nam rerum qui sit.",
+      "startTime": 1510046847968,
+      "tags": [],
+      "finishTime": 1510047303574
+    },
+    {
+      "id": "3f77c0e4-7c1f-463f-b0bd-613aad1f4902",
+      "description": "Temporibus corrupti accusantium quos cumque qui in alias nihil rerum.",
+      "startTime": 1510046112513,
+      "tags": [],
+      "finishTime": 1510046695762
+    },
+    {
+      "id": "c90ed968-ecc6-4a30-ad6f-7de3359c7dcb",
+      "description": "Quod odit quisquam.",
+      "startTime": 1510045193418,
+      "tags": [
+        "Kerluke and Sons",
+        "client1"
+      ],
+      "finishTime": 1510045691611
+    },
+    {
+      "id": "169a969c-5498-4ea6-a337-7ce92d267e6a",
+      "description": "Et iure qui beatae nam magnam quia occaecati nostrum.",
+      "startTime": 1510043982035,
       "tags": [
         "important",
-        "tag3",
-        "work",
-        "Hessel, Luettgen and Kub"
+        "Larson - Schiller",
+        "tag1",
+        "Tremblay and Sons"
       ],
-      "finishTime": 1510028771209
+      "finishTime": 1510044640981
+    },
+    {
+      "id": "b188a7b6-9a82-4ded-869e-ab492f87caf7",
+      "description": "Autem doloribus quibusdam.",
+      "startTime": 1510042723737,
+      "tags": [
+        "client2",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1510043571272
+    },
+    {
+      "id": "cc4c0d02-ab06-4773-91d2-c26d9872bfc4",
+      "description": "Harum sint nam inventore quia amet rerum.",
+      "startTime": 1510041820126,
+      "tags": [],
+      "finishTime": 1510042161127
     }
   ]
 }
