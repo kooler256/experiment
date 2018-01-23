@@ -1,0 +1,123 @@
+{
+  "id": "day:2017-8-28",
+  "year": 2017,
+  "month": 8,
+  "day": 28,
+  "entries": [
+    {
+      "id": "726ca4e4-ebde-4d9b-8e44-02eacb4f4db8",
+      "description": "Animi odio saepe nulla aliquid vel sit dolor.",
+      "startTime": 1506594736003,
+      "tags": [
+        "Tremblay and Sons",
+        "Larson - Schiller",
+        "Kiehn, Hermann and Kshlerin",
+        "client2"
+      ],
+      "finishTime": 1506595566745
+    },
+    {
+      "id": "5079d37e-ee68-433a-bec6-fe3547452317",
+      "description": "Numquam incidunt qui odit beatae.",
+      "startTime": 1506594169673,
+      "tags": [
+        "important",
+        "Heaney - Gutkowski",
+        "Kiehn, Hermann and Kshlerin",
+        "tag2"
+      ],
+      "finishTime": 1506594198876
+    },
+    {
+      "id": "3d816f20-62e6-425e-84af-e4b311385fcd",
+      "description": "Aut dolorum in neque voluptatum voluptas.",
+      "startTime": 1506592880747,
+      "tags": [
+        "client2"
+      ],
+      "finishTime": 1506593574639
+    },
+    {
+      "id": "05f98d0b-b3a1-49b9-9a73-f3eca1169610",
+      "description": "Ullam ut eveniet dolores.",
+      "startTime": 1506591574035,
+      "tags": [
+        "Sawayn LLC",
+        "Tremblay and Sons",
+        "Larson - Schiller",
+        "tag1"
+      ],
+      "finishTime": 1506592590597
+    },
+    {
+      "id": "eb4f9036-4d62-4fb6-be30-96ccb7e158ac",
+      "description": "Exercitationem ipsam nemo aut.",
+      "startTime": 1506590792468,
+      "tags": [
+        "Tremblay and Sons",
+        "work",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1506591003476
+    },
+    {
+      "id": "6cda73c1-1402-4017-aa77-a9c29952158f",
+      "description": "Corporis rerum omnis ut sequi necessitatibus quo possimus.",
+      "startTime": 1506589890604,
+      "tags": [
+        "tag2",
+        "tag3"
+      ],
+      "finishTime": 1506590400791
+    },
+    {
+      "id": "3656c923-76e6-477f-99f0-5f21d2f03bc8",
+      "description": "Alias est pariatur similique libero porro amet.",
+      "startTime": 1506588991166,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1506589577405
+    },
+    {
+      "id": "45e28f98-d12e-4de9-bb85-a42f1ee3d8b8",
+      "description": "Occaecati nostrum molestiae sit suscipit quos.",
+      "startTime": 1506588583929,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1506588746244
+    },
+    {
+      "id": "7c17570c-cb42-493d-a714-99804b17da91",
+      "description": "Sint et officia beatae non amet.",
+      "startTime": 1506588065258,
+      "tags": [
+        "client2"
+      ],
+      "finishTime": 1506588152798
+    },
+    {
+      "id": "5dfa38d7-03ad-4bf0-ac80-d5a5d2206aa1",
+      "description": "Odio incidunt explicabo voluptatum.",
+      "startTime": 1506587497473,
+      "tags": [],
+      "finishTime": 1506587562042
+    },
+    {
+      "id": "1d3c7d79-95c7-4bc4-84a8-a1dee57219ec",
+      "description": "Dolores veritatis necessitatibus debitis aperiam quae vel qui consequatur.",
+      "startTime": 1506586335654,
+      "tags": [],
+      "finishTime": 1506587231002
+    },
+    {
+      "id": "2f7c417d-3756-4706-a288-21e69fcc45ec",
+      "description": "Fugit voluptate consectetur ut omnis quae.",
+      "startTime": 1506585818697,
+      "tags": [],
+      "finishTime": 1506585960736
+    }
+  ]
+}
