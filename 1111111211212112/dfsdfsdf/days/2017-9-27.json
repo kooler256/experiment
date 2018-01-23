@@ -1,0 +1,61 @@
+{
+  "id": "day:2017-9-27",
+  "year": 2017,
+  "month": 9,
+  "day": 27,
+  "entries": [
+    {
+      "id": "9d5f1e15-5b34-4967-b76d-9505c0ed7542",
+      "description": "Temporibus a sit aut ab odit eos perspiciatis fuga.",
+      "startTime": 1509094065960,
+      "tags": [
+        "work",
+        "tag1",
+        "tag3",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1509094285422
+    },
+    {
+      "id": "960ca1bd-719d-4e6c-8e69-24c8f4e3a5e3",
+      "description": "Repellat delectus temporibus amet qui sit consequatur fuga.",
+      "startTime": 1509093788967,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1509093910135
+    },
+    {
+      "id": "fd76d1a9-3a4d-4882-942f-a94b0321b488",
+      "description": "Architecto error non.",
+      "startTime": 1509092837022,
+      "tags": [
+        "Bahringer Group",
+        "tag2"
+      ],
+      "finishTime": 1509093690918
+    },
+    {
+      "id": "44d9fb28-c2b9-488f-a894-b2fedd956f61",
+      "description": "Beatae asperiores tenetur voluptatem.",
+      "startTime": 1509091880915,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Sawayn LLC",
+        "Mertz, Block and Sauer",
+        "tag3"
+      ],
+      "finishTime": 1509092802541
+    },
+    {
+      "id": "8af75177-2237-4513-97a6-3f988d56d5a6",
+      "description": "Quo tenetur doloremque quis quia eos impedit.",
+      "startTime": 1509091044380,
+      "tags": [
+        "tag1",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1509091350587
+    }
+  ]
+}
