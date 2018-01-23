@@ -1,0 +1,132 @@
+{
+  "id": "day:2017-10-13",
+  "year": 2017,
+  "month": 10,
+  "day": 13,
+  "entries": [
+    {
+      "id": "08d9afcb-cb42-4b9b-b1e1-f34ad121c58c",
+      "description": "Qui natus nesciunt cupiditate veritatis.",
+      "startTime": 1510567548425,
+      "tags": [
+        "Tremblay and Sons",
+        "Sawayn LLC",
+        "Kerluke and Sons",
+        "tag3"
+      ],
+      "finishTime": 1510567595863
+    },
+    {
+      "id": "b914bf84-5bf9-4cf6-a9f9-7d81cdfc3246",
+      "description": "Iure dolore enim.",
+      "startTime": 1510566713912,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "Keebler, Hermann and Hodkiewicz",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1510567037661
+    },
+    {
+      "id": "24f9114a-4838-41c2-b7bc-a77a88946c12",
+      "description": "Hic culpa ipsam illum sint ipsam enim non.",
+      "startTime": 1510566073062,
+      "tags": [
+        "Bahringer Group",
+        "tag1",
+        "tag2"
+      ],
+      "finishTime": 1510566241477
+    },
+    {
+      "id": "ac9fa022-0b12-4004-8447-c0810c90d640",
+      "description": "Iusto tempore et culpa est officiis eaque et iure molestiae.",
+      "startTime": 1510565959479,
+      "tags": [
+        "Sawayn LLC",
+        "important",
+        "work"
+      ],
+      "finishTime": 1510565974777
+    },
+    {
+      "id": "4790dd36-5cac-4675-8f15-063615f0f58e",
+      "description": "Optio ut voluptas excepturi occaecati beatae.",
+      "startTime": 1510565497416,
+      "tags": [
+        "Kerluke and Sons",
+        "Mertz, Block and Sauer",
+        "Sawayn LLC",
+        "work"
+      ],
+      "finishTime": 1510565915029
+    },
+    {
+      "id": "3ef282b5-4603-42f8-a380-987b955fcf5a",
+      "description": "Hic omnis quis voluptatem dicta.",
+      "startTime": 1510564782648,
+      "tags": [
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1510565320691
+    },
+    {
+      "id": "b433ea58-3eb9-4837-86bd-8138aac10810",
+      "description": "Et praesentium inventore.",
+      "startTime": 1510563953366,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1510564205533
+    },
+    {
+      "id": "2621b47e-18c4-4ff7-ac80-e1f9e12662be",
+      "description": "Quia nam qui exercitationem occaecati rerum labore.",
+      "startTime": 1510563144385,
+      "tags": [
+        "Kiehn, Hermann and Kshlerin",
+        "important",
+        "Tremblay and Sons",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1510563537971
+    },
+    {
+      "id": "3f61bdf7-407f-466f-b6f5-ed1cf688961b",
+      "description": "Inventore officia officia laboriosam aut temporibus.",
+      "startTime": 1510562393673,
+      "tags": [
+        "Kerluke and Sons",
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1510562755695
+    },
+    {
+      "id": "f58bcbb3-78aa-4da6-a021-ddb9ac92a3e3",
+      "description": "Recusandae earum sunt molestiae voluptatibus recusandae nihil quod.",
+      "startTime": 1510561998335,
+      "tags": [
+        "client2",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1510562162862
+    },
+    {
+      "id": "e842e2e8-9718-4d05-b280-60f60f41ce0c",
+      "description": "Provident ut ab nobis nisi eos nihil voluptatum id qui.",
+      "startTime": 1510561317265,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Kiehn, Hermann and Kshlerin"
+      ],
+      "finishTime": 1510561750348
+    },
+    {
+      "id": "b638cd66-27d0-4047-bfc2-93d4744b12ce",
+      "description": "Commodi autem ut dolores sint.",
+      "startTime": 1510560123112,
+      "tags": [],
+      "finishTime": 1510561174290
+    }
+  ]
+}
