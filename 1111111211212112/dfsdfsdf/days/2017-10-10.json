@@ -1,0 +1,65 @@
+{
+  "id": "day:2017-10-10",
+  "year": 2017,
+  "month": 10,
+  "day": 10,
+  "entries": [
+    {
+      "id": "188d4c04-6395-418b-930d-98a9f315019d",
+      "description": "Voluptates hic illum laborum fuga.",
+      "startTime": 1510305456790,
+      "tags": [],
+      "finishTime": 1510306302109
+    },
+    {
+      "id": "68e598e0-7cf2-4514-b74d-6490bf6f1ebc",
+      "description": "Eaque deleniti et tempora alias.",
+      "startTime": 1510305106857,
+      "tags": [
+        "Bahringer Group",
+        "work",
+        "client1",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1510305343581
+    },
+    {
+      "id": "802a54c2-24d3-47ea-8f47-cf52d7ea006a",
+      "description": "Aut reiciendis ex odit deserunt aut voluptas.",
+      "startTime": 1510303590252,
+      "tags": [
+        "work",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1510304554712
+    },
+    {
+      "id": "43ea3511-140c-4697-94d6-16b67875edcd",
+      "description": "Numquam voluptate voluptatum est quisquam iste.",
+      "startTime": 1510302339119,
+      "tags": [
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1510303363071
+    },
+    {
+      "id": "cdd59fb5-3caf-47a5-9f06-2da7e560f9e8",
+      "description": "Rerum vero quis in sapiente aperiam.",
+      "startTime": 1510300783599,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1510301941188
+    },
+    {
+      "id": "8dfe62b5-70ee-443c-a92d-60dcd9be3241",
+      "description": "Ut rerum aspernatur quis accusantium libero recusandae.",
+      "startTime": 1510300475269,
+      "tags": [
+        "client2",
+        "tag2"
+      ],
+      "finishTime": 1510300649554
+    }
+  ]
+}
