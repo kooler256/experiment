@@ -1,0 +1,134 @@
+{
+  "id": "day:2017-9-9",
+  "year": 2017,
+  "month": 9,
+  "day": 9,
+  "entries": [
+    {
+      "id": "717050a3-d108-4b17-acca-7407050ebd8e",
+      "description": "Inventore illum est labore perspiciatis mollitia debitis.",
+      "startTime": 1507548124637,
+      "tags": [
+        "Larson - Schiller",
+        "tag2",
+        "Tremblay and Sons",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1507548732406
+    },
+    {
+      "id": "5eba6610-aa1d-4b5c-a132-8a55c2d2ee63",
+      "description": "Nemo numquam occaecati soluta molestiae praesentium velit voluptatem odit.",
+      "startTime": 1507547859335,
+      "tags": [
+        "client2",
+        "Tremblay and Sons",
+        "Bahringer Group",
+        "important"
+      ],
+      "finishTime": 1507547877693
+    },
+    {
+      "id": "0ba5b053-3e73-4d71-8c0b-9ad031d86b0a",
+      "description": "Perspiciatis eligendi perspiciatis.",
+      "startTime": 1507546154463,
+      "tags": [],
+      "finishTime": 1507547287427
+    },
+    {
+      "id": "a7c34b37-e74e-4a70-8068-146ab405ca35",
+      "description": "Molestias voluptas dolorum qui et amet blanditiis accusamus voluptatem nemo.",
+      "startTime": 1507545013057,
+      "tags": [
+        "tag2",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1507545925799
+    },
+    {
+      "id": "fcc2888c-a005-4904-890f-80b3cd9273c9",
+      "description": "Unde aut animi accusamus ipsum labore placeat.",
+      "startTime": 1507543650470,
+      "tags": [
+        "important"
+      ],
+      "finishTime": 1507544729080
+    },
+    {
+      "id": "47b02b04-c8f1-4fcb-b8cb-b738dad4226d",
+      "description": "Adipisci et fuga ut et quibusdam reprehenderit aperiam.",
+      "startTime": 1507542889352,
+      "tags": [
+        "tag2",
+        "Mertz, Block and Sauer",
+        "Bahringer Group",
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1507543606480
+    },
+    {
+      "id": "62c81c40-3fa3-4e14-bd54-7f98fcc65419",
+      "description": "Ab sed est et quas occaecati nihil cupiditate doloremque.",
+      "startTime": 1507542060143,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1507542700882
+    },
+    {
+      "id": "70962125-5a19-4d9e-a7db-671f735e74ac",
+      "description": "Esse ipsum error sit maiores tenetur vel laudantium recusandae ipsum.",
+      "startTime": 1507540605844,
+      "tags": [
+        "Heaney - Gutkowski",
+        "tag1",
+        "Mertz, Block and Sauer",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1507541580362
+    },
+    {
+      "id": "743a3ce7-8673-4f1e-b061-b35e72e94cdd",
+      "description": "Porro unde adipisci rerum.",
+      "startTime": 1507540230436,
+      "tags": [
+        "Sawayn LLC",
+        "Bahringer Group",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1507540326518
+    },
+    {
+      "id": "d7a96b56-9f0c-4feb-8915-b75c2aa71e22",
+      "description": "Iusto eum doloremque ullam quia.",
+      "startTime": 1507539030685,
+      "tags": [],
+      "finishTime": 1507540169530
+    },
+    {
+      "id": "81e53e3e-304a-4c4e-8fb2-4785e7c193ee",
+      "description": "Sit temporibus atque eos quo labore.",
+      "startTime": 1507538224489,
+      "tags": [],
+      "finishTime": 1507538909967
+    },
+    {
+      "id": "a4d5709a-a5b0-4565-bc94-a07f5136240f",
+      "description": "Quia cum debitis non accusantium blanditiis delectus ex.",
+      "startTime": 1507536744360,
+      "tags": [
+        "important",
+        "client2",
+        "work"
+      ],
+      "finishTime": 1507537786993
+    },
+    {
+      "id": "4dd29690-fdd6-4133-876a-ce43ac12474b",
+      "description": "Quia dolores sint et reiciendis eveniet eos suscipit rerum architecto.",
+      "startTime": 1507535779846,
+      "tags": [],
+      "finishTime": 1507536681915
+    }
+  ]
+}
