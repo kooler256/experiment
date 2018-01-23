@@ -1,0 +1,80 @@
+{
+  "id": "day:2017-8-5",
+  "year": 2017,
+  "month": 8,
+  "day": 5,
+  "entries": [
+    {
+      "id": "cf25b507-1f05-4c84-89b8-255d03bdc55e",
+      "description": "Aspernatur qui sequi voluptatibus itaque corporis.",
+      "startTime": 1504602240086,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "work",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1504602578420
+    },
+    {
+      "id": "bc07c9c5-42f6-4fe4-bee4-07ff8d9faf0f",
+      "description": "Repudiandae illum eum consequatur cumque et distinctio pariatur ea ratione.",
+      "startTime": 1504601706549,
+      "tags": [
+        "client2",
+        "tag3",
+        "client1",
+        "work"
+      ],
+      "finishTime": 1504601773170
+    },
+    {
+      "id": "90e25a42-878d-41b0-8259-08dbd0c9b32e",
+      "description": "Accusamus qui est.",
+      "startTime": 1504600486351,
+      "tags": [
+        "client2",
+        "tag3"
+      ],
+      "finishTime": 1504601446412
+    },
+    {
+      "id": "a7ba5a2d-a7de-4100-b0c2-e366f7e44b6e",
+      "description": "Aut illum qui quia repellat veniam amet necessitatibus quis enim.",
+      "startTime": 1504599570295,
+      "tags": [
+        "Tremblay and Sons",
+        "Heaney, Lockman and Klein"
+      ],
+      "finishTime": 1504599925962
+    },
+    {
+      "id": "3cd2c9d4-c48c-4d87-b2a7-9cd32538a34c",
+      "description": "Et est expedita maiores modi ratione.",
+      "startTime": 1504599206708,
+      "tags": [
+        "Larson - Schiller",
+        "tag3"
+      ],
+      "finishTime": 1504599443374
+    },
+    {
+      "id": "22718673-d3c9-412e-a204-d41995a1788d",
+      "description": "Voluptates enim explicabo facere dicta qui molestias minus ut.",
+      "startTime": 1504598818085,
+      "tags": [
+        "Heaney - Gutkowski"
+      ],
+      "finishTime": 1504599161155
+    },
+    {
+      "id": "111e514b-2b06-41ec-a148-85b2bc1d37ef",
+      "description": "Earum non cum ullam et quos consequatur.",
+      "startTime": 1504598259156,
+      "tags": [
+        "tag3",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1504598526995
+    }
+  ]
+}
