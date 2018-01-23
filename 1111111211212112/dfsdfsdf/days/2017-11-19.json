@@ -5,11 +5,73 @@
   "day": 19,
   "entries": [
     {
-      "id": "5cfca78e-17bf-4125-85f9-54878e574be7",
-      "description": "Omnis minima et et ad quia et illo at dolores.",
-      "startTime": 1513653823529,
+      "id": "16850d70-ec4a-416b-9aa0-f1fab41018f0",
+      "description": "Ipsum sapiente et perspiciatis.",
+      "startTime": 1513675254123,
+      "tags": [
+        "tag1",
+        "work"
+      ],
+      "finishTime": 1513676241373
+    },
+    {
+      "id": "3cecab10-a8cf-4eb3-a5f9-3e4d1ff6ce14",
+      "description": "Harum sed aut et velit.",
+      "startTime": 1513673581895,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "Keebler, Hermann and Hodkiewicz"
+      ],
+      "finishTime": 1513674703925
+    },
+    {
+      "id": "bfa938cf-5e91-4872-8f62-5ad3fa1802eb",
+      "description": "Veritatis necessitatibus aut magni est sit.",
+      "startTime": 1513672804519,
+      "tags": [
+        "tag3",
+        "Mertz, Block and Sauer",
+        "tag2"
+      ],
+      "finishTime": 1513673162339
+    },
+    {
+      "id": "88c5bc44-48e0-4e7d-8ad0-082220131ab0",
+      "description": "Assumenda omnis quos ut aut.",
+      "startTime": 1513672338906,
+      "tags": [
+        "Sawayn LLC",
+        "Kerluke and Sons",
+        "Bahringer Group",
+        "Tremblay and Sons"
+      ],
+      "finishTime": 1513672401132
+    },
+    {
+      "id": "9b128937-e183-4c54-85bc-1abb4fe424b5",
+      "description": "Quidem distinctio optio maxime impedit distinctio tempore perspiciatis.",
+      "startTime": 1513671740715,
+      "tags": [
+        "important"
+      ],
+      "finishTime": 1513672101847
+    },
+    {
+      "id": "540c8f3b-4fea-4da2-992c-98da8a640fb5",
+      "description": "Non sed debitis quae neque et dolores qui repellendus.",
+      "startTime": 1513671518031,
+      "tags": [
+        "client2",
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1513671591175
+    },
+    {
+      "id": "7362a889-d00f-4cea-b0cc-8602c0031714",
+      "description": "Harum eaque autem exercitationem dicta et voluptatem.",
+      "startTime": 1513670109113,
       "tags": [],
-      "finishTime": 1513654409000
+      "finishTime": 1513671122102
     }
   ]
 }
