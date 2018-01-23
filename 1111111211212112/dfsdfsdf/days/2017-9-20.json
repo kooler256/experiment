@@ -1,0 +1,127 @@
+{
+  "id": "day:2017-9-20",
+  "year": 2017,
+  "month": 9,
+  "day": 20,
+  "entries": [
+    {
+      "id": "f8edd7a1-b124-4c9c-beb2-10748f0661b0",
+      "description": "Illo et commodi.",
+      "startTime": 1508496926958,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "important",
+        "Kiehn, Hermann and Kshlerin",
+        "Larson - Schiller"
+      ],
+      "finishTime": 1508497543910
+    },
+    {
+      "id": "7dc2c7cd-d465-4999-b43b-662e58eb1faf",
+      "description": "Recusandae assumenda reiciendis.",
+      "startTime": 1508496335328,
+      "tags": [
+        "Larson - Schiller",
+        "Keebler, Hermann and Hodkiewicz",
+        "Sawayn LLC"
+      ],
+      "finishTime": 1508496842063
+    },
+    {
+      "id": "63a342cb-00d1-42e6-aded-0664b161ca89",
+      "description": "Molestias soluta assumenda accusantium rerum tempora ex.",
+      "startTime": 1508495607180,
+      "tags": [
+        "Bahringer Group",
+        "work"
+      ],
+      "finishTime": 1508495899518
+    },
+    {
+      "id": "8f288b09-9d3b-40de-9ecf-f65543f7224c",
+      "description": "Quo voluptas rerum.",
+      "startTime": 1508494274634,
+      "tags": [
+        "Larson - Schiller"
+      ],
+      "finishTime": 1508495442640
+    },
+    {
+      "id": "7fdf55d8-8e3f-4024-9dd6-a9ebb8fa2a4b",
+      "description": "Et voluptate voluptatem dolores est tempore rerum omnis qui praesentium.",
+      "startTime": 1508493206448,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "tag3",
+        "Kiehn, Hermann and Kshlerin",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1508494031447
+    },
+    {
+      "id": "703df2a1-b0c2-4ba3-9c6e-8482fd545102",
+      "description": "Laboriosam nobis ipsam consequatur quis facere non quis sequi.",
+      "startTime": 1508492231492,
+      "tags": [
+        "Bahringer Group",
+        "Kiehn, Hermann and Kshlerin",
+        "work"
+      ],
+      "finishTime": 1508492986676
+    },
+    {
+      "id": "b9aed9f1-6685-4fef-bcb8-1266bb2f2846",
+      "description": "Autem fugit quis.",
+      "startTime": 1508491066027,
+      "tags": [
+        "Larson - Schiller",
+        "Tremblay and Sons",
+        "tag3",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1508491695593
+    },
+    {
+      "id": "c40a0d62-cd5f-442d-a941-9ba5285a9be4",
+      "description": "Saepe autem rerum impedit.",
+      "startTime": 1508490542506,
+      "tags": [
+        "Bahringer Group"
+      ],
+      "finishTime": 1508491001873
+    },
+    {
+      "id": "6ef4f484-89b5-417b-9445-94a2f81592e7",
+      "description": "Sunt mollitia voluptatum similique architecto.",
+      "startTime": 1508488970620,
+      "tags": [
+        "Mertz, Block and Sauer"
+      ],
+      "finishTime": 1508490029070
+    },
+    {
+      "id": "19894800-3384-42df-b29f-0bbccbc8dd04",
+      "description": "At molestiae ullam reprehenderit qui.",
+      "startTime": 1508487360627,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "client1",
+        "Larson - Schiller",
+        "Bahringer Group"
+      ],
+      "finishTime": 1508488380398
+    },
+    {
+      "id": "6a1c64b6-9d4c-4749-8def-61ba85814af8",
+      "description": "Nulla molestias consequatur voluptates ut doloremque.",
+      "startTime": 1508486471252,
+      "tags": [
+        "client2",
+        "Keebler, Hermann and Hodkiewicz",
+        "Heaney, Lockman and Klein",
+        "client1"
+      ],
+      "finishTime": 1508487266706
+    }
+  ]
+}
