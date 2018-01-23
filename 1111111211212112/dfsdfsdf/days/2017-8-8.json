@@ -1,0 +1,99 @@
+{
+  "id": "day:2017-8-8",
+  "year": 2017,
+  "month": 8,
+  "day": 8,
+  "entries": [
+    {
+      "id": "888643aa-1c50-4820-b6e6-a64abccb073f",
+      "description": "Omnis voluptatem beatae quo minus dignissimos unde.",
+      "startTime": 1504865376878,
+      "tags": [
+        "client1",
+        "tag3",
+        "Kerluke and Sons"
+      ],
+      "finishTime": 1504866428151
+    },
+    {
+      "id": "22fa6c74-16f3-42a4-b0bd-9bdb8a565854",
+      "description": "Laboriosam nisi sint omnis perspiciatis.",
+      "startTime": 1504864626296,
+      "tags": [],
+      "finishTime": 1504864784312
+    },
+    {
+      "id": "f8e27c36-9a6b-4dfb-b765-f1b119b3b469",
+      "description": "Assumenda voluptates voluptatem.",
+      "startTime": 1504864063373,
+      "tags": [
+        "Sawayn LLC",
+        "important",
+        "Heaney, Lockman and Klein",
+        "client2"
+      ],
+      "finishTime": 1504864260548
+    },
+    {
+      "id": "a8496884-b8db-4bfa-9083-938ab66b5a94",
+      "description": "Maiores magnam ea at optio commodi aperiam incidunt qui sint.",
+      "startTime": 1504862995078,
+      "tags": [
+        "Heaney, Lockman and Klein",
+        "Larson - Schiller",
+        "tag2"
+      ],
+      "finishTime": 1504863586874
+    },
+    {
+      "id": "5e6a4847-c031-4bda-9e25-d95f8eff8f91",
+      "description": "Assumenda reprehenderit voluptates.",
+      "startTime": 1504862215838,
+      "tags": [
+        "Keebler, Hermann and Hodkiewicz",
+        "Tremblay and Sons",
+        "client1"
+      ],
+      "finishTime": 1504862528664
+    },
+    {
+      "id": "61198603-818f-4eeb-b952-92f6952969f5",
+      "description": "Facilis id occaecati nesciunt temporibus aut quaerat nisi et totam.",
+      "startTime": 1504861935080,
+      "tags": [
+        "client2",
+        "tag2",
+        "client1"
+      ],
+      "finishTime": 1504862074017
+    },
+    {
+      "id": "8eb3b6cd-e5ae-40f7-84b2-7442c30dbd96",
+      "description": "Sapiente vitae sint rem quam repellat recusandae.",
+      "startTime": 1504860397010,
+      "tags": [
+        "Mertz, Block and Sauer",
+        "important"
+      ],
+      "finishTime": 1504861567954
+    },
+    {
+      "id": "b59b0c4c-3c65-4fc5-9cea-d66d5f41f959",
+      "description": "Eos dolorem autem.",
+      "startTime": 1504859113094,
+      "tags": [],
+      "finishTime": 1504859937452
+    },
+    {
+      "id": "4d7032d5-32d2-40e9-8ffe-86674137dd94",
+      "description": "Et possimus quia dolorum.",
+      "startTime": 1504857796638,
+      "tags": [
+        "tag2",
+        "Tremblay and Sons",
+        "client1"
+      ],
+      "finishTime": 1504858885225
+    }
+  ]
+}
