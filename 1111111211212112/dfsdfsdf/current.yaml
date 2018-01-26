@@ -1,16 +1,26 @@
 [
   {
-    "id": "8ac71954-315d-44a2-ba88-5ba0089a0738",
+    "id": "bfb915c2-306e-4778-8996-95da1952dbc2",
     "description": "",
-    "startTime": 1516985860171,
+    "startTime": 1516985895664,
     "tags": [],
     "finishTime": null
+  },
+  {
+    "id": "8ac71954-315d-44a2-ba88-5ba0089a0738",
+    "description": "cool this is a test",
+    "startTime": 1516985860171,
+    "tags": [],
+    "finishTime": 1516985892688
   },
   {
     "id": "10d53a37-619a-49a1-bacc-013c69cb68cc",
     "description": "this is a mega test",
     "startTime": 1516985829926,
-    "tags": [],
+    "tags": [
+      "cool",
+      "this is test"
+    ],
     "finishTime": 1516985858091
   },
   {
