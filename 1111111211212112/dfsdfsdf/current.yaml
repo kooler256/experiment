@@ -1,10 +1,17 @@
 [
   {
+    "id": "0d87c234-c3ba-4dc3-a515-34f2685697d3",
+    "description": "",
+    "startTime": 1516985561259,
+    "tags": [],
+    "finishTime": null
+  },
+  {
     "id": "8aad81af-60d7-4493-802e-b854c34ac400",
     "description": "",
     "startTime": 1516985548929,
     "tags": [],
-    "finishTime": null
+    "finishTime": 1516985560189
   },
   {
     "id": "7a93f41f-f11b-4b91-bae8-2205097948e7",
